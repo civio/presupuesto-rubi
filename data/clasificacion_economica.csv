@@ -111,6 +111,7 @@ I,3,9,9,Otros ingresos diversos
 I,4,,,Transferencia corrientes
 I,4,,,Transferencias corrientes
 I,4,0,,De la Administración General de la Entidad Local
+I,4,0,0,De la Administración General de la Entidad Local
 I,4,1,,De organismos autónomos de la Entidad Local
 I,4,2,,De la Administración del Estado
 I,4,2,0,De la Administración General del Estado
@@ -137,6 +138,7 @@ I,4,6,7,De consorcios
 I,4,6,8,De Entidades Locales menores
 I,4,7,,De empresas privadas
 I,4,8,,De familias e instituciones sin fines de lucro
+I,4,8,9,De familias e instituciones sin fines de lucro
 I,4,9,,Del exterior
 I,4,9,0,Del Fondo Social Europeo
 I,4,9,1,Del Fondo de Desarrollo Regional
@@ -165,6 +167,7 @@ I,5,3,1,De organismos autónomos y agencias
 I,5,3,4,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos"
 I,5,3,7,De empresas privadas
 I,5,4,,Rentas de bienes inmuebles
+I,5,4,0,Rentas de bienes inmuebles
 I,5,4,1,Arrendamientos de fincas urbanas
 I,5,4,2,Arrendamientos de fincas rústicas
 I,5,4,4,Censos
@@ -471,6 +474,7 @@ G,7,6,6,A entidades que agrupen municipios
 G,7,6,7,A consorcios
 G,7,6,8,A Entidades Locales menores
 G,7,7,,A empresas privadas
+G,7,7,0,A empresas privadas
 G,7,8,,A familias e instituciones sin fines de lucro
 G,7,8,1,A familias e instituciones sin fines de lucro
 G,7,9,,Al exterior
