@@ -1,0 +1,604 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-12 17:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: presupuesto-mostoles/templates/shared/social_sharing.html:4
+#: templates/base.html:4 templates/shared/social_sharing.html:4
+#: templates/tax_receipt/index.html:18
+msgid "Presupuestos del Gobierno de Aragón"
+msgstr "Pressupostos del Ajuntament de Rubí"
+
+#: presupuesto-rubi/templates/budgets/budgets_intro.html:5
+#: templates/budgets/budgets_intro.html:5
+msgid "La recaudación"
+msgstr "La recaptació"
+
+#: presupuesto-rubi/templates/budgets/budgets_intro.html:6
+msgid ""
+"Se realiza a través de <b>impuestos directos</b> -como el IRPF y el impuesto "
+"de sociedades- y de <b>impuestos indirectos</b> -el IVA e impuestos sobre el "
+"tabaco, el alcohol o la gasolina"
+msgstr ""
+"Es realitza a través <b>d'impostos directes</b> -com l'IRPF i l'impost de "
+"societats- i <b>d'impostos indirectes</b> -l'IVA i impostos sobre el tabac, "
+"l'alcohol o la gasolina"
+
+#: presupuesto-rubi/templates/budgets/budgets_intro.html:11
+#: templates/budgets/budgets_intro.html:11
+msgid "¿Cómo se reparte?"
+msgstr "Com es reparteix?"
+
+#: presupuesto-rubi/templates/budgets/budgets_intro.html:12
+msgid ""
+"Una parte del dinero recaudado se queda en la <b>Administración General del "
+"Estado</b>, mientras que otra parte se transfiere a las <b>comunidades "
+"autónomas</b> y a las <b>entidades locales</b>"
+msgstr ""
+"Una part dels diners recaptats es queda en <b>l'Administració General de "
+"l'Estat</b>, mentre que una altra part es transfereix a les <b>comunitats "
+"autònomes</b> i a les <b>entitats locals</b>"
+
+#: presupuesto-rubi/templates/budgets/budgets_intro.html:17
+#: templates/budgets/budgets_intro.html:17
+msgid "¿En qué se emplea?"
+msgstr "En què es empra?"
+
+#: presupuesto-rubi/templates/budgets/budgets_intro.html:18
+msgid ""
+"Las <b>administraciones</b> utilizan el dinero recaudado, junto con otras "
+"fuentes de financiación como la deuda, para <b>mantener los servicios "
+"públicos</b> y la estructura del Estados"
+msgstr ""
+"Les <b>administracions</b> utilitzen els diners recaptats, juntament amb "
+"altres fonts de finançament com el deute, per <b>mantenir els serveis "
+"públics</b> i l'estructura del Estats"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:3
+#: templates/shared/data_sources.html:3
+msgid "Fuentes de datos"
+msgstr "Fuentes de dades"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:7
+msgid "Datos presupuestarios"
+msgstr "Dades pressupostàries"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:7
+#: presupuesto-rubi/templates/shared/footer.html:15
+#: presupuesto-rubi/templates/shared/header.html:5
+#: presupuesto-rubi/templates/shared/meta.html:3
+msgid "Ayuntamiento de Rubí"
+msgstr "Ajuntament de Rubí"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:8
+msgid "Datos de población"
+msgstr "Dades de població"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:8
+#: presupuesto-rubi/templates/shared/data_sources.html:9
+msgid "Instituto Nacional de Estadística (INE)"
+msgstr "Institut Nacional d'Estadística (INE)"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:9
+msgid "Datos de inflación (Medias anuales de IPC para Cataluña)"
+msgstr "Dades d'inflació (Mitjanes anuals d'IPC para Catalunya)"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:12
+#: templates/shared/data_sources.html:12
+msgid "Nota"
+msgstr "Nota"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:14
+msgid ""
+"Los ingresos y gastos mostrados incluyen únicamente al Ayuntamiento de Rubí"
+msgstr ""
+"Els ingressos i despeses mostrades inclouen únicament a l'Ajuntament de Rubí"
+
+#: presupuesto-rubi/templates/shared/data_sources.html:15
+msgid "El ajuste de la inflación se realiza a <b>1 de enero de"
+msgstr "L'ajust de la inflació es realitza a <b>1 de gener de"
+
+#: presupuesto-rubi/templates/shared/footer.html:7
+msgid "Un proyecto de"
+msgstr "Un projecte de"
+
+#: presupuesto-rubi/templates/shared/footer.html:9
+msgid "basado en el código de"
+msgstr "basat en el codi de"
+
+#: presupuesto-rubi/templates/shared/footer.html:16
+msgid "Aviso Legal"
+msgstr "Avís Legal"
+
+#: presupuesto-rubi/templates/shared/footer.html:17
+msgid "Política de Privacidad"
+msgstr "Política de Privacitat"
+
+#: presupuesto-rubi/templates/shared/header.html:7
+msgid "Ir a la home de Presupuestos de Rubí"
+msgstr "Anar a la home de Pressupostos de Rubí"
+
+#: presupuesto-rubi/templates/shared/header.html:8
+msgid "Presupuestos"
+msgstr "Pressupostos"
+
+#: presupuesto-rubi/templates/shared/header.html:40
+#: presupuesto-rubi/templates/shared/header.html:44
+msgid "Menú principal"
+msgstr "Menú principal"
+
+#: presupuesto-rubi/templates/shared/header.html:47
+#: presupuesto-rubi/templates/welcome/index.html:28
+#: presupuesto-rubi/templates/welcome/index.html:30
+#: templates/welcome/index.html:28
+msgid "Visión global"
+msgstr "Visió global"
+
+#: presupuesto-rubi/templates/shared/header.html:48
+#: presupuesto-rubi/templates/welcome/index.html:36
+#: templates/entities/compare.html:30 templates/entities/compare.html.py:45
+msgid "Políticas"
+msgstr "Polítiques"
+
+#: presupuesto-rubi/templates/shared/header.html:49
+msgid "¿Qué significa...?"
+msgstr "Què significa...?"
+
+#: presupuesto-rubi/templates/shared/meta.html:1
+msgid ""
+"Sitio web para mostrar información relativa a los Presupuestos del "
+"Ayuntamiento de Rubí"
+msgstr ""
+"Lloc web per mostrar informació relativa als Pressupostos de l'Ajuntament de "
+"Rubí"
+
+#: presupuesto-rubi/templates/shared/meta.html:2
+msgid "presupuestos, gastos, ingresos, ayuntamiento, Rubí"
+msgstr "pressupostos, despeses, ingressos, ajuntament, Rubí"
+
+#: presupuesto-rubi/templates/shared/meta.html:8
+msgid "Presupuestos de Rubí"
+msgstr "Pressupostos de Rubí"
+
+#: presupuesto-rubi/templates/shared/meta.html:9
+msgid "Información sobre los Presupuestos de Rubí"
+msgstr "Informació sobre els Pressupostos de Rubí"
+
+#: presupuesto-rubi/templates/welcome/index.html:8
+msgid "¿A qué destina el presupuesto el Ayuntamiento de Rubí?"
+msgstr "A què destina el pressupost l'Ajuntament de Rubí?"
+
+#: presupuesto-rubi/templates/welcome/index.html:9
+#: templates/welcome/index.html:9
+msgid ""
+"Te mostramos de un modo claro cómo se distribuye nuestro presupuesto. De "
+"dónde vienen los ingresos y a qué destinamos el gasto"
+msgstr ""
+"Et vam mostrar d'una manera clara com es distribueix el nostre pressupost. "
+"D'on vénen els ingressos i a què destinem el despesa"
+
+#: presupuesto-rubi/templates/welcome/index.html:14
+#: templates/welcome/index.html:14
+msgid "Algunos ejemplos"
+msgstr "Alguns exemples"
+
+#: presupuesto-rubi/templates/welcome/index.html:29
+msgid ""
+"Para que tengas una idea general de los ingresos y gastos del Ayuntamiento "
+"de Rubí."
+msgstr ""
+"Perquè tinguis una idea general dels ingressos i despeses de l'Ajuntament de "
+"Rubí"
+
+#: presupuesto-rubi/templates/welcome/index.html:34
+#: templates/welcome/index.html:34
+msgid "Políticas concretas"
+msgstr "Polítiques concretes"
+
+#: presupuesto-rubi/templates/welcome/index.html:35
+msgid ""
+"Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
+msgstr ""
+"Educació, protecció i benestar social, cultura... Quina àrea et interessa?"
+
+#: templates/base.html:47
+msgid "¿Buscas algo en concreto?"
+msgstr "Busques alguna cosa en concret?"
+
+#: templates/base.html:49 templates/terms/index.html:9
+msgid "Buscar"
+msgstr "Cerca"
+
+#: templates/budgets/budgets_indicators.html:1
+msgid "Indicadores presupuestarios en"
+msgstr "Indicadors pressupostaris en"
+
+#: templates/budgets/budgets_indicators.html:4
+msgid "Ingresos corrientes (capítulos I-V) - Gastos corrientes (capítulos I-V)"
+msgstr "Ingressos corrents (capítols I-V) - Despeses corrents (capítols I-V)"
+
+#: templates/budgets/budgets_indicators.html:4
+msgid "Ahorro bruto"
+msgstr "Estalvi brut"
+
+#: templates/budgets/budgets_indicators.html:5
+msgid "Ahorro bruto – capítulo IX de gastos (pasivos financieros)"
+msgstr "Estalvi brut – capítol IX de despeses (passius financers)"
+
+#: templates/budgets/budgets_indicators.html:5
+msgid "Ahorro neto"
+msgstr "Estalvi net"
+
+#: templates/budgets/budgets_indicators.html:6
+msgid ""
+"Ingresos no financieros (capítulos I-VII) – Gastos no financieros (capítulos "
+"I-VII)"
+msgstr "Ingressos no financers (capítols I-VII) – Despeses no financeres (capítols I-VII)"
+
+#: templates/budgets/budgets_indicators.html:6
+msgid "Capacidad/Necesidad de financiación"
+msgstr "Capacitat/Necessitat de finançament"
+
+#: templates/budgets/budgets_intro.html:6
+msgid ""
+"Se realiza a través de <b>impuestos directos</b> - como el IRPF y el "
+"impuesto de sociedades - y de <b>impuestos indirectos</b> - el IVA e "
+"impuestos sobre el tabaco, el alcohol o la gasolina -."
+msgstr "Es realitza a través <b>d'impostos directes</b> -com l'IRPF i l'impost de societats- i <b>d'impostos indirectes</b> -l'IVA i impostos sobre el tabac, l'alcohol o la gasolina"
+
+#: templates/budgets/budgets_intro.html:12
+msgid ""
+"Una parte del dinero recaudado se queda en la <b>Administración General del "
+"Estado</b>, mientras que otra parte se transfiere al <b>Gobierno de Aragón</"
+"b>"
+msgstr "Una part dels diners recaptats es queda en <b>l'Administració General de l'Estat</b>, mentre que una altra part es transfereix a les <b>comunitats autònomes</b> i a les <b>entitats locals</b>"
+
+#: templates/budgets/budgets_intro.html:18
+msgid ""
+"El <b>Gobierno de Aragón</b> utiliza el dinero recaudado, junto con otras "
+"fuentes de financiación como puede ser la deuda, para <b>mantener los "
+"servicios públicos</b>"
+msgstr "Les <b>administracions</b> utilitzen els diners recaptats, juntament amb altres fonts de finançament com el deute, per <b>mantenir els serveis públics</b> i l'estructura del Estats"
+
+#: templates/budgets/index.html:8
+msgid "El recorrido de mis impuestos"
+msgstr "El recorregut dels meus impostos"
+
+#: templates/budgets/index.html:12
+msgid "Ingresos y gastos en el Gobierno de Aragón"
+msgstr "Ingressos i despeses en el Ajuntament de Rubí"
+
+#: templates/budgets/index.html:17
+msgid "Elige año"
+msgstr "Tria any"
+
+#: templates/budgets/index.html:91 templates/welcome/index.html:36
+msgid "Gobierno de Aragón"
+msgstr "Ajuntament de Rubí"
+
+#: templates/entities/compare.html:14 templates/entities/show.html:14
+msgid "Volver a la lista de comarcas"
+msgstr "Tornar a la llista de comarques"
+
+#: templates/entities/compare.html:16 templates/entities/show.html:16
+msgid "Volver a la lista de municipios"
+msgstr "Tornar a la llista de municipis"
+
+#: templates/entities/compare.html:20
+msgid "Comparativa"
+msgstr "Comparativa"
+
+#: templates/entities/index.html:11 templates/welcome/index.html:37
+msgid "Comarcas"
+msgstr "Comarques"
+
+#: templates/entities/index.html:13 templates/welcome/index.html:38
+msgid "Municipios"
+msgstr "Municipis"
+
+#: templates/entities/index.html:26
+msgid "Habitantes"
+msgstr "Habitants"
+
+#: templates/entities/index.html:30
+msgid "Previsto"
+msgstr "Previst"
+
+#: templates/entities/index.html:31 templates/entities/show.html:99
+#: templates/policies/show.html:175
+msgid "Gastado"
+msgstr "Gastat"
+
+#: templates/entities/index.html:42 templates/entities/show.html:48
+msgid "Descarga la tabla de <b>Ingresos</b>"
+msgstr "Descarrega la taula de <b>Ingressos</b>"
+
+#: templates/entities/index.html:48 templates/entities/show.html:60
+msgid "Descarga la tabla de <b>Gastos</b>"
+msgstr "Descarrega la taula de <b>Despeses</b>"
+
+#: templates/entities/show.html:31
+msgid "Información no disponible"
+msgstr "Informació no disponible"
+
+#: templates/entities/show.html:54
+msgid "Descarga la tabla de <b>Gastos (Funcional)</b>"
+msgstr "Descarrega la taula de <b>Despeses (Funcional)</b>"
+
+#: templates/entities/show.html:99 templates/policies/show.html:175
+msgid "Ingresado"
+msgstr "Ingressat"
+
+#: templates/entities/totals.html:4 templates/entities/totals.html.py:10
+#: templates/policies/show.html:112
+msgid "Presupuestados"
+msgstr "Pressupostats"
+
+#: templates/payments/index.html:4
+msgid "Inversiones y pagos"
+msgstr "Inversions i pagaments"
+
+#: templates/payments/index.html:7 templates/search/index.html:240
+#: templates/search/index.html.py:244
+msgid "Pagos e inversiones"
+msgstr "Pagaments i inversions"
+
+#: templates/payments/index.html:10
+msgid "Menú de pagos e inversiones"
+msgstr "Menú de pagaments i inversions"
+
+#: templates/payments/index.html:12
+msgid "Por area"
+msgstr "Per àrea"
+
+#: templates/payments/index.html:13
+msgid "Por beneficiario"
+msgstr "Per beneficiari"
+
+#: templates/payments/index.html:30
+msgid "Total de inversiones y pagos"
+msgstr "Total d'inversions i pagaments"
+
+#: templates/policies/show.html:23
+msgid "Volver a Políticas"
+msgstr "Tornar a Polítiques"
+
+#: templates/policies/show.html:29
+msgid "Programas, entidades y conceptos"
+msgstr "Programes, entitats i conceptes"
+
+#: templates/policies/show.html:32
+msgid "Menú de programas, entidades y conceptos"
+msgstr "Menú de programes, entitats i conceptes"
+
+#: templates/search/index.html:4
+msgid "Resultados"
+msgstr "Resultats"
+
+#: templates/search/index.html:8
+msgid "Hemos encontrado"
+msgstr "Hem trobat"
+
+#: templates/search/index.html:9
+msgid "resultados</b> relacionados con"
+msgstr "resultats</b> relacionats amb"
+
+#: templates/search/index.html:14
+msgid "Mostrar resultados de"
+msgstr "Mostrar resultats de"
+
+#: templates/search/index.html:17 templates/search/index.html.py:19
+msgid "cualquier año"
+msgstr "qualsevol any"
+
+#: templates/search/index.html:38
+msgid "Términos"
+msgstr "Termes"
+
+#: templates/search/index.html:59 templates/search/index.html.py:63
+msgid "Comarcas y municipios"
+msgstr "Comarques i municipis"
+
+#: templates/search/index.html:87
+msgid "Políticas y Programas"
+msgstr "Polítiques i Programes"
+
+#: templates/search/index.html:91 templates/search/index.html.py:94
+msgid "Política / Programa"
+msgstr "Política / Programa"
+
+#: templates/search/index.html:130 templates/search/index.html.py:134
+msgid "Conceptos"
+msgstr "Conceptes"
+
+#: templates/search/index.html:137 templates/search/index.html.py:247
+msgid "Concepto"
+msgstr "Concepte"
+
+#: templates/search/index.html:138
+msgid "Gastos / Ingresos"
+msgstr "Despeses / Ingressos"
+
+#: templates/search/index.html:248
+msgid "Cantidad"
+msgstr "Quantitat"
+
+#: templates/shared/breakdown_tab.html:9 templates/shared/payment_tab.html:7
+msgid "Descarga la tabla de"
+msgstr "Descarrega la taula de"
+
+#: templates/shared/chromeframe.html:3
+msgid "¡Atención!"
+msgstr "Atenció!"
+
+#: templates/shared/chromeframe.html:4
+msgid ""
+"Este sitio web no va a funcionar correctamente en tu navegador. La "
+"visualización de datos de esta página requieren un navegador con funciones "
+"adicionales, como"
+msgstr ""
+"Aquest lloc web no va a funcionar correctament en el teu navegador. La "
+"visualització de dades d'aquesta pàgina requereixen un navegador amb "
+"funcions addicionals, com"
+
+#: templates/shared/chromeframe.html:4
+msgid "Si quieres continuar usando Internet Explorer"
+msgstr "Si vols continuar usant Internet Explorer"
+
+#: templates/shared/chromeframe.html:4
+msgid "puedes instalar el plugin de Google Chrome Frame"
+msgstr "pots instal·lar el plugin de Google Chrome Frame"
+
+#: templates/shared/chromeframe.html:4
+msgid "en unos minutos"
+msgstr "en uns minuts"
+
+#: templates/shared/data_controllers.html:5
+msgid "Ingresos y gastos"
+msgstr "Ingressos i despeses"
+
+#: templates/shared/data_controllers.html:7
+msgid "Ingresos"
+msgstr "Ingressos"
+
+#: templates/shared/data_controllers.html:9
+msgid "¿Cómo se gasta?"
+msgstr "Com es gasta?"
+
+#: templates/shared/data_controllers.html:10
+msgid "¿En qué se gasta?"
+msgstr "En què es gasta?"
+
+#: templates/shared/data_controllers.html:12
+msgid "Gastos"
+msgstr "Despeses"
+
+#: templates/shared/data_controllers.html:19
+msgid "Cantidades"
+msgstr "Quantitats"
+
+#: templates/shared/data_controllers.html:28
+msgid "Año"
+msgstr "Any"
+
+#: templates/shared/data_controllers_select.html:2
+msgid "Nominales"
+msgstr "Nominals"
+
+#: templates/shared/data_controllers_select.html:3
+msgid "Reales (ajustadas a inflación)"
+msgstr "Reals (ajustades a inflació)"
+
+#: templates/shared/data_controllers_select.html:5
+msgid "Porcentaje sobre el total"
+msgstr "Percentatge sobre el total"
+
+#: templates/shared/data_controllers_select.html:7
+msgid "Per-capita (real)"
+msgstr "Per-capita (real)"
+
+#: templates/shared/pagination.html:5 templates/shared/pagination.html.py:7
+msgid "Anterior"
+msgstr "Anterior"
+
+#: templates/shared/pagination.html:19 templates/shared/pagination.html:21
+msgid "Siguiente"
+msgstr "Següent"
+
+#: templates/shared/social_sharing.html:2
+msgid "Compártelo"
+msgstr "Comparteix-ho"
+
+#: templates/tax_receipt/index.html:6
+msgid "Lo que tú aportas"
+msgstr "El que tu aportes"
+
+#: templates/tax_receipt/index.html:7
+msgid "Te mostramos de forma aproximada"
+msgstr "Et vam mostrar de forma aproximada"
+
+#: templates/tax_receipt/index.html:7
+msgid "Nota sobre el cálculo realizado"
+msgstr "Nota sobre el càlcul realitzat"
+
+#: templates/tax_receipt/index.html:7
+msgid "cómo se distribuye el dinero que aportas con tus impuestos"
+msgstr "com es distribueix els diners que aportes amb els teus impostos"
+
+#: templates/tax_receipt/index.html:11
+msgid "Indica tus ingresos brutos anuales"
+msgstr "Indica els teus ingressos bruts anuals"
+
+#: templates/tax_receipt/index.html:14
+msgid "Calcular"
+msgstr "Calcular"
+
+#: templates/tax_receipt/index.html:18
+msgid ""
+"Has ingresado <b id=\"tax-amount-income\"></b>, contribuyes con un total de "
+"<b id=\"tax-amount-paid\"></b> en impuestos, de los que <b id=\"tax-amount-"
+"kept-locally\"></b> se destinan a los"
+msgstr ""
+"Has ingressat <b id=\"tax-amount-income\"></b>, contribueixes amb un total "
+"de <b id=\"tax-amount-paid\"></b> en impostos, dels quals <b id=\"tax-amount-"
+"kept-locally\"></b> es destinen a els"
+
+#: templates/tax_receipt/index.html:20
+#, python-format
+msgid ""
+"El cálculo está basado en aproximaciones medias y ni sustituye ni "
+"complementa a las declaraciones tributarias oficiales. La aproximación "
+"incluye IRPF, IVA e Impuestos Especiales, pero no la Seguridad Social. Para "
+"realizar el cálculo hemos supuesto lo siguiente: todos tus ingresos "
+"provienen de rendimientos del trabajo o de actividades económicas; tienes un "
+"consumo medio de gasolina, alcohol y tabaco; al final del año ahorras el "
+"10% de tus ingresos; y tienes reducciones y gastos deducibles por un total "
+"de 3000€ en el IRPF"
+msgstr ""
+"El càlcul està basat en aproximacions mitjanes i ni substitueix ni "
+"complementa a les declaracions tributàries oficials. L'aproximació inclou "
+"IRPF, IVA i Impostos Especials, però no la Seguretat Social. Per realitzar "
+"el càlcul hem suposat el següent: tots els teus ingressos provenen de "
+"rendiments del treball o d'activitats econòmiques; tens un consum mitjà de "
+"gasolina, alcohol i tabac; al final de l'any estalvies el 10% dels teus "
+"ingressos; i tens reduccions i despeses deduïbles per un total de 3000€ en "
+"el IRPF"
+
+#: templates/terms/index.html:4
+msgid "¿Qué significa?"
+msgstr "Què significa?"
+
+#: templates/terms/index.html:7
+msgid "Consulta"
+msgstr "Consulta"
+
+#: templates/terms/index.html:8
+msgid "Escribe aquí tu término de búsqueda"
+msgstr "Escriu aquí el teu terme de cerca"
+
+#: templates/welcome/index.html:8
+msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
+msgstr "Com i en què gasta l'Ajuntament de Rubí?"
+
+#: templates/welcome/index.html:29
+msgid ""
+"Para que tengas una idea general de los ingresos y gastos del Gobierno de "
+"Aragón"
+msgstr ""
+"Perquè tinguis una idea general dels ingressos i despeses del Ajuntament de "
+"Rubí"

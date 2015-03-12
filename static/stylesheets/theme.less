@@ -63,6 +63,34 @@ a:hover,
   a:hover { color: lighten( @color-base, 10% ); }
 }
 
+#menu-lang{
+  position: absolute;
+  top: 50%;
+  right: 1em;
+
+  ul{
+    li{
+      list-style: none;
+      float: left;
+      border-left: 1px solid @color-base;
+      padding: 0 6px;
+      line-height: 1em;
+
+      &:first-child{
+        border: none;
+      }
+
+      .active{
+        font-weight: 600;
+      }
+    }
+  }
+
+  #menu-lang-form{
+    visibility: hidden;
+  }
+}
+
 
 // Masthead
 header[role="banner"] {

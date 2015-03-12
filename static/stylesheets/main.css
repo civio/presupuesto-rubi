@@ -5305,7 +5305,7 @@ Ese "25" es lo que indenta.
   *zoom: 1;
   list-style: none;
   list-style-type: none;
-  margin: 0 .25em .25em 0;
+  margin: 0 .4em .25em 0.4em;
   vertical-align: middle;
 }
 [class^="addthis_button_"] {
@@ -6721,6 +6721,27 @@ a:hover,
 }
 .main-title a:hover {
   color: #ed472b;
+}
+#menu-lang {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+}
+#menu-lang ul li {
+  list-style: none;
+  float: left;
+  border-left: 1px solid #d32e12;
+  padding: 0 6px;
+  line-height: 1em;
+}
+#menu-lang ul li:first-child {
+  border: none;
+}
+#menu-lang ul li .active {
+  font-weight: 600;
+}
+#menu-lang #menu-lang-form {
+  visibility: hidden;
 }
 header[role="banner"] {
   background: white;
