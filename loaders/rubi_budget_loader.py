@@ -23,7 +23,7 @@ class RubiBudgetLoader(SimpleBudgetLoader):
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
-            '1340': '1350',     # Protección Civil
+            '1350': '1340',     # Protección Civil
             '1520': '1521',     # Promoción y gestión de la vivienda de protección pública
             '1550': '1531',     # Acceso a los núcleos de población
             '1620': '1621',     # Recogida de residuos
@@ -42,7 +42,7 @@ class RubiBudgetLoader(SimpleBudgetLoader):
             '4311': '4312',     # Mercado
             '4410': '4411',     # Transporte colectivo urbano de viajeros
         }
-        
+
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:

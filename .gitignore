@@ -1,3 +1,7 @@
 *pyc
 
 loaders/rubi_budget_loader.pyc
+
+*.pyc
+
+loaders/rubi_budget_loader.pyc
