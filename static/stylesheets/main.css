@@ -3515,10 +3515,14 @@ header[role="banner"] {
   list-style-type: none;
   margin-left: 0;
   padding-left: 0;
+  margin-bottom: 0.9em;
 }
 .home-intro .options > div ul > li {
   list-style: none;
   list-style-type: none;
+}
+.home-intro .options > div li {
+  height: 1.4em;
 }
 .home-intro .options > div:hover {
   background-color: #000000;
