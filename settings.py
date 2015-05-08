@@ -25,8 +25,8 @@ OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '33']
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
 
-# Supported languages. Default: ('es-ES', 'Castellano')
+# Supported languages. Default: ('ca', 'Catal&agrave;')
 LANGUAGES = (
-  ('es-ES', 'Castellano'),
   ('ca', 'Catal&agrave;'),
+  ('es-ES', 'Castellano')
 )
