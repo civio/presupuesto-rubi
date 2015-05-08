@@ -1,8 +1,14 @@
 {% load i18n %}
 
 <header role="banner">
+
   <div class="container-fluid">
     <div class="logo">{{ _('Ayuntamiento de Rubí') }}</div>
+
+    <a class="open-data-logo" href="https://opendata.rubi.cat" title="Open Data Rubí" target="_blank">
+      <img src="/static/assets/rubi-open-data.gif" alt="Logo de Open Data Rubí">
+    </a>
+
     <h1 class="main-title">
       <a href="{{ url('budget_app.views.welcome') }}" title="{{ _('Ir a la home de Presupuestos de Rubí') }}">
         {{ _('Presupuestos') }}
@@ -26,6 +32,7 @@
         <input type="submit" value="Go" />
       </form>
     </div>
+
   </div>
 
   <script type="text/javascript">

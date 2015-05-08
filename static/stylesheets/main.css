@@ -6713,11 +6713,11 @@ a:hover,
 }
 .main-title {
   border-top: none;
-  font-size: 3em;
+  font-size: 2.75em;
   font-weight: 400;
   background: transparent;
   padding: 0;
-  line-height: 100px;
+  line-height: 72px;
 }
 .main-title a {
   display: inline;
@@ -6728,8 +6728,8 @@ a:hover,
 }
 #menu-lang {
   position: absolute;
-  top: 50%;
-  right: 1em;
+  top: 10px;
+  right: 0;
 }
 #menu-lang ul li {
   list-style: none;
@@ -6754,16 +6754,21 @@ header[role="banner"] {
 }
 header[role="banner"] > .container-fluid {
   position: relative;
-  height: 105px;
+  height: 220px;
 }
 header[role="banner"] > .container-fluid .logo {
-  position: absolute;
-  top: 12px;
   width: 168px;
   height: 73px;
   text-indent: -9999px;
   overflow: hidden;
   background: url(../assets/logo.png) no-repeat 0 0 #ffffff;
+  margin: 20px auto;
+}
+header[role="banner"] > .container-fluid .open-data-logo {
+  display: block;
+}
+header[role="banner"] > .container-fluid .open-data-logo:hover {
+  opacity: 0.7;
 }
 .nav-rwd > li > a {
   font-weight: 600;
@@ -6881,8 +6886,30 @@ header[role="banner"] > .container-fluid .logo {
   font-size: 17px;
 }
 @media screen and (min-width: 48em) {
+  header[role="banner"] > .container-fluid {
+    height: 105px;
+  }
   header[role="banner"] > .container-fluid > .row-fluid {
     display: block;
+  }
+  header[role="banner"] > .container-fluid .main-title {
+    font-size: 3em;
+    line-height: 100px;
+  }
+  header[role="banner"] > .container-fluid .logo {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    margin: 0;
+  }
+  header[role="banner"] > .container-fluid .open-data-logo {
+    position: absolute;
+    top: 42px;
+    right: 12px;
+    z-index: 90;
+  }
+  #menu-lang {
+    right: 1em;
   }
   .home-intro .options > div {
     width: 45%;

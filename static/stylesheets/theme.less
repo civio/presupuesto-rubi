@@ -24,7 +24,6 @@ h1, h2, h3, h4, h5, h6{
   background: none;
 }
 
-
 a:hover,
 .ui-widget-content .slick-cell:hover a{
   color: @black40;
@@ -50,11 +49,11 @@ a:hover,
 
 .main-title {
   border-top: none; 
-  font-size: 3em;
+  font-size: 2.75em;
   font-weight: 400;
   background: transparent;
   padding: 0;
-  line-height: 100px;
+  line-height: 72px;
 
   a {
     display: inline;
@@ -65,8 +64,8 @@ a:hover,
 
 #menu-lang{
   position: absolute;
-  top: 50%;
-  right: 1em;
+  top: 10px;
+  right: 0;
 
   ul{
     li{
@@ -91,7 +90,6 @@ a:hover,
   }
 }
 
-
 // Masthead
 header[role="banner"] {
   background: white;
@@ -100,16 +98,23 @@ header[role="banner"] {
 
   > .container-fluid{
     position: relative;
-    height: 105px;
+    height: 220px;
 
     .logo{
-      position: absolute;
-      top: 12px;
       width: 168px;
       height: 73px;
       text-indent: -9999px;
       overflow: hidden;
       background: url(../assets/logo.png) no-repeat 0 0 white;
+      margin: 20px auto;
+    }
+
+    .open-data-logo{
+      display: block;
+
+      &:hover{
+        opacity: 0.7;
+      }
     }
   }
 }
@@ -232,8 +237,35 @@ header[role="banner"] {
 
 @media screen and (min-width: 48em) {
 
-  header[role="banner"] > .container-fluid > .row-fluid{
-    display: block;
+  header[role="banner"] > .container-fluid{
+    height: 105px;
+
+    > .row-fluid{
+      display: block;
+    }
+
+    .main-title {
+      font-size: 3em;
+      line-height: 100px;
+    }
+
+    .logo{
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      margin: 0;
+    }
+
+    .open-data-logo{
+      position: absolute;
+      top: 42px;
+      right: 12px;
+      z-index: 90;
+    }
+  }
+
+  #menu-lang{
+    right: 1em;
   }
 
   .home-intro .options > div {
