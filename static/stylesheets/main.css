@@ -6906,6 +6906,24 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
 .body-articles .article p {
   font-size: 17px;
 }
+.data-controllers.functional_view #btn-field .btn {
+  background: #d32e12;
+  color: white;
+  text-shadow: none;
+  font-weight: bold;
+  border: 1px solid #d32e12;
+  font-size: 1em;
+  padding: 5px 6px;
+}
+.data-controllers.functional_view #btn-field .btn:hover {
+  color: white;
+  background: #ee4f34;
+}
+.data-controllers.functional_view #btn-field .btn.active,
+.data-controllers.functional_view #btn-field .btn.active:hover {
+  color: #d32e12;
+  background: #fbeae7;
+}
 @media screen and (min-width: 48em) {
   header[role="banner"] > .container-fluid {
     height: 105px;

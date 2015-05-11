@@ -233,7 +233,26 @@ header[role="banner"] {
 .body-articles .article .intro-text {font-size: 21px;}
 .body-articles .article p {font-size: 17px;}
 
+.data-controllers.functional_view #btn-field .btn{
+  background: @color-base;
+  color: white;
+  text-shadow: none;
+  font-weight: bold;
+  border: 1px solid @color-base;
+  font-size: 1em;
+  padding: 5px 6px;
 
+  &:hover{
+    color: white;
+    background: lighten(@color-base, 12%);
+  } 
+
+  &.active,
+  &.active:hover{
+    color: @color-base;
+    background: mix( @color-base, white, 10% );
+  }
+}
 
 @media screen and (min-width: 48em) {
 
