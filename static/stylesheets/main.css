@@ -6810,6 +6810,18 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
   width: 20px;
   height: 20px;
 }
+.home-intro .options > div {
+  margin-bottom: 0.75em;
+}
+.home-intro .options .option-payments {
+  margin: 0 2% .5em 0;
+}
+.home-intro .options .option-payments .icon {
+  color: #87d312;
+}
+.home-intro .options .option-payments .button {
+  background-color: #87d312;
+}
 .home-intro .options .option-policies {
   margin: 0;
 }
@@ -6952,16 +6964,32 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
   .home-intro .options > div {
     width: 45%;
   }
+  #main-menu ul {
+    font-size: 17px;
+  }
   #main-menu ul li {
     border: none;
-    width: 33.33%;
+    width: 20%;
+  }
+  #main-menu ul li [class*="icon-"]:before {
+    position: relative;
+    top: 2px;
   }
   #main-menu ul li > a {
     text-align: center;
+    height: 45px;
+    line-height: 44px;
+    padding: .5em .2em;
     border-right: 1px solid #e99789;
   }
   #main-menu ul li > a.icon-budget {
     border-left: 1px solid #e99789;
+  }
+  #main-menu ul li > a.icon-payments {
+    line-height: 22px;
+  }
+  #main-menu ul li > a.icon-payments:before {
+    font-size: 0.875em;
   }
   .footer-corp .legal-text {
     text-align: right;
@@ -7230,6 +7258,9 @@ g.bg .chart-container rect {
   pointer-events: none;
   text-align: center;
   text-anchor: middle;
+}
+.chart-container text.nv-legend-text:hover {
+  font-weight: 600;
 }
 #pop-up {
   display: none;

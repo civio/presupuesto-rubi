@@ -155,6 +155,18 @@ header[role="banner"] {
   }
 }
 
+.home-intro .options > div{
+  margin-bottom: 0.75em;
+}
+
+.home-intro .options .option-payments {
+  margin: 0 2% .5em 0;
+  .icon{
+    color: spin(@color-base, 75);
+  }
+  .button {background-color: spin(@color-base, 75);}
+}
+
 .home-intro .options .option-policies{
   margin: 0;
 }
@@ -301,16 +313,35 @@ header[role="banner"] {
     width: 45%;
   }
 
-  #main-menu ul li{
-    border: none;
-    width: 33.33%;
+  #main-menu ul{
+    font-size: 17px;
+    
+    li{
+      border: none;
+      width: 20%;
 
-    > a{
-      text-align: center;
-      border-right: 1px solid mix(@color-base, white, 50% );
+      [class*="icon-"]:before {
+        position: relative;
+        top: 2px;
+      }
 
-      &.icon-budget{
-        border-left: 1px solid mix(@color-base, white, 50% );
+      > a{
+        text-align: center;
+        height: 45px;
+        line-height: 44px;
+        padding: .5em .2em;
+        border-right: 1px solid mix(@color-base, white, 50% );
+
+        &.icon-budget{
+          border-left: 1px solid mix(@color-base, white, 50% );
+        }
+
+        &.icon-payments{
+          line-height: 22px;
+          &:before {
+            font-size: 0.875em;
+          }
+        }
       }
     }
   }
