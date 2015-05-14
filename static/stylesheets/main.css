@@ -6622,14 +6622,7 @@ table [class^="h-"] {
   }
   a,
   a:visited {
-    color: #333333 !important;
-    text-decoration: underline;
-  }
-  a:after {
-    content: " (" attr(href) ")";
-  }
-  abbr:after {
-    content: " (" attr(title) ")";
+    color: #333333 /*!important; text-decoration: underline;*/;
   }
   .ir a:after {
     content: "";
@@ -6661,6 +6654,19 @@ table [class^="h-"] {
   h3 {
     page-break-after: avoid;
   }
+  #main-menu,
+  #menu-lang,
+  .form-search,
+  .social-sharing,
+  .footer-corp .footer-menu,
+  .slick-cell .toggle.expand,
+  .slick-sort-indicator {
+    display: none;
+  }
+  header[role="banner"] > .container-fluid .logo {
+    font-size: 2em;
+    text-indent: 0 !important;
+  }
 }
 body,
 label,
@@ -6686,6 +6692,9 @@ h6 {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
+}
+.form-search .container-fluid {
+  padding: 12px 0;
 }
 .content {
   background: #F7F7F7;
@@ -6839,6 +6848,7 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
 }
 .footer-corp a {
   color: white;
+  padding: 0;
 }
 .footer-corp .logo-aragon {
   float: none;
@@ -6853,15 +6863,9 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
   margin: 20px 0 0 -20px;
 }
 .footer-corp .footer-menu li {
-  float: left;
   list-style: none;
   padding-right: 0.6em;
   margin-right: 0.6em;
-  border-right: 1px solid white;
-  line-height: 1em;
-}
-.footer-corp .footer-menu li:last-child {
-  border: none;
 }
 .donation-banner {
   background: #EFF0F2;
@@ -6991,8 +6995,13 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
   #main-menu ul li > a.icon-payments:before {
     font-size: 0.875em;
   }
-  .footer-corp .legal-text {
-    text-align: right;
+  .footer-corp .footer-menu li {
+    float: left;
+    border-right: 1px solid white;
+    line-height: 1em;
+  }
+  .footer-corp .footer-menu li:last-child {
+    border: none;
   }
 }
 .chartWrap {

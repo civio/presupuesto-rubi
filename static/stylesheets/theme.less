@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6{
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
+
+  .container-fluid{
+    padding: 12px 0;
+  }
 }
 .content{
   background: #F7F7F7;
@@ -192,6 +196,7 @@ header[role="banner"] {
 
   a{
     color: white;
+    padding: 0;
   }
 
   .logo-aragon{
@@ -209,16 +214,9 @@ header[role="banner"] {
     margin: 20px 0 0 -20px;
 
     li{
-      float: left;
       list-style: none;
       padding-right: 0.6em;
       margin-right: 0.6em;
-      border-right: 1px solid white;
-      line-height: 1em;
-
-      &:last-child{
-        border: none;
-      }
     }
   }
 }
@@ -346,7 +344,13 @@ header[role="banner"] {
     }
   }
 
-  .footer-corp .legal-text{
-    text-align: right;
+  .footer-corp .footer-menu li{
+    float: left;
+    border-right: 1px solid white;
+    line-height: 1em;
+
+    &:last-child{
+      border: none;
+    }
   }
 }
