@@ -6939,6 +6939,9 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
   color: #d32e12;
   background: #fbeae7;
 }
+#totals_panel .total .value {
+  display: none;
+}
 @media screen and (min-width: 48em) {
   header[role="banner"] > .container-fluid {
     height: 105px;

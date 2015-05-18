@@ -1,0 +1,31 @@
+// Update global budget indicators
+function updateIndicators(uiState) {
+  function format(amount) {
+    return formatAmount(adjustInflation(amount, stats, uiState.year));
+  }
+
+  var total_incomes_budgeted = economicBreakdown.income[uiState.year];
+  var total_incomes_executed = economicBreakdown.income['actual_'+uiState.year];
+  var total_expenses_budgeted = economicBreakdown.expense[uiState.year];
+  var total_expenses_executed = economicBreakdown.expense['actual_'+uiState.year];
+
+  // Check if executed data is available
+  if (total_incomes_executed){
+    $('#totals_panel .secondary-label, #total-incomes-budgeted, #total-expenses-budgeted').show();
+    $('#total-incomes-budgeted').text(format(total_incomes_budgeted));
+    $('#total-incomes-executed').text(format(total_incomes_executed));
+    $('#total-expenses-budgeted').text(format(total_expenses_budgeted));
+    $('#total-expenses-executed').text(format(total_expenses_executed));
+  }
+  else{
+    $('#total-incomes-executed').text(format(total_incomes_budgeted));
+    $('#total-expenses-executed').text(format(total_expenses_budgeted));
+    $('#totals_panel .secondary-label, #total-incomes-budgeted, #total-expenses-budgeted').hide();
+  }
+
+  $('#indicators-year, #totals-year').text(uiState.year);
+
+  // Update budget indicators by year
+  $('#totals_panel .total .value').hide();
+  $('#totals_panel .total .value-'+uiState.year).show();
+}
