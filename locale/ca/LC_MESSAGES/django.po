@@ -29,7 +29,7 @@ msgstr "Dades pressupostàries"
 
 #: templates/budgets/budgets_indicators.html:12
 msgid "Remanente de tesoreria para gastos generales"
-msgstr ""
+msgstr "Romanent de tresoreria per a despeses generals"
 
 #: templates/budgets/budgets_indicators.html:19
 msgid "Ahorro neto"
@@ -53,11 +53,11 @@ msgstr ""
 
 #: templates/budgets/budgets_indicators.html:33
 msgid "Regla del gasto"
-msgstr ""
+msgstr "Regla de la despesa"
 
 #: templates/budgets/budgets_indicators.html:38
 msgid "Deuda viva"
-msgstr ""
+msgstr "Deute viu"
 
 #: templates/budgets/budgets_indicators.html:46
 msgid "Cantidades actualizadas con la inflación a fecha 1 de enero de"
@@ -334,7 +334,7 @@ msgid "El recorrido de mis impuestos"
 msgstr "El recorregut dels meus impostos"
 
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Ingressos i despeses en l'Ajuntament de Rubí"
+msgstr "Ingressos i despeses"
 
 msgid "Elige año"
 msgstr "Tria l'any"

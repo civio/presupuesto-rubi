@@ -254,7 +254,7 @@ msgid "Te explicamos cuál es tu aportación mediante los impuestos municipales"
 msgstr ""
 
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Ingresos y gastos en el Ayuntamiento de Rubí"
+msgstr "Ingresos y gastos"
 
 msgid "Gobierno de Aragón"
 msgstr "Ayuntamiento de Rubí"
