@@ -253,11 +253,11 @@ msgstr ""
 msgid "Te explicamos cuál es tu aportación mediante los impuestos municipales"
 msgstr ""
 
-#~ msgid "Ingresos y gastos en el Gobierno de Aragón"
-#~ msgstr "Ingresos y gastos en el Ayuntamiento de Rubí"
+msgid "Ingresos y gastos en el Gobierno de Aragón"
+msgstr "Ingresos y gastos en el Ayuntamiento de Rubí"
 
-#~ msgid "Gobierno de Aragón"
-#~ msgstr "Ayuntamiento de Rubí"
+msgid "Gobierno de Aragón"
+msgstr "Ayuntamiento de Rubí"
 
 #: templates/payments/index.html:5
 msgid "Gastos del año vigente"
