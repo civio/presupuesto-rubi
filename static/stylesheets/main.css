@@ -6974,28 +6974,35 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
     width: 45%;
   }
   #main-menu ul {
-    font-size: 17px;
+    font-size: 16px;
   }
   #main-menu ul li {
     border: none;
-    width: 20%;
+    width: 18%;
+  }
+  #main-menu ul li.page-payments {
+    width: 24%;
+  }
+  #main-menu ul li.page-tax {
+    width: 21%;
+  }
+  #main-menu ul li.page-glossary {
+    width: 19%;
   }
   #main-menu ul li [class*="icon-"]:before {
     position: relative;
     top: 2px;
   }
   #main-menu ul li > a {
+    font-weight: 400;
     text-align: center;
     height: 45px;
     line-height: 44px;
-    padding: .5em .2em;
+    padding: .5em 0;
     border-right: 1px solid #e99789;
   }
   #main-menu ul li > a.icon-budget {
     border-left: 1px solid #e99789;
-  }
-  #main-menu ul li > a.icon-payments {
-    line-height: 22px;
   }
   #main-menu ul li > a.icon-payments:before {
     font-size: 0.875em;
