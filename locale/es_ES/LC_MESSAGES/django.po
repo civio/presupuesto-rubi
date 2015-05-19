@@ -23,10 +23,7 @@ msgid "La recaudación"
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:6
-msgid ""
-"Se realiza a través de <b>impuestos directos</b> -como el IRPF y el impuesto "
-"de sociedades- y de <b>impuestos indirectos</b> -el IVA e impuestos sobre el "
-"tabaco, el alcohol o la gasolina"
+msgid "La recaudación de impuestos locales se realiza a través de impuestos directos, principalmente el IBI, y de tasas y precios públicos. Por otro lado la ciudadanía paga impuestos al Estado y a la Generalitat de Cataluña a través de los impuestos directos - como el IRPF y el impuesto de sociedades- y de impuestos indirectos -IVA e impuestos sobre el tabaco, el alcohol o la gasolina."
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:11
@@ -34,10 +31,7 @@ msgid "¿Cómo se reparte?"
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:12
-msgid ""
-"Una parte del dinero recaudado se queda en la <b>Administración General del "
-"Estado</b>, mientras que otra parte se transfiere a las <b>comunidades "
-"autónomas</b> y a las <b>entidades locales</b>"
+msgid "La totalidad del dinero recaudado por el Ayuntamiento se destina al presupuesto municipal que requiere de otros ingresos provenientes, principalmente, de la Generalitat y la Administración General del Estado para formar el presupuesto de ingresos municipal."
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:17
@@ -45,10 +39,7 @@ msgid "¿En qué se emplea?"
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:18
-msgid ""
-"Las <b>administraciones</b> utilizan el dinero recaudado, junto con otras "
-"fuentes de financiación como la deuda, para <b>mantener los servicios "
-"públicos</b> y la estructura del Estados"
+msgid "El Ayuntamiento utiliza el dinero recaudado, junto con las transferencias del resto de Administraciones Públicas, para mantener los servicios públicos y la provisión de bienes públicos a la ciudadanía de Rubí."
 msgstr ""
 
 #: templates/shared/data_sources.html:3
