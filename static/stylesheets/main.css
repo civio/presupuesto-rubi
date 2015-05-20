@@ -3629,10 +3629,6 @@ header[role="banner"] {
   font-weight: 100;
   text-align: center;
 }
-.page-subtitle {
-  font-size: 1.375em;
-  text-align: center;
-}
 .no-data-alert {
   top: -300px;
   position: relative;
@@ -6943,6 +6939,34 @@ header[role="banner"] > .container-fluid .open-data-logo:hover {
 }
 #totals_panel .total .value {
   display: none;
+}
+.form-user-incomings {
+  font-size: 1.125em;
+  text-align: left;
+  padding: 1.5em;
+}
+.form-user-incomings .intro-text {
+  font-size: 1.125em;
+  font-style: normal;
+}
+.form-user-incomings hr {
+  margin: 1em 0 0.5em;
+}
+.form-user-incomings label {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding-top: 0;
+}
+.form-user-incomings select {
+  height: 30px;
+  margin-right: 1em;
+}
+.form-user-incomings .select-info {
+  float: right;
+  color: #d32e12;
+  font-size: italic;
+  line-height: 28px;
 }
 @media screen and (min-width: 48em) {
   header[role="banner"] > .container-fluid {

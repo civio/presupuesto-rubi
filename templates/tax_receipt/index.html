@@ -6,11 +6,13 @@
 <h1 class="page-title">{{ _('Lo que tú aportas') }}</h1>
 <p class="intro-text">{{ _('Te mostramos de forma aproximada') }}<a href="#footnote-receipt" title="{{ _('Nota sobre el cálculo realizado') }}"><span class="asterisk">* <span class="visuallyhidden">{{ _('Nota sobre el cálculo realizado') }}</span></span></a> {{ _('cómo se distribuye el dinero que aportas con tus impuestos') }}.</p>
 
-<p class="intro-text">Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href="#">piso pequeño en el casco antigup</a>, <a href="#">piso mediano</a>) o modificar cada uno de los elementos de forma independiente.</p>
-
 <form class="form-user-incomings" action="#" method="get">
+
+  <p class="intro-text">Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href="#">piso pequeño en el casco antigup</a>, <a href="#">piso mediano</a>) o modificar cada uno de los elementos de forma independiente.</p>
+
   <div class="user-incomings-custom">
 
+    <hr/>
     <label for="select1">Inmueble</label>
     <select id="select1">
       <option value="casa" id="ingresos" type="text" selected="selected">Pis de 80 m2 situat a la zona del mercat</option>
@@ -18,26 +20,26 @@
       <option value="casa" id="ingresos" type="text">Casa unifamiliar entre mitjeres centre poble</option>
       <option value="casa" id="ingresos" type="text">Casa unifamiliar aillada urbanització</option>
     </select>
-    <label for="select1">Catastro: 1000€</label>
-    <br/>
-
+    <span class="select-info">Catastro: 1000€</span>
+    
+    <hr/>
     <label for="select2">Vehículo</label>
     <select id="select2">
       <option value="casa" id="ingresos" type="text" selected="selected">Ninguno</option>
       <option value="casa" id="ingresos" type="text">Coche pequeño</option>
       <option value="casa" id="ingresos" type="text">Coche mediano/grande</option>
     </select>
-    <label for="select1">Impuesto a vehículos motorizados: 100€</label>
-    <br/>
+    <span class="select-info">Impuesto a vehículos motorizados: 100€</span>
 
+    <hr/>
     <label for="select3">Vehículo adicional</label>
     <select id="select3">
       <option value="casa" id="ingresos" type="text" selected="selected">Ninguno</option>
       <option value="casa" id="ingresos" type="text">Coche pequeño</option>
       <option value="casa" id="ingresos" type="text">Coche mediano/grande</option>
     </select>
-    <br/>
 
+    <hr/>
     <label for="select4">¿Tienes un vado privado?</label>
     <select id="select4">
       <option value="casa" id="ingresos" type="text" selected="selected">No</option>
