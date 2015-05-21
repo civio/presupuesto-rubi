@@ -36,27 +36,26 @@
 # Programas específicos de Rubí
 0,1,1,0,Deute públic
 1,3,2,0,Seguretat i ordre públic
-1,3,3,0,Mobilitat
-1,3,4,0,Protecció civil
-1,3,5,0,Protecció civil 2
+1,3,4,0,Mobilitat
+1,3,5,0,Protecció civil
 1,5,0,0,Administració general d'urbanisme
 1,5,1,0,Urbanisme
-1,5,1,1,llicències d'activitats i disciplina urbanística
+1,5,1,1,Llicències d'activitats i disciplina urbanística
 1,5,1,2,Planejament i gestió urbanística
 1,5,1,3,Projectes urbans
-1,5,1,4,Llicències d'activitats i disciplina urbanística
+1,5,1,4,Llicències d'activitats
 1,5,2,1,Habitatge
-1,5,3,1,Vies públiques i manteniment urbà
+1,5,3,1,Accès als nuclis de població
+1,5,3,2,Pavimentación de vías públicas
 1,5,5,1,Espai públic i mobilitat
-1,5,5,2,Espai públic i mobilitat
+1,5,5,2,Vies públiques i manteniment urbà
 1,6,1,0,Sanejament i abastament d'aigua
 1,6,2,1,Recollida i eliminació de residus
 1,6,3,0,Neteja viària
 1,6,4,0,Cementiri
 1,6,5,0,Enllumenat públic
 1,7,1,0,Parcs i jardins
-1,7,2,0,Medi ambient
-1,7,2,1,"Protecció contra la contaminació acústica, lumínica i atmosfèrica"
+1,7,2,1,Medio ambiente
 2,3,1,0,Acció social
 2,3,1,1,Atenció a l'infància i famílies
 2,3,1,2,Dona
@@ -95,7 +94,7 @@
 4,3,2,0,Identitat i projecció exterior
 4,3,2,1,Projectes estratègics i supramunicipals
 4,3,3,0,Promoció econòmica i desenvolupament empresarial
-4,3,9,0,Promoció económica i desenvolupament empresarial
+4,3,9,0,Promoció económica
 4,4,1,1,Transport públic
 9,1,2,0,Òrgans de govern
 9,1,2,1,Acció institucional i comunicació
@@ -112,8 +111,6 @@
 9,2,0,8,Manteniment dependències municipals
 9,2,0,9,"Serveis generals de l'àrea de serveis centrals, hisenda i règim interior"
 9,2,1,0,"Serveis generals de l'àrea de planificació, ecologia urbana i seguretat"
-9,2,1,1,"Serveis generals de l'àrea de planificació estratègica i govern"
-9,2,1,3,"Serveis generals de l'àrea de cohesió social i serveis a les persones"
 9,2,4,0,Participació ciutadana i suport a les entitats
 9,2,4,1,Infraestructures i suport a les entitats
 9,2,4,2,Cooperació internacional

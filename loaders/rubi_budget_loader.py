@@ -23,24 +23,28 @@ class RubiBudgetLoader(SimpleBudgetLoader):
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
-            '1350': '1340',     # Protección Civil
-            '1520': '1521',     # Promoción y gestión de la vivienda de protección pública
-            '1550': '1531',     # Acceso a los núcleos de población
+            '1330': '1340',     # Mobilidad
+            '1340': '1350',     # Protección Civil
+            '1520': '1521',     # Vivienda
+            '1550': '1531',     # Vías públicas
             '1620': '1621',     # Recogida de residuos
+            '1720': '1721',     # Medio ambiente
             '2320': '2312',     # Mujer
             '2321': '2313',     # Ciudadanía y civismo
             '2330': '2314',     # Personas mayores y dependencia
             '3130': '3110',     # Salud pública
             '3132': '3111',     # Acogida de animales
-            '3230': '3260',     # Promoción educativa
             '3210': '3261',     # Guarderías
             '3221': '3262',     # Escuela de arte
             '3222': '3263',     # Escuela de música
+            '3230': '3260',     # Promoción educativa
             '3320': '3321',     # Bibliotecas públicas
             '3360': '3330',     # Museos
             '3350': '3342',     # Artes escénicas
             '4311': '4312',     # Mercado
             '4410': '4411',     # Transporte colectivo urbano de viajeros
+            '9211': '9202',     # Servicios generales del área de planificación estratégica
+            '9213': '9206',     # Servicios generales del área de cohesión social
         }
 
         is_expense = (filename.find('gastos.csv')!=-1)
