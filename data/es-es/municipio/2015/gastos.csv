@@ -1,0 +1,1611 @@
+#CODI_ORGANIC,CODI_FUNCIONAL,CODI_ECONOMIC,APLICACIO,CREDIT_INICIAL
+1U001,9120,10000,Retribucions basiques,449999.66
+1U001,9120,11000,Retribucions Bàsiques,137999.96
+1U001,9120,1600000,Seguretat Social,147688.32
+1U001,9120,1600001,Seguretat social,25389.12
+1U001,9120,23000,Dietes dels membres dels òrgans de govern,213000
+1U001,9120,48000,Aportació a grups municipals,239418
+1U003,9202,12001,Sous Grup A2,12906.52
+1U003,9202,12006,triennis,1135.08
+1U003,9202,12100,Complement Desti,4899.02
+1U003,9202,12101,Complement específic,9421.3
+1U003,9202,12103,Altres complements,611.24
+1U003,9202,15005,Productivitat 25%,483.32
+1U003,9202,1600002,Seguretat social,9343.38
+1U005,4321,13000,Retribucions bàsiques,9450.85
+1U005,4321,13002,Altres retribucions,17170.44
+1U005,4321,15006,Productivitat,442.62
+1U005,4321,1600003,Seguretat Social,8607.86
+1U005,4330,1310000,Laboral temporal.,0
+1U005,4330,1600010,Seguretat Social.,0
+1U005,9120,11000,Retribucions bàsiques,38999.94
+1U005,9120,1600001,Seguretat Social,12694.56
+1U005,9202,11000,Retribucions bàsiques,55099.94
+1U005,9202,13000,Retribucions bàsiques,34326.55
+1U005,9202,13002,Altres remuneracions,43742.86
+1U005,9202,15006,Paga productivitat 25%,1295.41
+1U005,9202,15300,Complement de dedicació especial,2520
+1U005,9202,1600001,Seguretat social,14085.12
+1U005,9202,1600003,Seguretat social,22823.91
+1U005,9202,16209,Altres despeses socials: garantització salari,0
+1U005,9202,22699,Altres despeses diverses,10000
+1U006,4321,13000,Retribucions bàsiques,45083.24
+1U006,4321,13002,Altres remuneracions,62103.44
+1U006,4321,14303,Retribucions per programes,0
+1U006,4321,14304,Altre personal.,0
+1U006,4321,15006,Paga productivitat 25%,1743.85
+1U006,4321,15300,Complement de dedicació especial,2412.34
+1U006,4321,1600003,Seguretat Social,35181.79
+1U006,4321,1600010,Seguretat Social.,0
+1U006,4321,1600011,Seguretat Social.,0
+1U006,4321,16209,Altres despeses socials: garantització salari,0
+1U006,4321,2030001,"Arrendament de maquinaria, instal·lacions i utillatge.REMIDA",0
+1U006,4321,20600,Arrendaments d'equips per a processos d'informació,0
+1U006,4321,21900,"Reparacions, manteniment i conservació d'altre immobilitzat",0
+1U006,4321,22001,"Premsa, revistes, llibres i altres publicacions.",0
+1U006,4321,22112,Sumin. de material elèctric i de telecomunicacions,2000
+1U006,4321,22199,Altres subministraments.,0
+1U006,4321,22601,Atencions protocol·làries i representatives.,0
+1U006,4321,22602,Promoció i difusió,2700
+1U006,4321,2260201,Promoció i difusió.REMIDA,0
+1U006,4321,22606,"Reunions, conferències i cursos",3369.63
+1U006,4321,2260601,"Reunions, conferències i cursos.REMIDA",0
+1U006,4321,22609,Activitats culturals i esportives,0
+1U006,4321,22699,Altres despeses diverses,8312
+1U006,4321,2269905,Mesures excepcionals 2015. Accions suport eficiència energèt,60000
+1U006,4321,22700,Neteja i lavabo.,0
+1U006,4321,22706,Estudis i treballs tècnics,40000
+1U006,4321,22799,Altres treballs realitzats per altres empreses i profes.,0
+1U006,4321,2279901,Programes de col·laboració,20000
+1U006,4321,2312001,Del personal no directiu REMIDA,0
+1U006,4321,46200,Membre Ple Dret Eurocities,2750
+1U006,4321,46700,Quota consorci B-30,30000
+1U006,4321,46701,Quota consorci Localred,8420
+1U006,4321,47902,Altres subvencions a Empreses privades.,600
+1U006,4321,48000,Quota associació parc industrial regió metropolitana de Barc,2780
+1U006,4321,48001,Quota Federació de municipis de Catalunya,13830
+1U006,4321,48002,Quota associació catalana de municipis i comarques,13620
+1U006,4321,48003,AMTU Agrupació municipis titulars del servei de transport ur,9000
+1U006,4321,48004,Quota Forum síndic i defensores locals de Catalunya,1170
+1U006,4321,48005,A Famílies i Institucions sense fins de lucre,600
+1U006,4321,62702,Mesures excepcionals 2015. Smart PAE,50000
+1U006,4321,62705,Mesures excepcionals 2015. Actuacions de millora i sostenibi,75000
+1U006,9202,14303,Retribucions per programes,0
+1U006,9202,1600010,Seguretat Social.,0
+1U008,9121,12003,Sous del grup C1,9884.86
+1U008,9121,12006,Triennis,3972.98
+1U008,9121,12100,Complement de destinació,4270.14
+1U008,9121,12101,Complement específic,9016
+1U008,9121,12103,Altres complements,2439.22
+1U008,9121,13000,Retribucions bàsiques,20595.88
+1U008,9121,13002,Altres remuneracions,36877.68
+1U008,9121,15001,Productivitat 2. esp. rendiment,5053.86
+1U008,9121,15005,Paga productivitat 25%,697.67
+1U008,9121,15006,Paga productivitat 25%,1042.32
+1U008,9121,15300,Complement de dedicació especial,12454.12
+1U008,9121,1600002,Seguretat Social,13621.7
+1U008,9121,1600003,Seguretat Social,19924.44
+1U008,9121,16209,Altres despeses socials: garantització salari,0
+1U008,9121,22001,"Premsa, revistes, llibres i altres publicacions.",0
+1U008,9121,22601,Atencions protocol·làries i representatives.,0
+1U008,9121,22602,Promoció i difusió,27594
+1U008,9121,22699,Altres despeses diverses,45000
+1U008,9121,22799,Programes de col.laboració,20000
+1U008,9121,23100,Dels membres dels òrgans de govern.,0
+1U009,9121,12001,Sous del grup A2,12906.52
+1U009,9121,12006,Trienis,2399.82
+1U009,9121,12100,Complements de destinació,4899.02
+1U009,9121,12101,Complements específic,9127.72
+1U009,9121,12103,Altres complements,3281.6
+1U009,9121,13000,Retribucions bàsiques,84547.14
+1U009,9121,13002,Altres remuneracions,113634.64
+1U009,9121,15005,Paga productivitat 25%,600.14
+1U009,9121,15006,Paga productivitat 25%,2859.2
+1U009,9121,15300,Complement de dedicació especial,11734.52
+1U009,9121,1600002,Seguretat Social,11596.32
+1U009,9121,1600003,Seguretat Social,64858.5
+1U009,9121,22000,Material d'oficina no inventariable,3300
+1U009,9121,22001,"Premsa, revistes, llibres i altres publicacions",1000
+1U009,9121,22601,Atencions protocol.làries i representatives,600
+1U009,9121,22602,Promoció i difusió,31187
+1U009,9121,22699,Altres despeses diverses,5000
+1U009,9121,2269901,Mesures excepcionals 2015. Programa suport creació d'ocupaci,5000
+1U009,9121,2269902,Mesures excepcionals 2015. Formació treballadors i ocupacion,3000
+1U009,9121,2269903,Mesures excepcionals 2015. Programa impuls a la creació d'em,10000
+1U009,9121,2269904,Mesures excepcionals 2015. Programa joves i emprenedoria,10000
+1U009,9121,2269905,Mesures excepcionals 2015. Programa millora competitivitat e,5000
+1U009,9121,22799,Programes de col·laboració,90197
+1U009,9121,62300,"Maquinària, instal·lacions tècniques i utillatge reformes AL",2200
+1U014,4330,12000,Salari Base A1,14677.34
+1U014,4330,12006,Trienni,5079.78
+1U014,4330,12100,Complement destí,11653.6
+1U014,4330,12101,Complement Específic,15533.56
+1U014,4330,12103,Altres complements,1988.98
+1U014,4330,13000,Retribucions bàsiques,7798.15
+1U014,4330,13002,Altres remuneracions,19845.56
+1U014,4330,15005,Paga productivitat 25%,720.28
+1U014,4330,15006,Paga productivitat 25%,463.03
+1U014,4330,15300,Complement de dedicació especial,4864.16
+1U014,4330,1600002,Seguretat Social,13284.6
+1U014,4330,1600003,Seguretat Social,10661.75
+1U014,4330,16209,Altres despeses socials: garantització salari,0
+1U015,2410,48003,Mesures anticrisi. Programa suport creació d'ocupació,0
+1U015,4330,12001,Sous grup A2,25813.04
+1U015,4330,12003,Sous grup C1,9884.82
+1U015,4330,12006,Triennis,6131.74
+1U015,4330,12100,Complement de destinació,14068.18
+1U015,4330,12101,Complement específic,27232.1
+1U015,4330,12103,Altres complements,6395.76
+1U015,4330,13000,Retribucions bàsiques,54949.59
+1U015,4330,13002,Altres remuneracions,77374.5
+1U015,4330,14303,Retribucions per programes,0
+1U015,4330,14304,Altre personal.,0
+1U015,4330,15005,Paga productivitat 25%,1504.05
+1U015,4330,15006,Paga productivitat 25%,2362.23
+1U015,4330,15300,Complemnt especial dedicació,2198.84
+1U015,4330,1600002,Seguretat Social,29038.8
+1U015,4330,1600003,Seguretat Social,43417.66
+1U015,4330,1600011,Seguretat Social.,0
+1U015,4330,16209,Altres despeses socials: garantització salari,0
+1U015,4330,21600,Manteniment equips per a processos d'informació,4000
+1U015,4330,22000,Ordinari no inventariable.,1000
+1U015,4330,22602,Promoció i difusió,18000
+1U015,4330,22606,"Reunions, conferències i cursos",50000
+1U015,4330,22699,Altres despeses diverses,4000
+1U015,4330,2269906,Mesures excepcionals 2015. Programa impuls a la creació empr,61000
+1U015,4330,2269907,Mesures excepcionals 2015. Programa posicionament del FUER,20000
+1U015,4330,2269908,Mesures excepcionals 2015. Programa joves i emprenedoria,19000
+1U015,4330,2269909,Mesures excepcionals 2015. Programa de millora competitivita,86000
+1U015,4330,2269910,Mesures excepcionals 2015. Atracció empreses,20000
+1U015,4330,22799,Programes de colaboració,108000
+1U015,4330,48001,Mesures excepcionals 2015. Programa joves i emprenedoria,57000
+1U015,4330,48002,Mesures excepcionals 2015. Programa millora competitivitat e,57000
+1U015,4330,48003,Mesures excepcionals 2015. Programa suport creació d'ocupaci,300000
+1U015,4330,61901,Mesures excepcionals 2013. Pla de xoc Pol. Industrials,0
+1U015,4330,62400,Elements de transport.,0
+1U015,4330,62701,Mesures excepcionals 2013. Projecte d'atracció d'emp.,0
+1U016,4310,12001,Retribucions bàsiques,12906.52
+1U016,4310,12006,triennis,1403.82
+1U016,4310,12100,Complement desti,6155.8
+1U016,4310,12101,complement específic,9728.6
+1U016,4310,12103,Altres complements,4068.82
+1U016,4310,13000,Retribucions bàsiques,23687.65
+1U016,4310,13002,Altres remuneracions,34070.96
+1U016,4310,14303,Retribucions per programes,32293.06
+1U016,4310,15005,Paga productivitat 25%,568.44
+1U016,4310,15006,Paga productivitat 25%,897.12
+1U016,4310,1600002,Seguretat Social,21063.95
+1U016,4310,1600003,Seguretat Social,19188.59
+1U016,4310,20300,"Arrendament de maquinària, instal.lacions i utillatge",30000
+1U016,4310,20500,Arrendaments de mobiliari i estris,3000
+1U016,4310,22300,Transports,13000
+1U016,4310,22602,Promoció i difusió,34700
+1U016,4310,22606,"Reunions, conferències i cursos.",0
+1U016,4310,22609,Activitats culturals i esportives,58000
+1U016,4310,22699,Altres despeses diverses,1300
+1U016,4310,2269902,Mesures excepcionals 2015. Programa suport al comerç i serve,110000
+1U016,4310,22700,Neteja i lavabo.,1500
+1U016,4310,22701,Seguretat,3000
+1U016,4310,22799,Programes de col·laboració,26830
+1U016,4310,47000,Subvenció millora activitat comercial,27000
+1U016,4310,47001,Premis comerç,10000
+1U016,4310,48001,Conveni col.laboració Federació Associació Comerciants de Ru,37500
+1U016,4310,48002,Mesures excepcionals 2015. Programa suport comerç i serveis,6900
+1U055,3301,20300,"Arrendament de maquinària, instal.lacions i utillatge",750
+1U055,3301,22201,Comunicacions postals,100
+1U055,3301,22602,Promoció i difusió,7300
+1U055,3301,22606,"Reunions, conferències i cursos.",2500
+1U055,3301,22609,Activitats culturals i esportives,1850
+1U055,3301,46700,Aportació consorci de Normalització Lingüística,102000
+1U055,4320,12001,Sous del grup A2,12906.52
+1U055,4320,12006,Triennis,935.88
+1U055,4320,12100,Complement de destinació,4899.02
+1U055,4320,12101,Complement específic,9854.04
+1U055,4320,12103,Altres complements,567.84
+1U055,4320,13000,Retribucions bàsiques,22308.45
+1U055,4320,13002,Altres remuneracions,35445.28
+1U055,4320,15005,Paga productivitat 25%,488.51
+1U055,4320,15006,Paga productivitat 25%,936.41
+1U055,4320,1600002,Seguretat Social,9103.17
+1U055,4320,1600003,Seguretat Social,18507.75
+1U055,4320,22001,"Premsa, revistes, llibre i altres publicacions",1000
+1U055,4320,22002,Material informàtic no inventariable.,600
+1U055,4320,22203,Comunicacions informàtiques,100
+1U055,4320,22601,Atencions protocol.làries i representatives,3000
+1U055,4320,22602,Promoció i difusió,1025
+1U055,4320,22609,Despeses d'activitats culturals i esportives,15000
+1U055,4320,22699,Altres despeses diverses,1000
+1U055,4320,22700,Neteja i lavabo.,1000
+1U055,4320,22706,Projectes i activitats de millora,2000
+1U055,4320,22799,Programes de col·laboració,29675
+1U055,4320,46700,Quota consorci turimes,6500
+1U055,4320,60900,Altres inversions noves en infraestructures i béns dest. ús,1000
+1U060,3370,62601,Inversions en equips informàtics,0
+1U062,2410,13000,Remuneracions basiques.,77586.63
+1U062,2410,13002,Retribucions complementaries,107499.7
+1U062,2410,14303,Mesures anticrisi 2015. Programa suport creació d'ocupació,0
+1U062,2410,15006,Paga productivitat 25%,3296.1
+1U062,2410,15300,Complement de dedicacio especial,4756.08
+1U062,2410,1600003,Seguretat Social,57232.77
+1U062,2410,16209,Altres despeses socials: garantització salari,0
+1U062,2410,20300,"Arrendament maquinària, instal.lacions i utillatge",17000
+1U062,2410,2030001,Repografia (Cofinançada pel FSE).,11000
+1U062,2410,21600,Manteniment d'equips per a processos d'informació,1500
+1U062,2410,22000,Compra de material oficina no inventariable.,23000
+1U062,2410,22001,"Premsa, revises, llibres i altres publicacions",1000
+1U062,2410,2219902,Altres subministraments. Material cursos SEFED,10000
+1U062,2410,22300,Transports,1000
+1U062,2410,22400,Primes d'assegurances,4000
+1U062,2410,22602,Promoció i difusió,5000
+1U062,2410,22699,Altres despeses diverses,62000
+1U062,2410,2269901,Mesures excepcionals 2015. Programa suport creació ocupació,40000
+1U062,2410,2269902,Mesures excepcionals 2015. Formació treballadors i ocupacion,177000
+1U062,2410,2269904,Mesures excepcionals 2015. Manteniment serveis essencials d',144285
+1U062,2410,22799,Programes de col.laboració,71000
+1U062,2410,2279902,Programes de col·laboració (Xarxes i quotes),1000
+1U062,2410,62300,Escola Taller Salduga,0
+1U062,2410,62301,"Maquinària, instal tècniques i utill. Centre mecanitzat SiO.",10000
+1U062,2410,62302,"Maquinària, instal·lacions tècniques i utillatge",0
+1U062,2410,62500,Mobiliari,3798.52
+1U062,2410,62600,Equips per a processos d'informació.,0
+1U062,2410,62900,Inversions noves associades al funcionament dels serveis,0
+1U062,2410,63200,Plans d'ocupació extraordinaris,0
+1U063,2410,13000,Retribucions basiques,32815.19
+1U063,2410,13002,Retribucions complementaries,34062.42
+1U063,2410,1300204,Altres remuneracions.,0
+1U063,2410,1310000,Sou personal plans d'ocupació,0
+1U063,2410,1310001,Laboral temporal.,0
+1U063,2410,14303,Retribucions per programes,0
+1U063,2410,15006,paga productivitat 25%,1110.2
+1U063,2410,16000,Seguretat Social.,0
+1U063,2410,1600003,Seguretat Social,21596.04
+1U063,2410,1600004,Seguretat Social personal plans d'ocupació,0
+1U063,2410,1600005,Seguretat Social.,0
+1U063,2410,2219910,Subministrament material Plans Ocupació,0
+1U063,2410,2269910,Altres despeses diverses,0
+1U063,2410,2269912,Altres despeses diverses,0
+1U063,2410,2279908,Formadors col.laboradors Plans Ocupació,0
+1U063,2410,23020,Del personal no directiu.,0
+1U064,2410,13000,Retribucions basiques,55458.97
+1U064,2410,13002,Retribucions complementaries,81370.94
+1U064,2410,1300204,Altres remuneracions.,0
+1U064,2410,1310002,Laboral temporal.,0
+1U064,2410,1310004,Laboral temporal.,0
+1U064,2410,1310005,Laboral temporal.,0
+1U064,2410,1310006,Laboral temporal.,0
+1U064,2410,14303,Retribucions per programes,0
+1U064,2410,14304,Altre personal.,0
+1U064,2410,15006,Paga productivitat 25%,2306.5
+1U064,2410,1600003,Seguretat Social,43484.67
+1U064,2410,1600005,Seguretat Social.,0
+1U064,2410,1600006,Seguretat Social.,0
+1U064,2410,1600008,Seguretat Social.,0
+1U064,2410,1600009,Seguretat Social.,0
+1U064,2410,1600011,Seguretat Social.,0
+1U064,2410,1600012,Seguretat Social.,0
+1U064,2410,20300,ARRENDAMIENTO MAQUIN. INSTALAC. Y UTILL.,0
+1U064,2410,22000,Ordinari no inventariable.,0
+1U064,2410,22104,Vestuari.,0
+1U064,2410,2219901,Altres subministraments. MATERIAL CURSOS FOAP,0
+1U064,2410,22602,Publicitat i propaganda.,0
+1U064,2410,2260201,Publicitat i propaganda.JPO,0
+1U064,2410,2260202,Publicitat i propaganda.,0
+1U064,2410,22609,Activitats culturals i esportives,0
+1U064,2410,22699,Altres despeses diverses,0
+1U064,2410,2269909,Altres despeses diverses,0
+1U064,2410,2269911,Altres despeses diverses,0
+1U064,2410,2269912,Asseg.alumnes JPO,0
+1U064,2410,2269915,Despeses diverses Programa JPO,0
+1U064,2410,22799,Altres treballs realitzats per altres empreses i profes.,0
+1U064,2410,2279901,Programes col.laboració. Mòduls formatius FOAP,0
+1U064,2410,2279904,Altres treballs realitzats per altres empreses i profes.,0
+1U064,2410,2279905,Altres treballs realitzats per altres empreses i profes.JPO,0
+1U064,2410,4800001,TRANSFERENCIAS CTES JPO,0
+1U065,2410,13000,Retribucions basiques,39884.65
+1U065,2410,13002,Retribucions complementaries,57178.8
+1U065,2410,14303,Retribucions per programes,0
+1U065,2410,15006,paga productivitat 25%,1613.68
+1U065,2410,1600003,Seguretat Social,31006.68
+1U065,2410,1600005,Seguretat Social.,0
+1U065,2410,16209,Altres despeses socials: garantització salari,0
+1U066,9261,13000,Retribucions basiques,190349.12
+1U066,9261,13002,Retribucions complementaries,240921.08
+1U066,9261,15001,Productivitat 2on rendiment,640.78
+1U066,9261,15006,Paga productivitat 25%,7330.95
+1U066,9261,1600003,Seguretat Social,136095.9
+1U066,9261,1610401,Indemnització per jubilació o invalidessa,0
+1U066,9261,16209,Altres despeses socials: garantització salari,0
+1U066,9261,21300,"Reparacions, manteniment, conservació de maquinaria, instal",4000
+1U066,9261,21400,"Reparacions, manteniment, conservació d'elements transport",1000
+1U066,9261,21600,Reparacions manteniment i conservació d'equips per a proces,6000
+1U066,9261,22000,Material d'oficina no inventariable,0
+1U066,9261,22103,Combustibles i carburants.,3500
+1U066,9261,22104,Vestuari.,0
+1U066,9261,22112,"Sumin. de material electrònic, elèctric i de telecomunic.",3000
+1U066,9261,22203,Informàtiques.,14443
+1U066,9261,22500,Tributs estatals.,0
+1U066,9261,22501,Tributs de les Comunitats Autònomes.,0
+1U066,9261,2250114,Tributs de les Comunitats Autònomes.,0
+1U066,9261,22699,Altres despeses diverses,35063
+1U066,9261,22704,"Despeses de custòdia, dipòsits i emmagatzematge.",0
+1U066,9261,2270414,"Custòdia, dipòsit i magatzematge.",0
+1U066,9261,22799,Programes de col·laboració,15650
+1U066,9261,2279914,Altres treballs realitzats per altres empreses i profes.,0
+1U066,9261,623000,"Maquinària, instal.lacions tècniques i utillatge. Instal.lac",17927.64
+1U066,9261,62900,Altres inversions noves Ràdio Rubí,0
+1200,1521,61900,Altres inver de reposic en infraest i béns dest a l'ús gral,0
+1200,1521,61901,Inversió reposició - Millores Barri El Pinar,0
+1200,3420,62200,Edificis i altres construccions,0
+1500,4320,62500,Mobiliari centre de dansa,0
+1500,4320,62900,Altres inversions noves Centre de Dansa Tradicional Catalana,0
+2U004,9204,13000,Retribucions bàsiques,62575.74
+2U004,9204,13002,Altres remuneracions,75795.3
+2U004,9204,15006,25% Productivitat,2348.58
+2U004,9204,1600003,Seguretat social,45165.5
+2U004,9204,16209,Altres despeses socials: garantització salari,0
+2U013,9209,13000,Retribucions bàsiques,12619.85
+2U013,9209,13002,Altres remuneracions,21566.72
+2U013,9209,15006,Paga productivitat 25%,608.34
+2U013,9209,15300,Complement de dedicació especial,2412.34
+2U013,9209,1600003,Seguretat Social,11815.61
+2U013,9209,21200,"Reparacions, manteniment i conservació d'edificis i altres c",800
+2U013,9209,21300,"Reparacions, manteniment i conservació de maquinària, instal",43710
+2U013,9209,22000,Material d'oficina ordinari no inventariable,1000
+2U013,9209,22200,Servei de telecomunicacions,281364
+2U013,9209,2220014,Serveis de Telecomunicacions.,0
+2U013,9209,22601,Atencions protocol.làries i representatives,4000
+2U013,9209,22699,Altres despeses diverses,1000
+2U013,9209,22706,Projectes i activitats de millora,47010.63
+2U013,9209,23100,Dels membres dels òrgans de govern.,1000
+2U017,9204,12000,Sous del grup A1,11741.93
+2U017,9204,12001,Sous del grup A2,51626.04
+2U017,9204,12003,Sous del grup C1,15950.16
+2U017,9204,12004,Sous del grup C2,16757.16
+2U017,9204,12006,Triennis,7773.07
+2U017,9204,12100,Complement de destinació,44275.89
+2U017,9204,12101,Complement específic,79287.16
+2U017,9204,12103,Altres complements,14496.48
+2U017,9204,13000,Retribucions bàsiques,20231.78
+2U017,9204,13002,Altres remuneracions,27372.74
+2U017,9204,1300201,Indemnitzacio fi contracte,14986.56
+2U017,9204,1300202,Liquidacio vacances,20000.04
+2U017,9204,14301,Retribucions per substitucions,171241.12
+2U017,9204,14304,Altre personal.,0
+2U017,9204,15005,Productivitat 25%,3598.48
+2U017,9204,15006,Paga productivitat 25%,688.01
+2U017,9204,15300,Complement de dedicació especial,9635.92
+2U017,9204,16000,Seguretat Social,9534.12
+2U017,9204,1600002,Seguretat Social,73773.57
+2U017,9204,1600003,Seguretat Social,24317.4
+2U017,9204,1600011,Seguretat Social.,0
+2U017,9204,16200,Ajuts per la formacio,0.24
+2U017,9204,16204,Ajuts socials,111983.16
+2U017,9204,1620400,Acció social.,0
+2U017,9204,16400,Complement familiar.,0
+2U017,9204,22607,Oposicions i proves selectives,20000
+2U017,9204,22699,Altres despeses diverses,10000
+2U017,9204,2279914,Altres treballs realitzats per altres empreses i profes.,0
+2U017,9204,23010,Dietes del personal directiu,2300
+2U017,9204,23020,Dietes del personal no directiu,2700
+2U017,9204,2302001,Dietes judicis policia,41300
+2U018,2312,62600,Equips per a processos d'informació.,0
+2U018,2313,62900,Altres inv. noves assoc. al funcionament oper. serveis,0
+2U018,9205,12003,Sous del grup C1,29654.52
+2U018,9205,12006,Triennis,8615.7
+2U018,9205,12100,Complement de destinació,13439.3
+2U018,9205,12101,Complement específic,32593.68
+2U018,9205,12103,Altres complements,11477.76
+2U018,9205,13000,Retribucions bàsiques,173555.72
+2U018,9205,13002,Altres remuneracions,256454.37
+2U018,9205,14301,Retribucions per substitucions,0
+2U018,9205,14304,Altre personal.,0
+2U018,9205,15005,Paga productivitat 25%,1675.4
+2U018,9205,15006,Paga productivitat 25%,7190.65
+2U018,9205,15300,Complement de dedicació especial,23964.36
+2U018,9205,1600002,Seguretat Social,33458.99
+2U018,9205,1600003,Seguretat Social,136798.49
+2U018,9205,1600011,Seguretat Social.,0
+2U018,9205,16209,Altres despeses socials: garantització salari,0
+2U018,9205,20400,Arrendament de material de transport,5256
+2U018,9205,20600,Arrendament d'equips per a processos d'informació,64100
+2U018,9205,20800,Lloguer d'altre material,2970
+2U018,9205,21300,"Reparacions, manteniment i conservació de maquinària, instal",30950
+2U018,9205,21600,"Reparacions, manteniment i conservació de sistemes per a pr",172630
+2U018,9205,22000,Material d'oficina ordinari no inventariable,0
+2U018,9205,22002,Material informàtic no inventariable,1500
+2U018,9205,22103,Combustibles i carburants,350
+2U018,9205,22203,Comunicacions informàtiques,11780.83
+2U018,9205,22699,Altres despeses diverses,32550
+2U018,9205,22704,"Despeses de custòdia, dipòsits i emmagatzematge",5520.7
+2U018,9205,22706,Projectes i activitats de millora,14500
+2U018,9205,22799,Programes de col·laboració,42690.6
+2U018,9205,62500,INVERSIONS EN MOBILIARI I EQUIPAMENTS D'OFICINA,0
+2U018,9205,62600,Inversions en equips per a processos d'informació,27000
+2U018,9205,64100,Despeses en aplicacions informàtiques,87000
+2U019,9250,12001,Sous del grup A2,12906.52
+2U019,9250,12003,Sous del grup C1,9884.86
+2U019,9250,12004,Sous del grup C2,30721.74
+2U019,9250,12005,Sous del grup E,7678.58
+2U019,9250,12006,Triennis,16293.63
+2U019,9250,12100,Complement de destinació,32801.86
+2U019,9250,12101,Complement específic,81308.9
+2U019,9250,12103,Altres complements,16158.52
+2U019,9250,13000,Retribucions bàsiques,146506.31
+2U019,9250,13002,Altres remuneracions,298239.42
+2U019,9250,14301,Retribucions per substitucions,16606.72
+2U019,9250,15005,Paga productivitat 25%,3462.06
+2U019,9250,15006,Paga productivitat 25%,6000.89
+2U019,9250,15300,Complement de dedicació especial,11150.44
+2U019,9250,1600002,Seguretat Social,62368.89
+2U019,9250,1600003,Seguretat Social,140604.4
+2U019,9250,16209,Altres despeses socials: garantització salari,0
+2U019,9250,20400,Arrendament de material de transport,4200
+2U019,9250,21400,"Reparacions, manteniment i conservació d'elements de transpo",2500
+2U019,9250,2200001,Altre material divers,3000
+2U019,9250,22103,Combustibles i carburants,3000
+2U019,9250,22201,Comunicacions postals,57029.56
+2U019,9250,22299,Altres despeses en comunicacions,1600
+2U020,9203,20200,Arrendament edificis i altres construccions,311451.73
+2U020,9203,2020014,Arrendament d'edificis i altres construccions,0
+2U020,9203,21600,"Reparació, manteniment i conservació Equips per a processos",2000
+2U020,9203,22001,"Premsa, revistes, llibres i altres publicacions.",12400
+2U020,9203,22400,Primes d'assegurances,90000
+2U020,9203,22604,Despeses d'actes jurídics i contenciosos,229000
+2U020,9203,22699,Altres despeses diverses,1500
+2U020,9203,22799,Programes de col·laboració,30900
+2U020,9203,23300,Altres indemnitzacions,10000
+2U020,9203,27000,Despeses imprevists i funcions no classificades.,0
+2U021,9207,12000,Sous del grup A1,14677.32
+2U021,9207,12006,Triennis,1379.1
+2U021,9207,12100,Complement de destinació,7137.76
+2U021,9207,12101,Complement específic,11011.14
+2U021,9207,12103,Altres complements,754.6
+2U021,9207,13000,Retribucions bàsiques,46558.66
+2U021,9207,13002,Altres remuneracions,70612.92
+2U021,9207,15005,Paga productivitat 25%,586.22
+2U021,9207,15006,Paga productivitat 25%,1939.78
+2U021,9207,15100,Gratificacions,0
+2U021,9207,1600002,Seguretat Social,11320.09
+2U021,9207,1600003,Seguretat Social,37069.97
+2U021,9207,16209,Altres despeses socials: garantització salari,0
+2U021,9207,20300,"Arrendament de maquinària, instal.lacions i utillatge",97000
+2U021,9207,2030014,ARRENDAMIENTO MAQUIN. INSTALAC. Y UTILL.,0
+2U021,9207,21300,"Reparacions, manteniment i conservació de maquinària, instal",3000
+2U021,9207,21500,"Reparació, manteniment i conservació de mobiliari",300
+2U021,9207,22000,Material d'oficina ordinari no inventariable,47900
+2U021,9207,2200001,Altre material divers,1000
+2U021,9207,22699,Altres despeses diverses,400
+2U021,9207,62500,Mobiliari,0
+2U021,9207,64100,Despeses en aplicacions informàtiques. Programa gestió de co,18200
+2U022,9203,12000,Sous del grup A1,58709.26
+2U022,9203,12004,Sous del grup C2,8378.56
+2U022,9203,12006,Triennis,12821.76
+2U022,9203,12100,Complement de destinació,36707.86
+2U022,9203,12101,Complement específic,65115.4
+2U022,9203,12103,Altres complements,7970.2
+2U022,9203,13000,Retribucions bàsiques,73987.47
+2U022,9203,13002,Altres remuneracions,88042.22
+2U022,9203,14304,Altre personal.,0
+2U022,9203,15005,Paga productivitat 25%,3567.42
+2U022,9203,15006,Paga productivitat 25%,2683.38
+2U022,9203,15300,Complement de dedicació especial,21409.92
+2U022,9203,1600002,Seguretat Social,58025.12
+2U022,9203,1600003,Seguretat Social,51304.09
+2U022,9203,1600011,Seguretat Social.,0
+2U022,9203,16209,Altres despeses socials: garantització salari,0
+2U023,9203,12000,Sous del grup A1,14677.32
+2U023,9203,12006,Triennis,2507.94
+2U023,9203,12100,Complement de destinació,7137.76
+2U023,9203,12101,Complement específic,18864.16
+2U023,9203,12103,Altres complements,2500.4
+2U023,9203,13000,Retribucions bàsiques,29657.96
+2U023,9203,13002,Altres remuneracions,46968.6
+2U023,9203,15005,Paga productivitat 25%,754.91
+2U023,9203,15006,Paga productivitat 25%,1395.49
+2U023,9203,15300,Complement de dedicació especial,2520
+2U023,9203,1600002,Seguretat Social,13284.6
+2U023,9203,1600003,Seguretat Social,25646.05
+2U023,9203,16209,Altres despeses socials: garantització salari,0
+2U024,0110,31001,Interessos préstecs a llarg termini,921463.72
+2U024,0110,31100,"Despeses de formalització, modificació i cancel·lació",32350
+2U024,0110,31900,Despeses financeres d'altres operacions,15000
+2U024,0110,35200,Interessos de demora i altres despeses financeres,75000
+2U024,0110,35900,Altres despeses financeres.,0
+2U024,0110,91301,Amortització de préstecs a llarg termini sector privat,6298358.01
+2U024,9320,12000,Sous del grup A1,14677.32
+2U024,9320,12003,Sous del grup C1,9884.84
+2U024,9320,12006,Triennis,3266.62
+2U024,9320,12100,Complement de destinació,15923.74
+2U024,9320,12101,Complement específic,23914.24
+2U024,9320,12103,Altres complements,1438.78
+2U024,9320,14304,Altre personal.,0
+2U024,9320,15005,Paga productivitat 25%,1300.3
+2U024,9320,15300,Complement de dedicació especial,8441.02
+2U024,9320,1600002,Seguretat Social,20547.82
+2U024,9320,1600011,Seguretat Social.,0
+2U024,9320,16209,Altres despeses socials: garantització salari,0
+2U024,9320,21200,"Reparacions, manteniment i conservació d'edificis i altres",500
+2U024,9320,22001,"Premsa, revistes, llibres i altres publicacions",4000
+2U024,9320,22602,Publicitat i propaganda.,4500
+2U024,9320,22699,Altres despeses diverses,8500
+2U024,9320,22799,Programes de col·laboració,20000
+2U024,9320,2279902,Programes de col·laboració,10000
+2U024,9320,48002,Subvenció IBI aturats i famílies monoparentals,82830.59
+2U024,9320,48005,Mesures excepcionals 2015. Ajuts i subvencions tributàries a,80000
+2U025,9320,13000,Retribucions bàsiques,51594.14
+2U025,9320,13002,Altres remuneracions,67351.2
+2U025,9320,15006,Paga productivitat 25%,2147.73
+2U025,9320,15300,Complement de dedicació especial,10633.7
+2U025,9320,1600003,Seguretat Social,38770.51
+2U026,0110,35900,Altres despeses financeres.,0
+2U026,9320,12000,Sous del grup A1,14677.32
+2U026,9320,12003,Sous del grup C1,9884.86
+2U026,9320,12006,Triennis,6871.67
+2U026,9320,12100,Complement de destinació,20700.26
+2U026,9320,12101,Complement específic,38537.24
+2U026,9320,12103,Altres complements,4430.72
+2U026,9320,13000,Retribucions bàsiques,13051.87
+2U026,9320,13002,Altres remuneracions,15763.6
+2U026,9320,15001,Productivitat 2n rendiment,714.56
+2U026,9320,15005,Paga productivitat 25%,1586.82
+2U026,9320,15006,Paga productivitat 25%,463.28
+2U026,9320,15300,Complement de dedicació especial,26325.18
+2U026,9320,1600002,Seguretat Social,25173.48
+2U026,9320,1600003,Seguretat Social,8626.79
+2U026,9320,22001,"Premsa, revistes, llibres i altres publicacions",2000
+2U026,9320,22201,Comunicacions postals,50
+2U026,9320,22708,Servei de recaptació a favor de l'entitat,1030500
+2U026,9320,2279901,Servei de recaptació-multes-,250000
+2U027,9201,12000,Sous del grup A1,29354.64
+2U027,9201,12001,Sous del grup A2,12906.52
+2U027,9201,12003,Sous del grup C1,9884.84
+2U027,9201,12004,Sous del grup C2,16757.14
+2U027,9201,12006,Triennis,18616.1
+2U027,9201,12100,Complement de destinació,50330.7
+2U027,9201,12101,Complement específic,70893.2
+2U027,9201,12103,Altres complements,13545.7
+2U027,9201,1210303,Incapacitat temporal,0
+2U027,9201,13000,Retribucions bàsiques,20528.02
+2U027,9201,13002,Altres remuneracions,27408.5
+2U027,9201,15005,Paga productivitat 25%,4614.96
+2U027,9201,15006,Paga productivitat 25%,1030.02
+2U027,9201,15300,Complement de dedicació especial,85859.06
+2U027,9201,1600002,Seguretat Social,61172.96
+2U027,9201,1600003,Seguretat Social,16558.4
+2U027,9201,16209,Altres despeses socials: garantització salari,0
+2U027,9201,22001,"Premsa, revistes, llibres i altres publicacions",1609
+2U027,9201,22112,Subministrament de material electrònic i de telecomunicacion,2000
+2U027,9201,22603,Publicacions en diaris oficials,23322
+2U027,9201,22699,Altres despeses diverses,2800
+2U027,9201,22704,"Custòdia, dipòsits i emmagatzematge",24047
+2U027,9201,22705,Processos electorals,38688.74
+2U027,9201,22799,Programes de col·laboració,16539
+2U027,9201,64100,Despeses en aplicacions informàtiques.,0
+2U028,9201,12004,Sous del grup C2,8378.58
+2U028,9201,12006,Triennis,3253.38
+2U028,9201,12100,Complement de destinació,3640.98
+2U028,9201,12101,Complement específic,6049.4
+2U028,9201,12103,Altres complements,2115.82
+2U028,9201,13000,Retribucions bàsiques,31347.04
+2U028,9201,13002,Altres remuneracions,40994.94
+2U028,9201,15005,Paga productivitat 25%,387.1
+2U028,9201,15006,Paga productivitat 25%,1231.81
+2U028,9201,1600002,Seguretat Social,7880.63
+2U028,9201,1600003,Seguretat Social,22502.98
+2U029,9310,12000,Sous del grup A1,14677.32
+2U029,9310,12001,Sous del grup A2,25813.02
+2U029,9310,12006,Triennis,7105.69
+2U029,9310,12100,Complement de destinació,23360.54
+2U029,9310,12101,Complement específic,49362.74
+2U029,9310,12103,Altres complements,7491.12
+2U029,9310,13000,Retribucions bàsiques,8734.94
+2U029,9310,13002,Altres remuneracions,11890.62
+2U029,9310,15005,Paga productivitat 25%,1958.91
+2U029,9310,15006,Paga productivitat 25%.,341.01
+2U029,9310,15300,Complement de dedicació especial,14972.72
+2U029,9310,1600002,Seguretat Social,32231.05
+2U029,9310,1600003,Seguretat Social,6634.35
+2U029,9310,16209,Altres despeses socials: garantització salari,0
+2U029,9310,22001,"Premsa, revistes, llibres i altres publicacions",200
+2U029,9310,22706,Projectes i activitats de millora,30500
+2U029,9310,64100,Despeses d'inversió en aplicacions informàtiques,60000
+2U030,9310,12003,Sous del grup C1,3854.87
+2U030,9310,12100,Complement de destinació,1659.19
+2U030,9310,12101,Complement específic,3081.97
+2U030,9310,12103,Altres complements,168.09
+2U030,9310,13000,Retribucions bàsiques,39931.54
+2U030,9310,13002,Altres remuneracions,53562.07
+2U030,9310,15005,Productivitat 25%,149.78
+2U030,9310,15006,Paga productivitat 25%,1617.76
+2U030,9310,15300,Complement de dedicació especial,4909.38
+2U030,9310,1600002,Seguretat Social,2372.13
+2U030,9310,1600003,Seguretat Social,30245.12
+2U030,9310,16209,Altres despeses socials: garantització salari,0
+2U056,9207,13000,Retribucions bàsiques,28766.72
+2U056,9207,13002,Altres remunercaions,37664.34
+2U056,9207,15006,Paga productivitat 25%,1383.69
+2U056,9207,15300,Complement especial dediccaop,16676.8
+2U056,9207,1600003,Seguretat Social,26361.39
+2U061,9204,12000,Sous dels grup de A1,14677.32
+2U061,9204,12004,Sous grup C2,8378.58
+2U061,9204,12006,Triennis,3299.38
+2U061,9204,12100,Complement de destí,16552.62
+2U061,9204,12101,Complement específic,28762.72
+2U061,9204,12103,Altres complementàries,4311.86
+2U061,9204,13000,Remuneracions basiques,8733.52
+2U061,9204,13002,Altres remuneracions,11361.42
+2U061,9204,15005,Productivitat 25%,1398.08
+2U061,9204,15006,Productivitat 25%,345.8
+2U061,9204,15300,Dedicació especial,13081.18
+2U061,9204,1600002,Seguretat social,26481.47
+2U061,9204,1600003,Seguretat social,6706.25
+2U061,9204,22104,Vestuari i equips de protecció individual,12100
+2U061,9204,2210401,Vestuari,18000
+2U061,9204,22699,Altres despeses diverses. Programa posicionament Fuer,4143.53
+2U061,9204,22706,Projectes i activitats de millora,7800
+2U061,9204,22799,Programes de col·laboració,24000
+2U061,9204,2279901,Formació per al personal Ajuntament,45000
+2U067,9320,12001,Sous Grup A2,12906.52
+2U067,9320,12006,triennis,667.14
+2U067,9320,12100,Complement desti,4899.02
+2U067,9320,12101,Complement específic,9395.82
+2U067,9320,12103,Altres complements,611.24
+2U067,9320,13000,Retribucions basiques,24216.18
+2U067,9320,13002,Altres retribucions,30383.64
+2U067,9320,15005,Productivitat 25%,474.83
+2U067,9320,15006,Productivitat 25%,906.69
+2U067,9320,1600002,Seguretat social,8887.75
+2U067,9320,1600003,Seguretat social,17634.85
+2000,1320,62401,Elements de transport,0
+2000,4330,62500,Mobiliari,0
+2000,4330,62600,Equips per a processos d'informació.,0
+2000,9209,62500,Mobiliari,0
+2000,9209,62600,Equips per a processos d'informació.,0
+2000,9209,63208,Inversió en reforma i conservació,0
+2000,9250,62401,Elements de transport,0
+3U031,3200,14301,Retribucions per substitucions,0
+3U031,3200,1600003,Seguretat social personal laboral,0
+3U031,9206,12003,Sous del grup C1,9884.84
+3U031,9206,12006,Triennis,4744.38
+3U031,9206,12100,Complement destinacio,4270.14
+3U031,9206,12101,Complement especific,8623.3
+3U031,9206,12103,Altres complements,3277.54
+3U031,9206,1210303,Incapacitat temporal,0
+3U031,9206,13000,Retribucions bàsiques,82587.86
+3U031,9206,13002,Altres remuneracions,114292.64
+3U031,9206,15005,25% Productivitat,566.58
+3U031,9206,15006,Paga productivitat 25%,3679.89
+3U031,9206,15300,Complement de dedicació especial,19829.74
+3U031,9206,1600002,Seguretat social,10947.53
+3U031,9206,1600003,Seguretat social,64474.97
+3U031,9206,16209,Altres despeses socials: garantització salari,0
+3U032,2310,13000,Retribucions bàsiques,88689.28
+3U032,2310,13002,Altres remuneracions,119212.94
+3U032,2310,15006,25% productivitat,3532.36
+3U032,2310,15300,especial dedidacio,6873.16
+3U032,2310,1600003,Seguretat social,64336.67
+3U032,2314,13000,Remuneracions bàsiques,14669.58
+3U032,2314,13002,Altres remuneracions,17881.5
+3U032,2314,15006,25% Productivitat,542.22
+3U032,2314,1600003,Seguretat social,10435.59
+3U032,3260,12001,Sous del grup A2,12906.52
+3U032,3260,12006,Triennis,2700.88
+3U032,3260,12100,Complement desti,4899.02
+3U032,3260,12101,Compelmnt especific,10557.82
+3U032,3260,12103,Altres complements,3165.26
+3U032,3260,15005,Productivitat 25% funcionaris,0
+3U032,3260,1600002,Seguretat social,10730.88
+3U033,2310,12001,Sous del grup A2,51626.04
+3U033,2310,12004,Sous del grup C2,8378.58
+3U033,2310,12006,Triennis,4902.11
+3U033,2310,12100,Complement de destinacio,23237.06
+3U033,2310,12101,Complement específic,49022.82
+3U033,2310,12103,Altres complements,6473.88
+3U033,2310,13000,Retribucions bàsiques,266227.06
+3U033,2310,13002,Altres retribucions,335513.88
+3U033,2310,14301,Retribucions substitucions,58236.21
+3U033,2310,14302,Retribució reforços,7548.73
+3U033,2310,15001,Productivitat 2on rendiment,397.88
+3U033,2310,15005,25% Productivitat,2327.88
+3U033,2310,15006,25% Productivitat,9551.84
+3U033,2310,1600002,Seguretat sociall,55561.62
+3U033,2310,1600003,Seguretat social,202920.14
+3U033,2310,16209,Altres despeses socials: garantització salari,0
+3U033,2310,21200,"Reparacions, manteniment i conservació d'edificis i altres c",10000
+3U033,2310,22300,Transports,64580
+3U033,2310,22602,Promoció i difusió,0
+3U033,2310,22699,Altres despeses diverses,4000
+3U033,2310,2269903,Mesures excepcionals 2015. Projecte suport col.lectius amb e,130000
+3U033,2310,2269914,Altres despeses diverses,0
+3U033,2310,22706,Estudis i treballs tècnics.,6000
+3U033,2310,2270614,Estudis i treballs tècnics.,0
+3U033,2310,22799,Programes de col.laboració,326810.13
+3U033,2310,2279914,Altres treballs realitzats per altres empreses i profes.,0
+3U033,2310,44900,Aportació Finca Font del Ferro,425007.7
+3U033,2310,46500,Conveni equip atenció a infàncies i adolescència (EAIA),48500
+3U033,2310,48000,Ajuts individuals i familiars,250000
+3U033,2310,48001,Ajuts menjador escolar Consell Comarcal,386232
+3U033,2310,48002,Subvenció conveni Club Esportiu Horitzó,5700
+3U033,2310,48003,Conveni Punt de Trobada,6200
+3U033,2310,48011,Mesures excepcionals 2015. Accions ajuts a les famílies i co,755000
+3U033,2310,48012,Mesures excepcionals 2015. Suport a entitats socials de Rubí,179000
+3U033,2310,62500,MOBILIARIO,0
+3U033,2314,12001,Sous del grup A2,12906.52
+3U033,2314,12006,Triennis,1369.05
+3U033,2314,12100,Complement de destinació,4899.02
+3U033,2314,12101,Complement específic,10691.1
+3U033,2314,12103,Altres complements,3110.1
+3U033,2314,13000,Retribucions bàsiques,109699.3
+3U033,2314,13002,Altres remuneracions,153748.14
+3U033,2314,1300204,Altres remuneracions.,0
+3U033,2314,14304,Altre personal.,0
+3U033,2314,15005,Paga productivitat 25%,547.16
+3U033,2314,15006,Paga productivitat 25%,3847.66
+3U033,2314,1600002,Seguretat Social,10575.9
+3U033,2314,1600003,Seguretat Social,85278.8
+3U033,2314,1600011,Seguretat Social.,0
+3U033,2314,16209,Altres despeses socials: garantització salari,0
+3U033,2314,21400,"Reparacions, manteniment i conservació d'elements del transp",0
+3U033,2314,22103,Combustibles i carburants.,3000
+3U033,2314,22300,Transports,89634.67
+3U033,2314,22799,Programes de col·laboració,1165495.53
+3U035,3110,13000,Retribucions bàsiques,92514.84
+3U035,3110,13002,Altres remuneracions,100291.8
+3U035,3110,15006,Paga productivitat 25%,3197.17
+3U035,3110,15300,Complement de dedicació especial,11999.96
+3U035,3110,1600003,Seguretat Social,60794.04
+3U035,3110,21400,"Reparacions, manteniment i conservació d'elements transport",0
+3U035,3110,22103,Combustibles i carburants.,0
+3U035,3110,22602,Promoció i difusió,5000
+3U035,3110,22606,"Reunions, conferències i cursos",3000
+3U035,3110,22609,Activitats culturals i esportives,0
+3U035,3110,22699,Altres despeses diverses,34498.34
+3U035,3110,22700,Neteja i toaleta,8750
+3U035,3110,22799,Programes de col·laboració,49609.1
+3U035,3110,2279914,Altres treballs realitzats per altres empreses i profes.,0
+3U035,3110,48000,Subvencions a entitats salut pública,6000
+3U036,3200,12005,Sous del grup E,21244.33
+3U036,3200,12006,Triennis,1051.11
+3U036,3200,12100,Complement de destinació,9203.88
+3U036,3200,12101,Complement específic,31896.2
+3U036,3200,12103,Altres complements,2483.18
+3U036,3200,13000,Retribucions bàsiques,184226.63
+3U036,3200,13002,Altres remuneracions,341020.4
+3U036,3200,14301,Retribucions per substitucions,25165.25
+3U036,3200,15005,Paga productivitat 25%,912.25
+3U036,3200,15006,Paga productivitat 25%,8631.05
+3U036,3200,1600002,Seguretat Social,20786.96
+3U036,3200,1600003,Seguretat Social,178140.06
+3U036,3200,16209,Altres despeses socials: garantització salari,0
+3U036,3200,20300,ARRENDAMIENTO MAQUIN. INSTALAC. Y UTILL.,10000
+3U036,3200,22103,Combustibles i carburants.,100
+3U036,3200,22602,Promoció i difusió,8460.04
+3U036,3200,48000,Conveni autonomia de centres CEIP'S,34000
+3U036,3200,48001,Ajuts transport,7000
+3U036,3260,13000,Retribucions bàsiques,73666.3
+3U036,3260,13002,Altres remuneracions,90575.8
+3U036,3260,15006,Paga productivitat 25%,2693.56
+3U036,3260,1600003,Seguretat Social,53361.93
+3U036,3260,21300,"Reparacions, manteniment de maquinària, instal.lacions i uti",300
+3U036,3260,21400,"reparacions, manteniment, conservació d'elements transport",300
+3U036,3260,22000,Material oficina no inventariable,200
+3U036,3260,22001,"Premsa, revistes, llibres i altres publicacions",14000
+3U036,3260,22300,Transports,40000
+3U036,3260,22602,Promoció i difusió,8700
+3U036,3260,22606,"Reunions, conferències i cursos.",18100
+3U036,3260,22609,Activitats culturals i esportives,55737
+3U036,3260,22699,Altres despeses diverses,5100
+3U036,3260,22706,Projectes i activitats de millora,13000
+3U036,3260,22799,Programes de col·laboració,263125
+3U036,3260,48000,Subvenció Asociación Internacional Ciudades Educadores,350
+3U036,3260,48001,Conveni moviment de mestres,800
+3U036,3260,48002,Subvenció amics de la bressola i cercle,601
+3U036,3260,48003,Conveni col.laboració UAB. Projecte ITACA,3500
+3U036,3260,48005,Subvenció Esbartdansaires de Rubí. Campanya dansa a les esco,39000
+3U036,3260,48006,Subvenció Aula Jove. Programa de reforç escolar,3000
+3U036,3260,48007,Subvencions Centres educatius,20000
+3U036,3260,48009,Subvenció per lleure educatiu,40000
+3U036,3260,48010,Subvenció aniversaris escoles,500
+3U036,3260,48011,Subvenció esplais i agrupacions escoles,10000
+3U036,3260,48100,Premi de recerca Miquel Segura,1250
+3U037,3261,13000,Retribucions bàsiques,228330.94
+3U037,3261,13002,Altres remuneracions,293229.02
+3U037,3261,14301,Retribucions substitucions,65374.68
+3U037,3261,14302,Retribuciones per retribuciones,9712.79
+3U037,3261,15001,Productivitat 2. esp. rendiment,1868.58
+3U037,3261,15006,Paga productivitat 25%,9043.55
+3U037,3261,1600003,Seguretat social,193940.61
+3U037,3261,16209,Altres despeses socials: garantització salari,0
+3U037,3261,22000,Material d'oficina ordinari no inventariable,13000
+3U037,3261,22105,Productes alimentaris,86000
+3U037,3261,22110,Productes de neteja i acondicionament,3700
+3U037,3261,22609,Activitats culturals i esportives,3500
+3U037,3261,22699,Altres despeses diverses,900
+3U037,3261,22706,Estudis i treballs tècnics,7390
+3U037,3261,22799,Programes de col·laboració,1140000
+3U038,3262,13000,Retribucions bàsiques,303419.15
+3U038,3262,13002,Altres remuneracions,303116.81
+3U038,3262,15006,Paga productivitat 25%,10089.94
+3U038,3262,15300,Complement de dedicació especial,5486.18
+3U038,3262,1600003,Seguretat Social,195166.6
+3U038,3262,16209,Altres despeses socials: garantització salari,0
+3U038,3262,21300,"Reparacions, manteniment i conservació de maquinària, instal",5100
+3U038,3262,21600,"Reparacions, manteniment i conservació d'equips per a proces",9806
+3U038,3262,2200001,Altre material divers,6290
+3U038,3262,22001,"Premsa, revistes i altres publicacions",4925
+3U038,3262,22609,Activitats culturals i esportives,2852
+3U038,3262,22699,Altres despeses diverses,2900
+3U038,3262,48000,Subvenció alumnes preu públic,2900
+3U038,3262,48001,Premi concurs de màscares de l'Escola d'Art,300
+3U038,3262,48002,Premi concurs pintura Daniel Bass,1000
+3U038,3262,62600,Equips per a processos d'informació,20235
+3U039,3263,13000,Retribucions bàsiques,341344.89
+3U039,3263,13002,Altres remuneracions,344409.06
+3U039,3263,15006,Paga productivitat 25%,11339.48
+3U039,3263,15300,Complement de dedicació especial,7354.2
+3U039,3263,1600003,Seguretat Social,218912.77
+3U039,3263,16209,Altres despeses socials: garantització salari,0
+3U039,3263,21300,"Reparacions, manteniment i conservació de maquinària, instal",4900
+3U039,3263,21600,Rep. mant. i conserv. equips per a processos,700
+3U039,3263,2200001,Altre material divers,2965
+3U039,3263,22002,Material informàtic no inventariable.,200
+3U039,3263,22299,Altres despeses en comunicacions.,400
+3U039,3263,22300,Transports,500
+3U039,3263,22602,Promoció i difusió,2900
+3U039,3263,22609,Activitats culturals i esportives,8150
+3U039,3263,22699,Altres despeses diverses,1100
+3U039,3263,48000,Subvenció alumnes preu públic,10120.13
+3U039,3263,62300,"Maquinària, instal·lacions tècniques i utillatge.",4700
+3U040,3410,12004,Sous del grup C2,8378.58
+3U040,3410,12006,Triennis,375.39
+3U040,3410,12100,Complement de destinació,3640.98
+3U040,3410,12101,Complement específic,6451.34
+3U040,3410,12103,Altres complements,398.44
+3U040,3410,13000,Retribucions bàsiques,33698.17
+3U040,3410,13002,Altres remuneracions,47108.6
+3U040,3410,15005,Paga productivitat 25%,319.5
+3U040,3410,15006,Paga productivitat 25%,1344.7
+3U040,3410,1600002,Seguretat Social,6006.23
+3U040,3410,1600003,Seguretat Social,25304.1
+3U040,3410,2200001,Altre material divers,1000
+3U040,3410,22103,Combustible i carburant,500
+3U040,3410,22199,Altres subministraments,2000
+3U040,3410,22602,Promoció i difusió,4000
+3U040,3410,22606,"Reunions, conferències i cursos.",500
+3U040,3410,22609,Activitats culturals i esportives,20000
+3U040,3410,22699,Altres despeses diverses,6000
+3U040,3410,22700,Neteja i toaleta,1000
+3U040,3410,22799,Programes de col·laboració,18341
+3U040,3410,48000,Subv.Club Esportiu Rubí Futbol Sala. Programa manteniment ge,56000
+3U040,3410,48001,Subvencions a entitats i programes esportius,7500
+3U040,3410,48002,Subvenció per la participació en els JEE,7000
+3U040,3410,48003,Subvenció Club Cent Patins. Base. Competicions nacionals i i,15000
+3U040,3410,48004,Subvencions especials activitats esportives,4500
+3U040,3410,48006,Subvenció Unió Esportiva Rubí. Temporada esportiva competici,46000
+3U040,3410,48007,Subvenció CE Olímpic de Can Fatjó. Temporada esportiva compe,18000
+3U040,3410,48008,Subvenció CE Esportiu Rubí Futbol Sala. Temporada esportiva,15000
+3U040,3410,48009,Subvenció CF Juventud 25 de Septiembre. Temporada esportiva,18000
+3U040,3410,48010,Subvenció Unió Atlètica Rubí. Temporada esportiva competicio,9000
+3U040,3410,48011,Subv.Club Esportiu Horitzó. Programa d'activitats esportives,3600
+3U040,3410,48012,Subvenció Club Voleibol Rubí. Temporada esportiva competicio,6200
+3U040,3410,48013,Subvenció CEB Sant Jordi. Temporada esportiva competicions f,6500
+3U040,3410,48014,Subvenció Club Handbol Rubí. Temporada esportiva competicion,1500
+3U040,3410,48015,Subvenció Club Esportiu Rubí Futbol Sala. Escola Esportiva.,3100
+3U040,3410,48016,Subvenció CEB Sant Jordi. Escola Esportiva.,2500
+3U040,3410,48017,Subvenció Club Voleibol Rubí. Escola Esportiva.,1500
+3U040,3410,48018,Subvenció Club Handbol Rubí. Escola Esportiva.,600
+3U040,3410,48019,Subvenció Escola Esportivs Cent Patins. Escola Esportiva.,1000
+3U040,3410,48022,Subvenció Club Unió Pentanca Les Torres-Rubí. Temporada espo,4000
+3U040,3410,48023,Subvenció Associació de veïns Les Torres. Programa d'espo,500
+3U040,3410,48024,Subvenció Escola Regina Carmeli. Temporada esportiva competi,4500
+3U040,3410,48025,Subvenció GAER. Temporada esportiva gimnàstica,1500
+3U040,3410,62400,Elements de transports,25000
+3U040,3420,13000,Retribucions bàsiques,31775.31
+3U040,3420,13002,Altres remuneracions,60538.66
+3U040,3420,15006,Paga productivitat 25%,1535.45
+3U040,3420,1600003,Seguretat Social,29864.02
+3U040,3420,20300,"Arrendament de maquinària, instal.lacions i utillatge",173601
+3U040,3420,20400,Arrendament de material de transport,0
+3U040,3420,21200,"Reparacions, manteniment i conservació d'edificis i altres c",40000
+3U040,3420,21300,"Reparacions i manteniment de maquinària, instal.lacions tècn",5000
+3U040,3420,21400,Reparacions i manteniment d'elements de transport,1000
+3U040,3420,22110,Productes de neteja i acondicionament,6000
+3U040,3420,22199,Altres subministrament,20000
+3U040,3420,22602,Publicitat i propaganda.,0
+3U040,3420,22699,Altres despeses diverses,500
+3U040,3420,22700,Neteja i toaleta,1000
+3U040,3420,22799,Programes de col·laboració,171000
+3U040,3420,48000,Subv. Club Esportiu Rubí Futbol Sala. Conveni dinamització p,64669
+3U040,3420,48002,Subvenció Unió Atlètica Rubí. Conveni per la gestió de piste,72000
+3U040,3420,48006,Subvenció Unió Atlètica Rubí. 50% de les quotes del préstec,4000
+3U040,3420,48007,"Subvenció CEB Sant Jordi. Millora, manteniment i conservació",2000
+3U040,3420,62200,Inversió nova en edificis i altres construccions,67589.19
+3U040,3420,62300,"Maquinària, instal·lacions tècniques i utillatge.",18000
+3U041,3321,12003,Sous del grup C1,44272.62
+3U041,3321,12004,Sous del grup C2,8369.71
+3U041,3321,12005,Sous del grup E,15357.15
+3U041,3321,12006,Triennis,6155.99
+3U041,3321,12100,Complement de destinació,29550.8
+3U041,3321,12101,Complement específic,57563.61
+3U041,3321,12103,Altres complements,14443.75
+3U041,3321,13000,Retribucions bàsiques,12659.55
+3U041,3321,13002,Altres remuneracions,14791.42
+3U041,3321,14301,retribucions per substitucions,7117.16
+3U041,3321,15005,Paga productivitat 25%,2887.44
+3U041,3321,15006,Paga productivitat 25%,452.64
+3U041,3321,1600002,SEguretat Social,56264.01
+3U041,3321,1600003,Seguretat Social,11130.18
+3U041,3321,22001,"Premsa, revistes, llibres i altres publicacions.",15000
+3U041,3321,22602,Promoció i difusió,5000
+3U041,3321,22609,Activitats culturals i esportives,18000
+3U041,3321,2260914,Activitats culturals i esportives,0
+3U041,3321,22699,Altres despeses diverses,15168.31
+3U041,3321,22701,Seguretat.,19000
+3U041,3321,62500,Mobiliari,3000
+3U041,3330,13000,Retribucions bàsiques,44606.67
+3U041,3330,13002,Altres remuneracions,70487.19
+3U041,3330,15006,Paga productivitat 25%,1910.75
+3U041,3330,1600003,Seguretat Social,36726.89
+3U041,3330,22199,Altres subministraments.,0
+3U041,3330,22602,Promoció i difusió,12500
+3U041,3330,22609,Activitats culturals i esportives,74000.86
+3U041,3330,2269901,Peticions extraordinàries,28000
+3U041,3330,48001,Subvenció Entitat El Gra,12500
+3U041,3330,48002,Conveni Centre d'Estudis Rubinencs,2500
+3U041,3330,48004,Conveni Museu Vallhonrat,2500
+3U041,3340,12001,Sous del grup A2,12906.52
+3U041,3340,12006,Triennis,467.94
+3U041,3340,12100,Complement destinacio,4899.02
+3U041,3340,12101,Complement especific,14049.98
+3U041,3340,12103,Altres complements,586.04
+3U041,3340,1210303,Incapacitat temporal,0
+3U041,3340,13000,retribucions basiques,36784.33
+3U041,3340,13002,retribucions complemntaries,56788.06
+3U041,3340,15001,Productivitat 2on rendiment,4849.74
+3U041,3340,15005,25%Productivitat,455.21
+3U041,3340,15006,Paga productivitat 25%,1638.43
+3U041,3340,1600002,Seguretat social,10243.02
+3U041,3340,1600003,Segureta Social,30032.12
+3U041,3340,16209,Altres despeses socials: garantització salari,0
+3U041,3340,22602,Promoció i difusió,500
+3U041,3340,22699,Altres despeses diverses,10000
+3U041,3340,48000,Subvencions anuals ordinàries a entitats culturals,26715.23
+3U041,3340,48001,Conveni Cultural Casino Espanyol,42518
+3U041,3340,48003,IBI Casino,8672
+3U041,3340,48004,Suport al Rubifolk,18000
+3U041,3340,48006,Subvenció CECAR,8500
+3U041,3340,48007,Subvenció Sant Antoni,38267
+3U041,3340,48008,Subvenció Associació Promoció de l'espectacle Infantil La,3500
+3U041,3340,48009,Subvenció Associació d'Animació Cultural carrer Sant Jaume,2500
+3U041,3340,48010,Subvenció Associació Cultural Sant Galderic,2500
+3U041,3340,48011,Subvenció Associació d'Amics d'Automòbils Antics,2200
+3U041,3340,48012,Subvenció Colla de Geganters de Rubí,14000
+3U041,3340,48013,Subvenció Associació de Pessebristes de Rubí,1200
+3U041,3342,12005,Sous del grup E,2991.54
+3U041,3342,12006,Triennis,36.75
+3U041,3342,12100,Complement de destinació,1296.12
+3U041,3342,12101,Complement específic,3100.72
+3U041,3342,12103,Altres complements,147.7
+3U041,3342,13000,Retribucions bàsiques,34902.3
+3U041,3342,13002,Altres remuneracions,59362.38
+3U041,3342,15005,Paga productivitat 25%,118.29
+3U041,3342,15006,Paga productivitat 25%,1602.08
+3U041,3342,15100,Gratificacions,0
+3U041,3342,1600002,Seguretat Social,2411.11
+3U041,3342,1600003,Seguretat Social,29807.29
+3U041,3342,20300,"arrendament maquinaria, instal·lacions i utillatge",0
+3U041,3342,22602,Promoció i difusió,13652.34
+3U041,3342,2260214,Publicitat i propaganda.,0
+3U041,3342,22609,Activitats culturals i esportives,83048.59
+3U041,3342,22699,Altres despeses diverses,4799.3
+3U041,3342,2269901,Peticions extraordinàries,10000
+3U041,3342,2269914,Altres despeses diverses,0
+3U041,3342,62500,Inversions en mobiliari,8832
+3U041,3380,13000,Retribucions bàsiques,33739.14
+3U041,3380,13002,Altres remuneracions,46438.98
+3U041,3380,15006,Paga productivitat 25%,1321.4
+3U041,3380,1600003,Seguretat Social,24655.4
+3U041,3380,16209,Altres despeses socials: garantització salari,0
+3U041,3380,20400,ARRENDAMIENTO MATERIAL DE TRANSPORTE,0
+3U041,3380,21400,"Reparacions, manteniment i conservació d'elements transport",0
+3U041,3380,22103,Combustibles i carburants.,0
+3U041,3380,22602,Promoció i difusió,14000
+3U041,3380,22609,Activitats culturals i esportives,313661.87
+3U041,3380,2260914,Activitats culturals i esportives,0
+3U041,3380,22699,Altres despeses diverses,5000
+3U041,3380,2269914,Altres despeses diverses,0
+3U041,3380,48000,Premis concursos,3100
+3000,1650,61902,Altres inversions - reposició línies elèctriques,0
+4U042,1350,12001,Sous del grupa A2,12906.52
+4U042,1350,12006,Triennis,1186.14
+4U042,1350,12100,Complement desti,4899.02
+4U042,1350,12101,Complement específic,9434.04
+4U042,1350,12103,Altres complements,611.24
+4U042,1350,15005,25% Productivitat,487.58
+4U042,1350,1600002,Seguretat social,9414.04
+4U042,1510,13000,retribucions basiques,8734.93
+4U042,1510,13002,Altres remuneracions,11890.76
+4U042,1510,15006,Paga productivitat 25%,341.01
+4U042,1510,1600003,Seguretat Social,6634.35
+4U042,1510,22603,Publicacions en diaris oficials,600
+4U042,1510,22699,Altres despeses diverses,400
+4U042,1510,60900,OBRES D'INVERSIONS urbanització solar,0
+4U042,1521,25000,Trabaj realitzats per admones públic i altres entid. Públic,0
+4U042,1521,44900,Subvenció estructura Proursa,657310
+4U042,1521,44904,Mesures excepcionals 2015. Reforç oficina mediació per les h,36400
+4U042,1521,74901,Aportació per a rehabilitació i adequació d'habitatge d'emer,0
+4U042,1710,13000,Retribucions basiques,8733.53
+4U042,1710,13002,altres remuneracions,11880.26
+4U042,1710,15006,25% Productivitat,340.85
+4U042,1710,1600003,Seguretat social,6630.96
+4U042,9200,11000,Retribucions bàsiques,74999.96
+4U042,9200,12001,Sous del grup A2,25813.04
+4U042,9200,12006,Triennis,6393.6
+4U042,9200,12100,Complement de destinació,11054.82
+4U042,9200,12101,Complement específic,23107.14
+4U042,9200,12103,Altres complements,18579.12
+4U042,9200,13000,Retribucions bàsiques,38637.74
+4U042,9200,13002,Altres remuneracions,62329.54
+4U042,9200,15005,Paga productivitat 25%,1777.34
+4U042,9200,15006,Paga productivitat 25%,1836.79
+4U042,9200,15300,Complement de dedicació especial,6683.6
+4U042,9200,1600001,Seguretat social,14085.12
+4U042,9200,1600002,Seguretat social,23398.33
+4U042,9200,1600003,Seguretat social,35028.01
+4U042,9200,16209,Altres despeses socials: garantització salari,0
+4U042,9200,21400,"Reparacions, manteniment i conservació d'elements de transpo",45127
+4U042,9200,2200001,Altre material divers,800
+4U042,9200,22103,Combustibles i carburants.,70000
+4U042,9200,22706,Projectes i activitats de millora,4000
+4U042,9200,60900,Altres inv noves projecte buits urbans,0
+4U042,9200,62200,Edificis i altres construccions edifici a Sant Muç,0
+4U042,9200,62400,Elements de transport.,0
+4U043,1510,12000,Sous del grup A1,29354.64
+4U043,1510,12006,Triennis,4515.36
+4U043,1510,12100,Complement de destinació,15930.6
+4U043,1510,12101,Complement específic,23249.66
+4U043,1510,12103,Altres complements,2708.3
+4U043,1510,13000,Retribucions bàsiques,44503.87
+4U043,1510,13002,Altres remuneracions,67767.84
+4U043,1510,15005,Paga productivitat 25%,1273.83
+4U043,1510,15006,Paga productivitat 25%,1871.61
+4U043,1510,1600002,Seguretat Social,23024.32
+4U043,1510,1600003,Seguretat Social,36391.38
+4U043,1510,16209,Altres despeses socials: garantització salari,0
+4U043,1510,22602,Promoció i difusió.,4000
+4U043,1510,22699,Altres despeses diverses,2000
+4U043,1510,22706,Estudis i treballs tècnics.,68798.36
+4U044,1511,12001,Sous del grup A2,12906.52
+4U044,1511,12004,Sous del grup C2,8378.58
+4U044,1511,12006,Triennis,2622.54
+4U044,1511,12100,Complement de destinació,8540
+4U044,1511,12101,Complement específic,20867.56
+4U044,1511,12103,Altres complements,5223.26
+4U044,1511,1210303,Incapacitat temporal,0
+4U044,1511,13000,Retribucions bàsiques,213150.34
+4U044,1511,13002,Altres remuneracions,263778.06
+4U044,1511,14304,Altre personal.,0
+4U044,1511,15005,Paga productivitat 25%,979.24
+4U044,1511,15006,Paga productivitat 25%,8187.24
+4U044,1511,15300,Complement de dedicació especial,17121.86
+4U044,1511,1600002,Seguretat Social,18913.13
+4U044,1511,1600003,Seguretat Social,156975.85
+4U044,1511,1600011,Seguretat Social.,0
+4U044,1511,16209,Altres despeses socials: garantització salari,0
+4U044,1511,21300,"Reparacions, manteniment i conservació de maquinària, instal",750
+4U044,1511,22699,Altres despeses diverses,3974.63
+4U045,1510,12001,Sous del grup A2,12906.52
+4U045,1510,12006,Triennis,1403.82
+4U045,1510,12100,Complement de destinació,7137.76
+4U045,1510,12101,Complement específic,11835.04
+4U045,1510,12103,Altres complements,1669.64
+4U045,1510,13000,Retribucions bàsiques,59967.82
+4U045,1510,13002,Altres remuneracions,70130.34
+4U045,1510,14304,Altre personal.,0
+4U045,1510,15005,Paga productivitat 25%,556.22
+4U045,1510,15006,Paga productivitat 25%,2165.42
+4U045,1510,15300,Complement de dedicació especial,7625.38
+4U045,1510,1600002,Seguretat Social,13089.24
+4U045,1510,1600003,Seguretat Social,41675.12
+4U045,1510,1600011,Seguretat Social.,0
+4U045,1510,60900,"Altres inv redacció projectes, direcció i coordinació 14-15",69248
+4U045,1510,60904,Inversió nova en infraestructures i béns d'ús general,128552
+4U045,1510,61900,Altres inversions en reposició accessiblitat en equipaments,0
+4U045,1510,64100,Despeses en aplicacions informàtiques.,0
+4U045,1511,63200,"Edificis i altres construccions, obres d'aïllament acústic",0
+4U045,1531,60902,Altres inversions noves urbanització c. Nou,0
+4U045,1531,60903,Altres inversions noves senyalització polígons,0
+4U045,1531,60905,Altres inv noves accessibilitat camí Vell d'Ullastrell,0
+4U045,1531,60908,Altres inv noves accessibilitat Can Vallhonrat,0
+4U045,1531,60911,Altres invers noves remodelació c. San Sebastià,0
+4U045,1531,6091101,Altres invers noves remodelació c. San Sebastià,0
+4U045,1531,60912,Altres inv noves remodelació integral centre,0
+4U045,1531,6091201,Altres inv. noves remodelació integral centre,0
+4U045,1531,60937,Altres invers noves urbanització 10 passos de serveis,0
+4U045,1531,60945,Altres invers noves creuament C-1413,0
+4U045,1531,60946,Altres invers noves rotonda sector A4,0
+4U045,1531,60949,Altres inv noves adequació espais PAES,0
+4U045,1531,60950,Altres inv noves senyalització polígons,0
+4U045,1531,60951,Altres inv noves WIFI espai públic,0
+4U045,1531,60952,Altres inv noves voreres c. Mare de Déu de Fàtima,0
+4U045,1531,60960,Col·lector i ampliació voreres C. Sant Muç,0
+4U045,1531,62205,Fotolinera Rubí + D,0
+4U045,1532,60900,Altres inversions noves Pla d'Asfaltat,0
+4U045,1532,60901,Altres inversions noves zones verdes i solars públics,0
+4U045,1532,60904,Altres invers noves en infraest i béns dest a l'ús gral,0
+4U045,1532,60906,Altres inv noves accessibilitat i seguretat Can Fatjó,0
+4U045,1532,60907,Altres inv noves accessibilitat c. Monturiol,0
+4U045,1532,60910,Altres invers noves remodelació c. Cal Príncep,0
+4U045,1532,60914,Altres inv noves accessibilitat Ca n'Oriol,0
+4U045,1532,60915,Altres inv noves remodelació c. General Castaños,0
+4U045,1532,60916,Altres inv noves remodelació c. Virgili,0
+4U045,1532,60917,Altres inv noves adequació plaça Salvador Allende,0
+4U045,1532,60919,Altres inv noves urbanització c. Esperança,0
+4U045,1532,60920,Altres invers noves urbanització plaça CEIP Rivó Rubeo,0
+4U045,1532,60921,Altres invers noves vorera passeig Riera,0
+4U045,1532,60925,Altres invers noves urbanització plaça Pep Ventura,0
+4U045,1532,60927,Altres invers noves voreres i escala ctra. Sabadell,0
+4U045,1532,60929,Altres inversions noves enllumenat i vorera ctra. Terrassa,0
+4U045,1532,60930,Altres invers noves camins escolars,0
+4U045,1532,60931,Altres inv noves carrils bicicleta,0
+4U045,1532,60932,Altres inv noves remodelació pont Can Sant Joan,0
+4U045,1532,60933,Altres inv noves pont i passeres sobre vies de ferrocarrils,0
+4U045,1532,60935,Altres inv noves jocs infantils,0
+4U045,1532,60936,Altres inv noves remodelació plaça Nova,0
+4U045,1532,60938,Altres invers noves urbanització zona verda PERI 22.1,0
+4U045,1532,60939,Altres inv noves millora parc de Ca n'Oriol,0
+4U045,1532,60940,Altres invers noves talús c. de la Perla,0
+4U045,1532,60941,Altres inv noves espais recollida de residus,0
+4U045,1532,60942,Altres invers noves zona verda i esbarjo Can Mir,0
+4U045,1532,60943,Altres invers noves asfaltat zona urbana,0
+4U045,1532,60944,Altres invers noves senyalització d'orientació,0
+4U045,1532,60947,Altres inv noves asfaltat zona industrial,0
+4U045,1532,60948,Altres inv noves voreres polígons industrials,0
+4U045,1532,62900,Altres inversions noves accessibilitat entorn mercat,0
+4U045,1610,12000,Sous del grup A1,14677.32
+4U045,1610,12006,Triennis,1565.31
+4U045,1610,12100,Complement destinació,6155.8
+4U045,1610,12101,Complement especific,10542
+4U045,1610,12103,Altres complements,1878.52
+4U045,1610,15005,Paga productivitat 25%,586.71
+4U045,1610,1600002,Seguretat Social,11328.27
+4U045,1610,22706,Estudis i treballs tècnics,21432.35
+4U045,1610,60900,Altres inv noves ramals col·lectors Conca 2 i 3,0
+4U045,1610,60901,Altres inv noves col·lector de la conca 2. Fase III,0
+4U045,1610,60902,Altres inv noves col·lector de la conca 3. Fase II,0
+4U045,1610,60903,Altres inv noves col·lectors centre urbà,0
+4U045,1621,60900,Altres inv noves soterrament de contenidors,0
+4U045,1650,60900,Altres inversions noves en infraestructures enllumenat públi,0
+4U045,1650,60901,Altres inv noves enllumenat accessos urbanitzacions,0
+4U045,1650,61900,Altres inver de reposic - Repar. enllumenat públic existent.,0
+4U045,1710,60901,Altres inv noves ampliació Parc del Castell,0
+4U045,1721,60901,Altres inv. noves adequació boscos municipals,0
+4U045,1721,60903,Altres inv noves camins rurals,0
+4U045,1721,60904,Altres inv noves riera Rubí,0
+4U045,1721,60905,Altres inv noves plaques fibrociment equipaments municipals,0
+4U045,1721,60906,Altres inv noves caldera biomassa CEIP Joan Maragall,0
+4U045,1721,61901,Franges forestals a urbanitzacions,0
+4U045,1721,61902,Altres inver. repos. Reforma i rehabilitació patrimoni local,0
+4U045,3260,61900,Altres inversions en reposició CEIP Pau Casals,0
+4U045,3261,63200,Acondicionament edificis CEIP Joan Maragall,0
+4U045,3261,63300,"Maquinària, instal. tècniques i utillatge",0
+4U045,3340,61900,Altres inversions de reposició edifici annex al Celler,120000
+4U045,4312,61900,Altres inversions de reposició adequació Mercat,220000
+4U045,4312,63300,Instal·lacions tècniques- Mercat,0
+4U045,4540,61903,Altres inversions de repos. millora i mant. camins locals,0
+4U045,9208,63200,Edificis i altres construccions,0
+4U045,9330,60900,Altres inv noves instal·lacions municipals d'aigua,0
+4U045,9330,60901,Altres inv noves Finca Fonst del Ferro,0
+4U045,9330,60903,Altres inv noves pavelló Can Rosés,0
+4U045,9330,60904,Altres invers noves pista esportiva Can Rosés,0
+4U045,9330,60905,Altres inv noves accés pavelló i camp futbol Can Rosés,0
+4U045,9330,60906,Altres inv noves camp futbol Can Fatjó,0
+4U045,9330,60907,Altres inv noves instal elèctriques camp futbol Can Fatjó,0
+4U045,9330,60908,Altres inv noves paviemtn camp futbol Can Fatjó,0
+4U045,9330,60909,Altres inv noves vestidors i lavabos públics CF Can Rosés,0
+4U045,9330,60910,Altres inv noves accés vestidors Can Rosés,0
+4U045,9330,60911,Altres invers noves cobertura tribuna Can Rosés,0
+4U045,9330,60912,Altres inv noves terreny de joc Can Rosés,0
+4U045,9330,60913,Altres inv noves instal i pista atletisme Can Rosés,0
+4U045,9330,60914,Altres inv noves camp fubol 25 de setembre,0
+4U045,9330,60915,Altres inv noves pavelló poliesportiu La Llana,0
+4U045,9330,60916,Altres inv noves pista Francesc Calvo,0
+4U045,9330,60917,Altres inv noves parc de la Pau i la Natura,0
+4U045,9330,60918,Altres inv noves pista c. Mallorca,0
+4U045,9330,60919,Altres inv noves skate parc,0
+4U045,9330,60920,Altres inv noves La Sala,0
+4U045,9330,60921,Altres inv noves remodelació CEIP Pau Casals,0
+4U045,9330,60922,Altres inv noves remodelació CEIP Ramón Llull,0
+4U045,9330,60923,Altres inv noves remodelació CEIP Joan Maragall,0
+4U045,9330,60924,Altres inv noves centre especial Ca n'Oriol,0
+4U045,9330,60925,Altres inv noves centre cívic Ca n'Oriol,0
+4U045,9330,60926,Altres inv noves alarmes contraincendis en edif municipals,0
+4U045,9330,60927,Altres inv noves buc assaig El Pinar,0
+4U045,9330,60928,Altres inv noves edifici Escardívol,0
+4U045,9330,60929,Altres in noves visual management energètic,0
+4U045,9330,60930,Altres inv noves monotoritzar Serv a les Persones,0
+4U045,9330,60931,Altres inv noves refredadora edifici Rubí+D,0
+4U045,9330,60932,Altres inv noves climatització antiga estació,0
+4U045,9330,60933,Altres inv noves CEIP Torre La Llebre,0
+4U045,9330,60934,Altres inv noves ignifugació parking i magatzem brigada,0
+4U045,9330,60935,Altres inv noves cementiri,0
+4U045,9330,60936,Altres inv noves deixalleria,0
+4U045,9330,60937,Altres invers noves en infraest - Execució mancances seguret,0
+4U045,9330,62200,Inv noves local social zona esportiva Can Mir,0
+4U045,9330,62201,Inv noves habitatges emergència social,0
+4U045,9330,62202,Inv noves Biblioteca Municipal,0
+4U045,9330,62203,Inv noves Celler,0
+4U045,9330,62204,Inv noves nau dels castellers,0
+4U046,1531,12000,Sous del grup A1,14677.32
+4U046,1531,12006,Triennis,1693.26
+4U046,1531,12100,Complement de destinació,11653.6
+4U046,1531,12101,Complement específic,16077.18
+4U046,1531,12103,Altres complemets,457.94
+4U046,1531,15005,Paga productivitat 25%,852.32
+4U046,1531,15300,Complement específic,6058.36
+4U046,1531,1600002,Seguretat Social,10904.64
+4U046,1650,21000,"Reparacions, manteniiment i conservació",1059326.97
+4U046,1650,22100,Energia elèctrica,533816.91
+4U046,1650,22706,Estudis i treballs tècnics.,0
+4U046,1650,61900,Mesures excepcionals 2015. Barris al dia II,17300
+4U046,9208,13000,Remuneracions bàsiques,14342.23
+4U046,9208,13002,Altres remuneracions,26303.9
+4U046,9208,15006,Paga productivitat 25%,640.22
+4U046,9208,1600003,Seguretat Social,12681.53
+4U046,9208,20300,ARRENDAMIENTO MAQUIN. INSTALAC. Y UTILL.,1000
+4U046,9208,21200,"Reparacions, manteniment i conservació d'edificis i altres c",98000
+4U046,9208,21300,"Reparacions, manteniment i conservació de maquinària, instal",602398.31
+4U046,9208,22001,"Premsa, revistes, llibres i altres publicacions.",150
+4U046,9208,22100,Energia elèctrica,1372672.06
+4U046,9208,22101,Aigua,231511.22
+4U046,9208,22102,Gas,350962.51
+4U046,9208,22103,Combustibles i carburants,40000
+4U046,9208,22199,Altre subministrament divers,84025.45
+4U046,9208,22699,Altres despeses diverses,500
+4U046,9208,2269901,Mesures excepcionals 2015. Pla de xoc posada al dia nucli ur,20000
+4U046,9208,48000,Subvenció. Projecte Euronet 50-50,60000
+4U046,9208,62300,"Maquinària, instal.lacions tècniques i utillatge",40000
+4U046,9208,63201,Mesures excepcionals 2015. Pla de xoc posada al dia nucli ur,20000
+4U046,9208,63208,Millores edificis municipals i escoles,20000
+4U047,1710,13000,Retribucions bàsiques,84372.37
+4U047,1710,13002,Altres remuneracions,143454.78
+4U047,1710,14304,Altre personal.,0
+4U047,1710,15006,Paga productivitat 25%,3852.05
+4U047,1710,15300,Complement de dedicació especial,3333.68
+4U047,1710,1600003,Seguretat Social,84492.39
+4U047,1710,1600011,Seguretat Social.,0
+4U047,1710,16209,Altres despeses socials: garantització salari,0
+4U047,1710,20400,Arrendament de material de transport,450
+4U047,1710,21000,"Reparacions, manteniment i conservació d'infraestructures i",1153669.03
+4U047,1710,21300,"Reparacions, manteniment i conservació de maquinària, instal",7000
+4U047,1710,22699,Altres despeses diverses,4060
+4U047,1710,2269901,Mesures excepcionals 2015. Pla de xoc polígons industrials,150000
+4U047,1710,2269902,Mesures excepcionals 2015. Barris al dia II,53700
+4U047,1710,2269903,Mesures excepcionals 2015. Pla de xoc accions posada al dia,115000
+4U047,1710,22799,Programes de col·laboració,135159.32
+4U047,1710,2279914,Altres treballs realitzats per altres empreses i profes.,0
+4U047,1710,60900,Altres inversions noves en infraestructures i béns destinats,30000
+4U047,1710,6090001,Mesures excepcionals 2015. Actuacions pla de xoc accions pos,15000
+4U047,1710,60902,SUBST. DE L'ARBRAT VIARI QUE ES TROBA MORT PER UNA NOVA ESP.,0
+4U047,1710,62400,Elements de transport.,0
+4U049,1320,13000,Retribucions bàsiques,8705.62
+4U049,1320,13002,Retribucions complementàries,20028.12
+4U049,1320,15006,Productivitat 25%,478.94
+4U049,1320,1600003,Seguretat social,10691.62
+4U049,1510,60901,Mesures excepcionals 2015. Programa suport creació ocupació,60000
+4U049,1510,62900,Altres inversions noves manteniment CEIP Pau Casals,445000
+4U049,1531,13000,Retribucions bàsiques,110920.11
+4U049,1531,13002,Altres remuneracions,242068.26
+4U049,1531,15006,Paga productivitat 25%,6282.78
+4U049,1531,15300,Complement de dedicació especial,32691.54
+4U049,1531,1600003,Seguretat Social,138986.83
+4U049,1531,20300,ARRENDAMIENTO MAQUIN. INSTALAC. Y UTILL.,0
+4U049,1531,20400,Arrendament de material de transport,27000
+4U049,1531,21000,"Reparacions, manteniment i conservació d'infraestructures",0
+4U049,1531,21300,"REPARAC. MANTEN, MAQUIN.,INSTA Y UTILLA.",1000
+4U049,1531,21900,"Reparacions, manteniment i conservació d'altre immobilitzat",40951.15
+4U049,1531,2200001,Altre material divers,1000
+4U049,1531,22199,Altres subministraments,60000
+4U049,1531,2219914,Altres subministraments.,0
+4U049,1531,22699,Altres despeses diverses,10000
+4U049,1531,2269901,Mesures excepcionals 2015. Pla de xoc polígons industrials,0
+4U049,1531,2269902,Mesures excepcionals 2015. Barris al dia II,235600
+4U049,1531,61901,Mesures excepcionals 2015. Barris al dia II,50200
+4U049,1531,62400,Inversions en elements de transport,35000
+4U049,1531,62901,Mesures excepcionals 2015. Actuacions foment xarxes sol.lida,90000
+4U049,1531,63100,Mesures excepcionals 2015. Pla de xoc accions de posada al d,50000
+4U049,1650,13000,Retribucions bàsiques,8564.54
+4U049,1650,13002,Altres remuneracions,19672.38
+4U049,1650,15006,25% Productivitat,472.9
+4U049,1650,1600003,Seguretat social,10892.08
+4U049,9208,13000,Retribucions bàsiques,115596.59
+4U049,9208,13002,Altres remuneracions,259892.11
+4U049,9208,14304,Altre personal.,0
+4U049,9208,15006,Paga productivitat 25%,5549.93
+4U049,9208,15300,Complement de dedicació especial,2383.64
+4U049,9208,1600003,Seguretat Social,143278.1
+4U049,9208,1600011,Seguretat Social.,0
+4U049,9208,16209,Altres despeses socials: garantització salari,0
+4U050,1340,12000,Sous del grup A1,14677.32
+4U050,1340,12003,Sous del grup C1,9884.84
+4U050,1340,12006,Triennis,4537.4
+4U050,1340,12100,Complement de destinació,15930.6
+4U050,1340,12101,Complement específic,35055.58
+4U050,1340,12103,Altres complements,6842.08
+4U050,1340,13000,Retribucions bàsiques,56454.88
+4U050,1340,13002,Altres remuneracions,99087.1
+4U050,1340,15005,Paga productivitat 25%,1758.79
+4U050,1340,15006,Paga productivitat 25%,2656.77
+4U050,1340,15300,Complement de dedicació especial,17531.64
+4U050,1340,1600002,Seguretat Social,27941.98
+4U050,1340,1600003,Seguretat Social,54177.78
+4U050,1340,20400,Arrendament material de transport,4500
+4U050,1340,21000,"Reparacions, manteniment i conservació d'infraestructures i",196563.92
+4U050,1340,2100014,"Reparacions, manteniment i conservació d'insfraestructures i",0
+4U050,1340,2200001,Altre material divers,3000
+4U050,1340,22602,Publicitat i propaganda.,2500
+4U050,1340,2260214,Publicitat i propaganda.,0
+4U050,1340,22699,Altres despeses diverses,0
+4U050,1340,2269901,Mesures excepcionals 2015. Pla de xoc polígons industrials,50000
+4U050,1340,2269902,Mesures excepcionals 2015. Barris al dia II,30700
+4U050,1340,2269903,Mesures excepcionals 2015. Pla xoc accions posada al dia nuc,28415
+4U050,1340,22701,Seguretat,21660
+4U050,1340,22706,Estudis i treballs tècnics.,0
+4U050,1340,22799,Programes de col·laboració,189000
+4U050,1340,46101,Conveni DIBA. Elaboració Pla Mobilitat Urbana,13170.74
+4U050,1340,61900,Mesures excepcionals 2015. Barris al dia II,12500
+4U050,1340,62300,"Compra de maquinària, instal.lacions tècniques i utillatge",5000
+4U050,1340,62900,Altres inversions noves associades al funcionament operatiu,20000
+4U050,4411,47900,Transferència Corporació Española de Transporte. Transport U,2110000
+4U050,4411,4790014,Transferència Corporació Española de Transporte. Transport U,0
+4U050,4411,47901,Conveni servei transport Castellbisbal-Rubí,25628.79
+4U051,1320,12001,Sous del grup A2,25813.04
+4U051,1320,12003,Sous del grup C1,69193.88
+4U051,1320,12004,Sous del grup C2,690441.08
+4U051,1320,12006,Triennis,158406.47
+4U051,1320,12100,Complement de destinació,473320.12
+4U051,1320,12101,Complement específic,1675744.72
+4U051,1320,12103,Altres complements,253178.38
+4U051,1320,1210303,Incapacitat temporal,0
+4U051,1320,13000,Retribucions bàsiques,38129.74
+4U051,1320,13002,Altres remuneracions,66739.74
+4U051,1320,15002,Valoració policia,195854.4
+4U051,1320,15003,Complement grua,6000
+4U051,1320,15005,Paga productivitat 25%,50037.89
+4U051,1320,15006,Paga productivitat 25%,1863.41
+4U051,1320,15100,Gratificacions,80000.04
+4U051,1320,15300,Complement de dedicació especial,48924.68
+4U051,1320,16000,Seguretat Social,43841.88
+4U051,1320,1600002,Seguretat Social,1059942.07
+4U051,1320,1600003,Seguretat Social,35571.79
+4U051,1320,16209,Altres despeses socials: garantització salari,0
+4U051,1320,20400,Arrendament de material de transport,160233.52
+4U051,1320,2040014,Arrendament de material de transport,0
+4U051,1320,20500,Arrendament de mobiliari i béns,3503
+4U051,1320,21300,"Reparacions, manteniment i conservació de maquinària, instal",2000
+4U051,1320,21600,"Reparacions, manteniment i conservació d'equips per a proces",4000
+4U051,1320,21900,"Reparacions, manteniment i conservació d'altre immobilitzat",9500
+4U051,1320,22000,Material d'oficina ordinari no inventariable,400
+4U051,1320,2200001,Altre material divers,3000
+4U051,1320,22104,Vestuari,59545
+4U051,1320,22113,Manutenció d'animals,2000
+4U051,1320,22200,Serveis de telecomunicacions,500
+4U051,1320,22699,Altres despeses diverses,1000
+4U051,1320,22799,Programes de col·laboració,620
+4U051,1320,62400,Elements de transport.,0
+4U051,1350,13000,RETRIBUCIONS BASIQUES,4164.54
+4U051,1350,13002,ALTRES REMUNERACIONS,5716.06
+4U051,1350,15006,Productivitat 25% laborals,0
+4U051,1350,15300,PRODUCTIVITAT,3070.34
+4U051,1350,1600003,Seguretat Social,3999.9
+4U051,1350,20300,"Arrendament de maquinaria, instal·lacions i utillatge",4000
+4U051,1350,21300,"Reparacions, manteniment i conservació de maquinària, instal",10500
+4U051,1350,21400,"Reparació, manteniment i conservació d'elements de transport",4000
+4U051,1350,2200001,Altre material divers,12500
+4U051,1350,22104,Vestuari,7500
+4U051,1350,22606,"Reunions, conferències i cursos",6750
+4U051,1350,22699,Altres despeses diverses,3000
+4U051,1350,22706,Estudis i treballs tècnics.,15000
+4U051,1350,48000,Conveni col.laboració Creu Roja,4000
+4U051,1350,48001,Conveni amb la Fundació per als Estudis de Prevenció i Segur,1000
+4U051,1350,48003,Subvenció Associació Voluntaris de Protecció Civil,2000
+4U051,1350,48004,Subvenció ADF Rubí,2000
+4U052,1621,12001,Sous del grup A2,12906.52
+4U052,1621,12006,Triennis,5147.34
+4U052,1621,12100,Complement de destinació,6155.8
+4U052,1621,12101,Complement específic,12298.02
+4U052,1621,12103,Altres complements,4753
+4U052,1621,13000,Retribucions bàsiques,28617.72
+4U052,1621,13002,Altres remuneracions,40609.38
+4U052,1621,15005,Paga productivitat 25%,781.86
+4U052,1621,15006,Paga productivitat 25%,1318.65
+4U052,1621,15300,Complement de dedicació especial,14465.5
+4U052,1621,1600002,Seguretat Social,13987.56
+4U052,1621,1600003,Seguretat Social,23094.9
+4U052,1621,1610401,Indemnització per jubilació o invalidessa,0
+4U052,1621,22704,Deixalleria,124483.41
+4U052,1621,22706,Estudis i treballs tècnics.,20000
+4U052,1621,22799,Programes de col·laboració,3642526.71
+4U052,1621,2279901,Treballs de tractament i abocadors residus,1667486.76
+4U052,1621,2279902,Plantes de compostatge,234038
+4U052,1621,2279913,Altres treballs realitzats per altres empreses i profes.,22834.32
+4U052,1630,22700,Neteja viària,3110105.66
+4U052,1721,13000,Retribucions bàsiques,46734.3
+4U052,1721,13002,Altres remuneracions,64614.06
+4U052,1721,14304,Altre personal.,0
+4U052,1721,15006,Paga productivitat 25%,1969.03
+4U052,1721,15300,Complement de dedicació especial,12934.18
+4U052,1721,1600003,Seguretat Social,37555.29
+4U052,1721,1600011,Seguretat Social.,0
+4U052,1721,21000,"Reparacions, manteniment i conservació d'infraestructures i",214542.53
+4U052,1721,22602,Publicitat i propaganda.,0
+4U052,1721,22699,Altres despeses diverses,5000
+4U052,1721,22706,Estudis i treballs tècnics.,10000
+4U052,1721,60901,Projecte mapa d'olors,40000
+4U052,3111,13000,Retribucions bàsiques,8708.17
+4U052,3111,13002,Altres remuneracions,18057.62
+4U052,3111,15006,25% Productivitat,445.51
+4U052,3111,1600003,Seguretat social,8846.26
+4U052,3111,21300,"REPARAC. MANTEN, MAQUIN.,INSTA Y UTILLA.",0
+4U052,3111,22199,Altres subministraments.,2000
+4U052,3111,22799,Programes de col·laboració,254807.99
+4U052,9208,22700,Neteja de dependències,2308122.55
+4U053,4312,13000,Retribucions bàsiques,27380.79
+4U053,4312,13002,Altres remuneracions,55126.82
+4U053,4312,15006,Paga productivitat 25%,1509.12
+4U053,4312,15300,Complement de dedicació especial,8688.68
+4U053,4312,1600003,Seguretat Social,30073.02
+4U053,4312,20300,"Arrendament de maquinària, instal.lacions i utillatge",6920
+4U053,4312,21300,"Reparacions, manteniment i conservació de maquinària, instal",8414.05
+4U053,4312,22199,Altres subministraments.,0
+4U053,4312,22700,Neteja,154768.5
+4U053,4312,22701,Seguretat.,10784.83
+4U053,4312,22706,Estudis i treballs tècnics.,11779.35
+4U054,1640,12003,SOUS DEL GRUP C1,9884.86
+4U054,1640,12004,SOUS DEL GRUP C2,8378.58
+4U054,1640,12006,TRIENNIS,4933.9
+4U054,1640,12100,COMPLEMENT DE DESTINACIO,8540
+4U054,1640,12101,COMPLEMENT ESPECIFIC,18470.34
+4U054,1640,12103,ALTRES COMPLEMENTS,3903.06
+4U054,1640,13000,RETRIBUCIONS BASIQUES,17798.35
+4U054,1640,13002,ALTRES REMUNERACIONS,28956.06
+4U054,1640,15005,Paga productivitat 25%,913.26
+4U054,1640,15006,Paga productivitat 25%,747.36
+4U054,1640,15300,Complement de dedicació especial,3339
+4U054,1640,1600002,Seguretat Social,20041.29
+4U054,1640,1600003,Seguretat Social,17704.43
+4U054,1640,21200,"Reparacions, manteniment i conservació d'edificis i altres c",12876.97
+4U054,1640,21300,"Reparacions, mateniment, i conservació de maquinària, instal",0
+4U054,1640,22699,Altres despeses diverses,5000
+4U057,1510,13000,Retribucions bàsiques,43446.81
+4U057,1510,13002,Altres remuneracions,78792.98
+4U057,1510,15006,Paga productivitat 25%,2040.48
+4U057,1510,1600003,Seguretat Social,40456.99
+4100,2310,63300,Plans Ocupació 2010,0
+5200,1532,61903,Altres inversions a la via pública i espais verds,0
+5200,1532,63300,"Maquinària, instal·lacions tècniques i utillatge",0
+5200,1532,63310,Instal·lacions tècniques-Adequació espai exterior el Celler,0
+5200,1610,60900,Ramal Conca 2-3,0
+5200,1610,60901,Altres inversions noves en infraestru. i béns d'us general,0
+5200,1650,60902,Obres inversions - connexions CEIP c. Mallorca,0
+5200,3200,63201,Inversió de reposició en edificis i altres construccions,0
+5200,3340,78000,Transfer de capital a l'associació Casino Español de Rubí,0
+5200,4312,62220,Edificis i altres construccions,0
+5200,9208,63200,Edificis i altres construccions,0
+5200,9209,63311,Instal·lacions tècniques . Millore equipaments municipals,0
+6100,2410,63300,"Maquinària,",0
+6210,4330,62600,Equips per a processos d'informació.,0
+9U002,9125,22602,Promoció i difusió,0
+9U002,9125,22706,Projectes i activitats de millora,68017
+9U002,9125,22799,Altres treballs realitzats per altres empreses i profes.,0
+9U002,9125,23110,Del personal directiu.,0
+9U058,9125,12000,Sous del grup A1,14677.32
+9U058,9125,12006,Triennis,1128.84
+9U058,9125,12100,Complement destinacio,11653.6
+9U058,9125,12101,Complement especific,16087.26
+9U058,9125,12103,Altres complements,837.06
+9U058,9125,15005,Productivitat 25%,856.03
+9U058,9125,15300,Escpecial dedicacio,8732.08
+9U058,9125,1600002,Seguretat social,13284.6
+9U059,2313,13000,Retribucions bàsiques,41870.25
+9U059,2313,13002,Altres remuneracions,50712.62
+9U059,2313,14304,Altre personal.,0
+9U059,2313,15006,Productivitat 25%,1621.79
+9U059,2313,15300,Especial dedicacio,4617.48
+9U059,2313,1600003,Seguretat social,31015.14
+9U059,2313,1600011,Seguretat Social.,0
+9U059,2313,16209,Altres despeses socials: garantització salari,0
+9U059,2313,22601,Atencions protocol·laries i representatives,1000
+9U059,2313,22602,Promoció i difusió,6500
+9U059,2313,22609,Activitats culturals i esportives,20000
+9U059,2313,22699,Altres despeses diverses,7958.33
+9U059,2313,2269901,Mesures excepcionals 2015. Cohesió social al territori,50000
+9U059,2313,2269914,Altres despeses diverses,0
+9U059,2313,22799,Programes de col·laboració,83967.32
+9U059,2313,2279914,Altres treballs realitzats per altres empreses i profes.,0
+9U059,2313,48004,A Famílies i Institucions sense fins de lucre.,1169
+9U059,2313,48100,Premis al Civisme,4000
+9U059,9240,12001,Sous del Grup A2.,0
+9U059,9240,12100,Complement de destinació.,0
+9U059,9240,12101,Complement específic.,0
+9U059,9240,12103,Altres complements.,0
+9U059,9240,13000,Retribucions bàsiques,89861.92
+9U059,9240,13002,Altres remuneracions,129977.96
+9U059,9240,15005,Productivitat 25% funcionaris,0
+9U059,9240,15006,Productivitat 25%,3648.33
+9U059,9240,1600002,Seguretat social personal funcionari,0
+9U059,9240,1600003,Seguretat social,72738.73
+9U059,9240,16209,Altres despeses socials: garantització salari,0
+9U059,9240,20300,"Arrendament de maquinària, instal.lacions i utillatge",88000
+9U059,9240,20500,Arrendament de mobiliari i altres,264000
+9U059,9240,2050014,Arrendaments de mobiliari i estris,0
+9U059,9240,21600,Manteniment equips per a processos d'informació,3500
+9U059,9240,22203,Informàtiques.,0
+9U059,9240,22602,Promoció i difusió,30000
+9U059,9240,22609,Activitats culturals i esportives,42999.47
+9U059,9240,2260914,Activitats culturals i esportives,0
+9U059,9240,22699,Altres despeses diverses,3000
+9U059,9240,2269903,Mesures excepcionals 2015. Actuacions de foment de les xarxe,10000
+9U059,9240,2269904,Mesures excepcionals 2015. Programa impuls creació empreses,30000
+9U059,9240,2269905,Mesures excepcionals 2015. Projecte cohesió social en el ter,15000
+9U059,9240,2269914,Altres despeses diverses,0
+9U059,9240,22700,Neteja,68000
+9U059,9240,22701,Seguretat,21000
+9U059,9240,22706,Estudis i treballs tècnics.,0
+9U059,9240,22799,Programes de col·laboració,119992.15
+9U059,9240,2279914,Altres treballs realitzats per altres empreses i profes.,0
+9U059,9240,23120,Del personal no directiu.,0
+9U059,9240,48000,Subvenció de participació,20000
+9U059,9240,48001,Aportació Xarxa Fundació Kaleidos. RED,6010.12
+9U059,9240,62900,Control accés edifici el Pinar,0
+9U059,9240,62901,Servei wifi Centre Cívic El Pinar,0
+9U059,9242,13000,Remuneracions bàsiques,35154.2
+9U059,9242,13002,Remunercaions bàsiques,47007.94
+9U059,9242,15006,Paga productivitat 25%,1415.79
+9U059,9242,1600003,Seguretat social,26642.3
+9U059,9242,16209,Altres despeses socials: garantització salari,0
+9U059,9242,20300,ARRENDAMIENTO MAQUIN. INSTALAC. Y UTILL.,3000
+9U059,9242,20500,Arrendaments de mobiliari i estris,26912.48
+9U059,9242,22602,Promoció i difusió,9100
+9U059,9242,22609,Activitats culturals i esportives,25900
+9U059,9242,22699,Altres despeses diverses,3800
+9U059,9242,22706,Estudis i treballs tècnics.,20000
+9U059,9242,22799,Programes de col·laboració,35000
+9U059,9242,48000,Projectes Cooperació,145000
+9U059,9242,48001,Subvencions projectes de sensibilització,25000
+9U059,9242,48002,Participació fons supramunicipal,5000
+9U059,9242,48003,Suport a les ciutats agermanades,20000
+9U059,9242,48005,Campanyes d'emergències,30000
+9U060,2312,13000,Retribucions bàsiques,43870.95
+9U060,2312,13002,Altres remuneracions,58029.44
+9U060,2312,15006,Productivitat 25%,1939.43
+9U060,2312,15300,Especial dedicació,9023.28
+9U060,2312,1600003,Seguretat social,34889.61
+9U060,2312,22001,"Premsa, revistes, llibres i altres publicacions.",0
+9U060,2312,22203,Informàtiques.,0
+9U060,2312,22602,Promoció i difusió,6500
+9U060,2312,22609,Activitats culturals i esportives,14000
+9U060,2312,22699,Altres despeses diverses,9500
+9U060,2312,22799,Programes de col·laboració,58127.03
+9U060,3370,12001,Sous Grup A2,12408.82
+9U060,3370,12006,Triennis.,0
+9U060,3370,12100,Complement desti,4899.02
+9U060,3370,12101,Complement especific,14564.76
+9U060,3370,12103,Altres complements,1172.08
+9U060,3370,13000,Retribucions bàsiques,30500.01
+9U060,3370,13002,Altres remuneracions,47144.16
+9U060,3370,15005,Productivitat 25%,910.42
+9U060,3370,15006,Productivitat 25%,1427.93
+9U060,3370,15300,Especial dedicació,5721.38
+9U060,3370,1600002,Seguretat social,11182
+9U060,3370,1600003,Seguretat social,24488.48
+9U060,3370,16209,Altres despeses socials: garantització salari,0
+9U060,3370,21600,Manteniment equips per a processos d'informació,10000
+9U060,3370,22001,"Premsa, revistes, llibres i altres publicacions.",100
+9U060,3370,22203,Informàtiques.,250
+9U060,3370,22602,Promoció i difusió,4500
+9U060,3370,22606,"Reunions, conferències i cursos.",0
+9U060,3370,22609,Activitats culturals i esportives,18000
+9U060,3370,22699,Altres despeses diverses,16500
+9U060,3370,22799,Programes de col·laboració,68984.34
+9U060,3370,48000,Subvencions a entitats,5000

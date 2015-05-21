@@ -1,0 +1,124 @@
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deuda pública
+0,1,,,Deuda pública
+1,,,,Servicios públicos básicos
+1,3,,,Seguridad y movilidad ciudadana
+1,5,,,Vivienda y urbanismo
+1,6,,,Bienestar comunitario
+1,7,,,Medio ambiente
+2,,,,Actuaciones de protección y promoción social
+2,1,,,Pensiones
+2,2,,,Otras prestaciones económicas a favor de empleados
+2,3,,,Servicios sociales y promoción social
+2,4,,,Fomento del empleo
+3,,,,Produccion de bienes públicos de caracter preferente
+3,1,,,Sanidad
+3,2,,,Educación
+3,3,,,Cultura
+3,4,,,Deporte
+4,,,,Actuaciones de caracter económico
+4,1,,,Agricultura ganadería y pesca
+4,2,,,Industria y energía
+4,3,,,"Comercio, turismo y pequeñas y medianas empresas"
+4,4,,,Transporte público
+4,5,,,Infraestructuras
+4,6,,,"Investigación, desarrollo e innovación"
+4,9,,,Otras actuaciones de caracter económico
+9,,,,Actuaciones de caracter general
+9,1,,,Órganos de gobierno
+9,2,,,Servicios de carácter general
+9,3,,,Administración financiera y tributaria
+9,4,,,Transferencias a otras administraciónes públicas
+#
+# Programas específicos de Rubí
+0,1,1,0,Deuda pública
+1,3,2,0,Seguridad y orden público
+1,3,3,0,Mobilidad
+1,3,4,0,Protección civil
+1,3,5,0,Protección civil 2
+1,5,0,0,Administración general de urbanismo
+1,5,1,0,Urbanismo
+1,5,1,1,Licencias de actividades y disciplina urbanística
+1,5,1,2,Planeamiento y gestión urbanística
+1,5,1,3,Proyectos urbanos
+1,5,1,4,Licencias de actividades y disciplina urbanística
+1,5,2,1,Vivienda
+1,5,3,1,Vias públicas y mantenimiento urbano
+1,5,5,1,Espacio público y movilidad
+1,5,5,2,Espacio público y movilidad
+1,6,1,0,Saneamiento y abastecimiento de agua
+1,6,2,1,Recogida y eliminación de residuos
+1,6,3,0,Limpieza viaria
+1,6,4,0,Cementerio
+1,6,5,0,Iluminación pública
+1,7,1,0,Parques y jardines
+1,7,2,0,Medio ambiente
+1,7,2,1,"Protección contra la contaminación acústica, lumínica y atmosférica"
+2,3,1,0,Acción social
+2,3,1,1,Atención a infancias y familias
+2,3,1,2,Mujer
+2,3,1,3,Ciudadania y civismo
+2,3,1,4,Tercera Edad y con dependencia
+2,4,1,0,Promoción de la ocupación
+3,1,1,0,Salud pública
+3,1,1,1,Tenencia de animales
+3,1,2,0,Centro de Orientación Sanitaria (COS)
+3,1,3,1,Vigilancia y control de los centros de salud
+3,2,0,0,Administración general de la educación
+3,2,1,1,Guardería La Lluna
+3,2,1,3,Guardería La Bruna
+3,2,3,1,Participación educativa
+3,2,3,2,Educación del tiempo libre
+3,2,6,0,Promoción educativa
+3,2,6,1,Guarderías
+3,2,6,2,Escuela de arte
+3,2,6,3,Escuela de música
+3,3,0,0,Administración general de la cultura
+3,3,0,1,Política lingüística
+3,3,2,1,Bibliotecas
+3,3,3,0,Museos
+3,3,4,0,Promoción cultural
+3,3,4,1,Proyecto expositivo de la ciudad
+3,3,4,2,Artes escénicas
+3,3,7,0,Juventud
+3,3,8,0,Fiestas populares
+3,3,8,1,Ciclo de Navidad
+3,3,8,2,Fiesta mayor
+3,4,0,0,Administración general del deporte
+3,4,1,0,Promoción y fomento del deporte
+3,4,2,0,Instalaciones deportivas
+4,3,1,0,Comercio
+4,3,1,2,Mercado
+4,3,2,0,Identidad y proyección exterior
+4,3,2,1,Proyectos estratégicos y supramunicipales
+4,3,3,0,Promoción económica y desarrollo empresarial
+4,3,9,0,Promoción económica y desarrollo empresarial
+4,4,1,1,Transporte público
+9,1,2,0,Órganos de gobierno
+9,1,2,1,Acción institucional y comunicación
+9,1,2,2,Comisionado de información
+9,1,2,5,Gerencia
+9,2,0,0,Servicios generales del APEUS
+9,2,0,1,Secretaria y archivo
+9,2,0,2,"Servicios generales del área de planificación estratégica, promoción económica y gobierno"
+9,2,0,3,Servicios jurídicos
+9,2,0,4,Recursos Humanos y organización
+9,2,0,5,Informática
+9,2,0,6,Servicios generales del área de cohesión social y servicios a las personas
+9,2,0,7,Contratación y compras
+9,2,0,8,Mantenimiento dependencias municipales
+9,2,0,9,"Servicios Generales del área de servicios centrales, hacienda y régimen interior"
+9,2,1,0,"Servicios generales del área de planificación, ecología urbana y seguridad"
+9,2,1,1,"Servicios generales del área de planificación estratégica y gobierno"
+9,2,1,3,"Servicios generales del área de cohesión social y servicios a las personas"
+9,2,4,0,Participación ciudadana y soporte a las entidades
+9,2,4,1,Infraestructuras y soporte a las entidades
+9,2,4,2,Cooperación internacional
+9,2,5,0,Atención al ciudadano
+9,2,6,1,OAD Radio Rubí
+9,3,1,0,Intervención y contabilidad
+9,3,2,0,Hacienda y servicios económicos
+9,3,3,0,Gestión del patrimonio

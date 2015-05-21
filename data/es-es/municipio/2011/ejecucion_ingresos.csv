@@ -1,0 +1,282 @@
+#Org.,Eco.,Descripció,Previsions inicials,Total Modificacions,Previsions totals,DRN,Recaptació líquida
+100,11200,Impost sobre béns immobles. béns immobles de natural rústica,4000.0,,4000.0,4621.72,2988.77
+100,11300,Impost sobre béns immobles de naturalesa urbana,24500000.0,,24500000.0,25180143.48,23499892.71
+100,11400,Impost sobre béns immobles de característiques especials,189000.0,,189000.0,188357.11,6956.13
+,,IBI,24693000.0,,24693000.0,25373122.31,23509837.61
+100,11500,Impost sobre vehicles de tracció mecànica,4722518.11,,4722518.11,4519329.85,4034932.75
+,,IVTM,4722518.11,,4722518.11,4519329.85,4034932.75
+100,11600,Impost sobre l'increment del valor del terreny (Plus-vàlua),2173690.0,,2173690.0,3171664.31,2230986.61
+,,IIVT,2173690.0,,2173690.0,3171664.31,2230986.61
+100,13000,Impost sobre activitats econòmiques,4224542.89,,4224542.89,4291512.76,3984530.02
+100,13001,IAE quotes provincials i nacionals,300000.0,,300000.0,384149.23,384149.23
+100,13002,IAE inspecció exercicis anteriors,,,,7100.85,7100.85
+,,IAE,4524542.89,,4524542.89,4682762.84,4375780.1
+,,1. IMPOSTOS DIRECTES,36113751.0,,36113751.0,37746879.31,34151537.07
+100,29000,Impost sobre construcciones intal·lacions i obres,450000.0,,450000.0,552179.3,309075.05
+100,29001,Inspecció impost de construccions,,,,439004.02,137.48
+,,ICIO,450000.0,,450000.0,991183.32,309212.53
+,,2. IMPOSTOS INDIRECTES,450000.0,,450000.0,991183.32,309212.53
+100,30200,Taxa per recollida domiciliària d'escombraries,2800000.0,,2800000.0,2864926.96,2694650.45
+100,30201,Taxa per recollida d'escombraries industrial i cial.,1211241.75,,1211241.75,828398.32,626765.14
+100,30202,Taxa pel servei de deixalleria,23093.7,,23093.7,27568.71,16185.92
+100,30300,Prestació de servei recollida d'envasos,350000.0,,350000.0,566206.69,471017.02
+100,30301,Recollida residus elèctrics i electrònics,13707.36,,13707.36,7309.12,4279.71
+100,30302,Recollida de residus oli vegetal,500.0,,500.0,1412.0,
+100,30400,Retorn del cànon,144000.0,,144000.0,165221.37,165221.37
+100,30900,Taxes de cementiri municipal,155000.0,,155000.0,17655.36,17638.56
+100,30901,Taxes manteniment cementiri municipal,105000.0,,105000.0,178597.08,171687.36
+100,30902,Prestació de serveis de policia local,1500.0,,1500.0,105.0,105.0
+100,31012,Taxa d'inscripció per a la selecció de personal,10398.5,,10398.5,1155.05,1155.05
+100,31200,Rebuts escola d'art,40616.4,,40616.4,52496.48,45388.17
+100,31201,Ingressos tallers torre bassas,2000.0,,2000.0,,
+100,31300,Taxa per als serveis i activitats esportives,500.0,,500.0,104.4,104.4
+100,31301,Activitats de joventut (fira de la infància i la joventut),500.0,,500.0,,
+100,31901,Taxes per inscripció d'animals de companyia,,,,1792.2,1792.2
+100,31902,Inspecció i control sanitari d'establiments de carn fresca,2000.0,,2000.0,,
+100,32100,Taxes per llicències urbanístiques,202000.0,,202000.0,323723.78,230002.8
+100,32300,Taxa tramitació instrum. urban. i servei oblig.planol ciutat,29500.0,,29500.0,,
+100,32500,Expedició de documents,30000.0,,30000.0,39816.84,39635.24
+100,32600,Servei de grua,345000.0,,345000.0,209638.06,209638.06
+100,32900,Elements publicitaris a la via pública,40000.0,,40000.0,25536.0,25536.0
+100,32901,Publicitat autobusos,,,,19728.0,17577.6
+100,32902,Llicències d'autotaxis i vehicles de lloguer,3500.0,,3500.0,170.5,170.5
+100,32903,Llicència d'obertures d'establiments,375025.0,,375025.0,232167.51,177876.76
+100,32904,Serveis de mercat,415622.52,,415622.52,427145.51,353582.7
+100,33000,Taxa dipòsit de vehicles,9000.0,,9000.0,9016.84,9016.84
+100,33001,Reserves per estacionament,70000.0,,70000.0,33652.42,33652.42
+100,33100,Entrada de vehicles en edificis,860000.0,,860000.0,874372.91,794660.29
+100,33101,Altes guals inspecció,75000.0,,75000.0,,
+100,33102,Plaques de gual,1500.0,,1500.0,1641.3,1612.5
+100,33200,Taxa per utilit. privat. o aprofit. especial per emp.explot,1100000.0,,1100000.0,1097211.49,823548.22
+100,33300,Taxa per utilit. priv. aprofit. esp.emp.expl. telecomunic,400000.0,,400000.0,49038.07,32184.45
+100,33400,Obertura de rases (canalitzacions),67925.0,,67925.0,47154.9,47154.9
+100,33500,Ocupació via pública taules i cadires,75000.0,,75000.0,74376.78,74376.78
+100,33600,Talls de trànsit,40000.0,,40000.0,17491.2,17491.2
+100,33800,Taxa ocupació telefònica,300000.0,,300000.0,255242.74,255242.74
+100,33901,Taxes ocupació via pública per construcció,25000.0,,25000.0,22000.47,22000.47
+100,33902,Taxa per casaments,1000.0,,1000.0,171.35,171.35
+100,33903,Mercadal,66780.0,,66780.0,68387.62,58534.76
+100,33904,Parades i fires,55000.0,,55000.0,64027.85,63940.1
+100,33906,Lloguer d'espais RUBI+D,6000.0,,6000.0,412.31,244.07
+100,33907,Lloguers del Teatre Municipal La Sala,5000.0,,5000.0,2165.0,2165.0
+100,33908,Lloguers de l'auditori,10000.0,,10000.0,14677.2,13927.2
+100,33909,Lloguer Biblioteca,,,,3575.0,3575.0
+100,33910,Lloguer Ateneu,,,,1142.0,857.0
+,,TAXES,9467910.23,,9467910.23,8626632.39,7524365.3
+100,34100,Preu públic transport adaptat gent gran,30000.0,,30000.0,34969.29,31371.06
+100,34101,Preu públic SAD,48000.0,,48000.0,,
+100,34102,Preu públic llar tutelada Ca n'Alzamora,37356.0,,37356.0,39625.0,33173.77
+100,34103,Preu públic transport adaptat disminuits,33997.82,,33997.82,29059.6,25086.9
+100,34200,Preu públic escola bressol La Lluna,238029.75,,238029.75,313613.29,260103.32
+100,34201,Preu públic escola bressol Sol Solet,254902.5,,254902.5,321955.8,288350.37
+100,34202,Preu públic escola bressol la Bruna,219845.25,,219845.25,233280.33,202311.8
+100,34204,Rebuts escola de música,238441.05,,238441.05,243833.3,213171.91
+100,34205,Casals,100000.0,,100000.0,10898.05,10364.76
+100,34206,Cursos formació servei de la dona,,,,,
+100,34207,Preu públic formació soc. informació,2374.4,,2374.4,2432.2,2432.2
+100,34300,Cursos de ioga,16936.0,,16936.0,11984.79,11240.79
+100,34400,Venda d'entrades espectacles temporada,19000.0,,19000.0,6035.5,6035.5
+100,34401,Venda d'entrades per Festa Major,20595.0,,20595.0,28710.0,27186.0
+,,PREUS PÚBLICS,1259477.77,,1259477.77,1276397.15,1110828.38
+100,35001,CE Carrer Aneto i Altres,,60739.58,60739.58,,
+100,35002,Contribucions especials c/ Aneto i altres (Ximelis),,,,,
+100,35003,Contribucions especials La Perla,,2752.16,2752.16,29728.04,23060.03
+100,35004,CE Polígon 1 subsector D1 increment d'obra,,,,,
+100,35007,Contribucions especials carrer Cèrvol,,,,,
+100,35011,CE Polígon 2 subsector D1,,3569.92,3569.92,,
+100,35034,Contribucions especials Sector 38 Can Ximelis,,468704.28,468704.28,,
+100,35901,Quotes urbanístiques PERI 22.1,,365420.09,365420.09,863413.31,595761.28
+100,35902,Quotes urbanístiques sector A4,,350565.45,350565.45,,
+100,35918,Quotes urbanísitques Peri 22.1,,90748.77,90748.77,-584365.27,-584365.27
+100,35920,Quotes urbanístiuqes Immobiliària Tamara,,9864.01,9864.01,,
+100,35950,Quotes urbanístiques urbanització Sant Muç,,2540004.12,2540004.12,3536137.06,5101.02
+100,36000,Vendes botiga de Rubí,7000.0,,7000.0,,
+100,36002,Subminitr instal·lació fotovoltaica (RD 661/2007) subgr b1.1,,,,950.16,62.45
+100,38900,Reintegrament d'operacions corrents,,20525.0,20525.0,61776.94,41251.94
+100,39100,Multes per infraccions urbanístiques.,35000.0,,35000.0,33396.0,395.0
+100,39101,Multes per infraccions urbanístiques (sòl no urbanitzable),100000.0,,100000.0,9750.75,-300.0
+100,39102,Multes per infracció medi ambient,10000.0,,10000.0,520.2,220.2
+100,39103,Multes coercitives urbanisme,20000.0,,20000.0,61200.03,9088.85
+100,39110,Multes per infraccions tributàries i anàlogues.,65768.0,,65768.0,186069.15,45761.8
+100,39120,Multes per infraccions de circulació,1068000.0,,1068000.0,1813624.0,725634.02
+100,39191,Multes infraccions resta reglaments municipals,75000.0,,75000.0,51797.75,14465.99
+100,39200,Recàrrec per declaració extemporánea sense requerimi. Previ,10000.0,,10000.0,19402.58,11922.87
+100,39210,Recàrrec executiu 5%,36000.0,,36000.0,,
+100,39211,Recàrrec d'apressament 10% i 20%,500000.0,,500000.0,545806.55,545806.55
+100,39300,Interessos de demora,110000.0,,110000.0,161378.99,126258.8
+100,39800,Indemnitzacions assegurances,1.0,8559.79,8560.79,13240.61,13240.61
+100,39900,Venda d'entrades Nit de l'Empresa,,,,,
+100,39901,Reintegrament anuncis publicacions,3614.27,,3614.27,8448.89,8155.71
+100,39902,Imprevistos,6000.0,,6000.0,4544.94,4544.94
+100,39904,Execucions subsidiàries (relacionada amb despesa),85000.0,,85000.0,4112.0,
+100,39905,Ingressos per serveis bancaris,1000.0,,1000.0,1836.86,1836.86
+100,39907,Subministraments Club Natació Rubí,250000.0,,250000.0,294810.13,294810.13
+100,39908,Condemna en costes a favor de l'entitat,,,,27797.91,5930.67
+,,ALTRES,2382383.27,3921453.17,6303836.44,7145377.58,1888644.45
+,,"3. TAXES, PREUS PÚBLICS I ALTRES",13109771.27,3921453.17,17031224.44,17048407.12,10523838.13
+100,40001,"Convenis Ajuntaments, casa d'urgències",700.0,,700.0,,
+100,42000,Participació en els Tributs de l'Estat.,13242535.0,,13242535.0,13398448.32,13398448.32
+100,42002,Subvenció de l'administració central pel transport urbà,98237.15,,98237.15,108452.77,108452.77
+100,42004,Subvencions per processos electorals,12000.0,,12000.0,2165.83,2165.83
+100,42005,Subvenció Censos de població i habitatge 2011,,,,1950.0,780.0
+100,42006,Subvenció Secretaria d'Immigració,81250.0,,81250.0,23000.0,23000.0
+100,42020,Compensació per beneficis fiscals. (IBI-escoles concertades),78805.11,,78805.11,63416.25,63416.25
+100,42021,Compensació por beneficis fiscals (IAE-Cooperatives),46129.05,,46129.05,48084.36,48084.36
+100,42090,Devolucions subvencions de l'Administració general de Estat,,,,-17039.75,-17039.75
+,,ESTAT,13559656.31,,13559656.31,13628477.78,13627307.78
+100,45000,Participació en tributs de la CCAA - Fonts de Cooperació Loc,623038.0,,623038.0,487450.03,152584.48
+100,45001,Altres transferències Generalitat de Catalunya,50000.0,,50000.0,18901.54,13774.04
+100,45002,Contracte prog. DASC Fitxa 1 Serv. Socials bàsics profession,567545.25,,567545.25,570168.47,6405.24
+100,45003,Contracte prog. DASC Fitxa 7 Acollida i integració persones,74900.0,,74900.0,74900.0,71155.0
+100,45004,Contracte prog. DASC Fitxa 12 Centres ocupacionals per a per,166250.0,,166250.0,140459.79,133436.8
+100,45005,Contracte prog. DASC Fitxa 1 SAD Social,220505.68,,220505.68,238547.05,18041.37
+100,45006,Contracte prog. DASC Fitxa 9 Servei de transport adaptat,40691.85,,40691.85,40691.85,38657.26
+100,45007,Contracte prog. DASC Fitxa 1 Serv. Socials bàsics SAD Depend,724899.88,,724899.88,733744.01,406976.14
+100,45008,Contracte prog. DASC Fitxa 10 Llar residència per a persone,233775.0,,233775.0,116317.76,110501.87
+100,45009,Contracte prog. DASC Fitxa 6 Sistemes resposta urgent dones,50700.0,,50700.0,50700.0,48165.0
+100,45010,Contracte prog. DASC Fitxa 2 Intervenció socio educativa inf,31000.0,,31000.0,31000.0,29450.0
+100,45012,Desenvolupament projecte IGLOO integració social,35628.0,,35628.0,35268.0,32065.2
+100,45013,Contracte prog. DASC Fitxa 1. Ajuts d'urgències socials,51275.0,,51275.0,,
+100,45014,Contracte prog. DASC Fitxa 23.1 Pla pilot poten. serv. soc.,30000.0,,30000.0,30000.0,28500.0
+100,45015,Subv. Generalitat - Participació ciutadana,,,,,
+100,45016,Subv. Generalitat - Politiques actives d'ocupació,,,,,
+100,45017,Contracte prog.  DASC Fitxa 25 Suport a famílies sit. vulner,6691.0,,6691.0,6691.0,6356.45
+100,45018,Contracte prog. DASC Fitxa 8 Progrma d'inclusió social,60000.0,,60000.0,31012.31,29461.69
+100,45030,Subv. Generalitat - Reducció quotes famílies desfavorides,58000.0,,58000.0,44100.0,16277.31
+100,45031,Subv. Generalitat - Escola Bressol Sol Solet,208800.0,,208800.0,185600.0,
+100,45032,Subv. Generalitat - Escola de Música,198000.0,,198000.0,155940.0,
+100,45033,Subv. Generalitat - Escola d'Art,414808.22,,414808.22,316031.33,
+100,45034,Subv. Generalitat - Escola Bressol Lluna,214200.0,,214200.0,190400.0,
+100,45035,Subv. Generalitat - Escola Bressol Bruna,196200.0,,196200.0,174400.0,
+100,45036,Subvenció Ensenyament (Pla educatiu d'entorn),121545.0,,121545.0,97236.0,79004.0
+100,45038,Subv. Generalitat - Centre de Dansa Tradicional,120000.0,60000.0,180000.0,110000.0,
+100,45050,Subv. Generalitat plans formatius (IMPES),,2368626.05,2368626.05,824977.72,824977.72
+100,45051,Subv. Generalitat - Pacte per l'ocupació,,,,,
+100,45056,Subv. Generalitat Pla desenvolupament comunitari (El Pinar),45580.0,,45580.0,47311.86,99.72
+100,45060,SCS - Programa atenció a la drogodependència,,,,68732.44,68732.44
+100,45061,SCS - Programa atenció salut mental infantil i juvenil,481804.54,,481804.54,,
+100,45062,SCS - Programa atenció salut mental d'adults,494724.34,,494724.34,,
+100,45063,SCS - Centre de dia de salut mental,,,,,
+100,45064,SCS - Programa atenció transtorns mentals greus,,,,13165.79,13165.79
+100,45065,SCS - Programa atenció transtorns mentals severs,,,,13165.79,13165.79
+100,45066,SCS - Programa rehabilitació i reinserció (CDSM),,,,16252.25,16252.25
+100,45067,Subv. Contraprestació econòmica (exàmen salut escolar),4023.82,,4023.82,4147.61,
+100,45068,Programa sanitari d'atenció a la dona (COS),,,,2126.24,2126.24
+100,45070,Subv. Programa CP Castellbisbal (salut mental infantil i juv,,,,10801.19,10801.19
+100,45071,Subv. Programa CEE Ca N'Oriol (salut mental infantil i juven,,,,7243.91,7243.91
+100,45072,SCS - Programa Salut i escola,,,,7243.91,7243.91
+100,45075,Subvenció Generalitat per Protecció dels animals.,,,,28665.0,28465.0
+100,45076,Catsalut VII Conveni XHUP,501738.57,,501738.57,,
+100,45077,Subv. Generalitat - Manteniment dipòsit de detinguts,5004.05,,5004.05,,
+100,45078,Subvencions diverses gestió de residus i medi ambient,,,,,
+100,45079,Subvencions comerç,6000.0,,6000.0,25200.0,25200.0
+100,45081,Subv. Generalitat - Institut Català de la dona,34500.0,,34500.0,30907.72,-3592.28
+100,45083,Subvenció Gtat Interessos i Amortització Préstec Biblioteca,,259227.36,259227.36,259227.36,259227.36
+100,45084,Generalitat Creació d'empreses,56250.0,,56250.0,56250.0,
+100,45085,Generalitat Arts visuals,1500.0,,1500.0,,
+100,45086,Suvb. Generalitat - Activitats culturals (Arts escèniques de,20968.19,,20968.19,26022.19,16774.55
+,,GENERALITAT,6150546.39,2687853.41,8838399.8,5321000.12,2510695.44
+100,46100,DIBA - Ajuts per a processos de planificació estratègica,24300.0,,24300.0,24300.0,24300.0
+100,46101,Subvencions diverses Diputació,130000.0,,130000.0,29559.95,29115.58
+100,46102,DIBA - Programa civisme i ciutadania,14000.0,,14000.0,14501.01,14501.01
+100,46103,"DIBA - Ajuts per al foment, la divulgació i la promoció de l",10000.0,,10000.0,,
+100,46104,DIBA - Ajuts per al desenvolupament i la creació de centres,12000.0,,12000.0,12000.0,12000.0
+100,46105,DIBA - Ajuts programa de foment de l'us i la millora de les,,,,,
+100,46106,DIBA - Serveis municipals de consum,9706.0,,9706.0,9706.0,9706.0
+100,46107,DIBA - Ajuts per adquisició de material esportiu,6500.0,,6500.0,1392.12,1392.12
+100,46108,DIBA - Ajuts per actuacions desenv. Locals municipals +20000,28000.0,,28000.0,28000.0,28000.0
+100,46109,DIBA - Ajuts per al desenvolupament de programes esportius,9922.0,,9922.0,9922.0,9922.0
+100,46110,DIBA - Ajuts per activitats esportives puntuals,7500.0,,7500.0,7785.0,7785.0
+100,46111,DIBA - Ajuts per al foment de la participació ciutadana educ,,,,,
+100,46112,DIBA - Finançament dels serveis socials municipals,163435.45,,163435.45,132333.9,132333.9
+100,46113,DIBA - Finançament dels serveis d'atenció domiciliària,58720.8,,58720.8,59101.95,59101.95
+100,46114,DIBA - Ajuts pel Pla Rubí ciutat per a tothom,,,,,
+100,46115,"DIBA - Ajuts a serveis i activitats de benestar (casalet,",6681.15,,6681.15,,
+100,46116,DIBA-Ajuts punt informació i dinamització juvenil (PIDCES),3800.0,,3800.0,,
+100,46117,DIBA - Ajuts per al desenvolupament dels plans locals de jov,15593.0,,15593.0,18667.0,18667.0
+100,46118,DIBA - Ajuts per a projectes de foment de l'autonomia person,10000.0,,10000.0,10000.0,10000.0
+100,46119,DIBA - Ajuts per al desenvolupament de programes i desenvolu,5725.0,,5725.0,10150.0,10150.0
+100,46120,DIBA - Ajuts per al desenvolupament de programes,8450.0,,8450.0,8450.0,8450.0
+100,46121,DIBA - Ajuts per a la prevenció de plagues urbanes i legione,6500.0,,6500.0,6500.0,6500.0
+100,46122,DIBA - Ajuts per activitats relacionades amb animals de comp,4900.0,,4900.0,4900.0,4900.0
+100,46123,DIBA - Ajuts pel Pla Municipal prevenció de les drogodependè,10000.0,,10000.0,15135.0,15135.0
+100,46124,DIBA - Ajuts al programa de gestió local de la immigració,,,,,
+100,46125,DIBA - Ajuts per als observatoris del desenvolupament econòm,7602.25,,7602.25,7602.25,7602.25
+100,46126,DIBA - Ajuts per a escoles municipals de música i ensenyamen,46086.96,,46086.96,38532.74,38532.74
+100,46127,"DIBA - Ajuts programa """""""" Coneixem els nostres parcs""""""""",1479.65,,1479.65,1434.6,1434.6
+100,46128,DIBA - Conveni Servei de Mediació ciutadana,30000.0,,30000.0,30000.0,30000.0
+100,46129,DIBA - Ajuts política d'igualtat,13000.0,,13000.0,13008.09,13008.09
+100,46130,DIBA - Ajuts al programa de suport a les polítiques de difus,16000.0,,16000.0,16000.0,16000.0
+100,46131,DIBA-Ajuts al programa de suport serve. i activ. Xarxa museu,15000.0,,15000.0,15000.0,15000.0
+100,46132,DIBA-Ajuts implantar mesures dinamització comercial (comerç),28000.0,,28000.0,31172.37,31172.37
+100,46133,DIBA - Polítiques de teixit productiu,70545.6,,70545.6,63002.64,63002.64
+100,46134,DIBA-Ajuts per accions locals en sistemes hídrics,,,,,
+100,46135,DIBA - Polítiques de mercat de treball,,,,57000.0,57000.0
+100,46136,DIBA - Xarxa de serveis locals d'ocupació,,91568.29,91568.29,48480.01,48480.01
+100,46137,DIBA-Ajuts per a festiv. i esdeveniments artístics (RUBIFOLK,9000.0,,9000.0,9000.0,9000.0
+100,46138,DIBA -  Acompanyament a l'escolaritat,7554.22,,7554.22,7554.22,7554.22
+100,46139,DIBA - Ajuts suficiència alimentària escoles bressol,9125.0,,9125.0,12326.07,12326.07
+100,46140,CONSELL COMARCAL-Ajuts de menjador escolar,281820.0,53931.9,335751.9,618570.84,164295.07
+100,46141,Consell Comarcal subvenció transport escolar,65000.0,,65000.0,100000.0,
+100,46142,DIBA - Campanya d'espectacles,10000.0,,10000.0,10474.24,10474.24
+100,46143,DIBA - Instal·lacions esportives,,,,10000.0,10000.0
+100,46144,Consell Comarcal - Subvencions diverses,,,,1692.8,1692.8
+100,46150,Subvencions plans d'ocupació IMPES,,,,,
+100,46153,Subvencions promoció de la ciutat,,,,,
+100,46154,Subvenció Diputació contractació Agent d'Igualtat,4000.0,,4000.0,,
+100,46155,Subvencions societat de la informació,,,,,
+100,46156,DIBA-Plataforma Digital Serveis Empresarials on line Net Rub,33691.46,,33691.46,,
+100,46200,Subvenció ajuntament Sant Cugat Conveni punt de trobada,12208.0,,12208.0,12940.7,12940.7
+100,46201,Subvencions d'Ajuntaments,,,,2200.0,2200.0
+100,46400,AMTU-Pla de millora del transport col·lectiu urbà,260435.0,,260435.0,186452.07,186452.07
+100,46700,Subv. Consorci per l'ocupació i la promoc. econ del Vallès,,123631.24,123631.24,56167.37,56167.37
+,,DIPUTACIÓ,1466281.54,269131.43,1735412.97,1751014.94,1196294.8
+100,47000,Patrocinis Festa Major,20000.0,,20000.0,10000.0,10000.0
+100,47004,Associació Catalana Psicoterapia Psicoanalítica,,,,1227.0,1227.0
+100,48001,Subvencions Institucions i particulars sense fi de lucre,1000.0,,1000.0,900.0,900.0
+100,48901,FEMP - Xarxa Espanyola de ciutats saludables,12297.0,,12297.0,3443.95,
+100,49700,FEDER-Plataforma Digital Serveis Empresarials on line Net Ru,67382.91,,67382.91,,
+,,ALTRES,100679.91,,100679.91,15570.95,12127.0
+,,4. TRANSFERÈNCIES CORRENTS,21277164.15,2956984.84,24234148.99,20716063.79,17346425.02
+100,52000,Interessos de dipòsits,35000.0,,35000.0,161296.93,161296.93
+100,54000,Arrendaments fiques urbanes,187000.0,,187000.0,239914.27,46663.83
+100,55000,Concessions administratives,40000.0,,40000.0,3418.22,351.5
+100,55001,Cànon serveis de cementiri,,,,,
+100,55002,Concessions ninxols cementiri,12000.0,,12000.0,11200.46,11200.45
+100,59901,Altres aprofitaments especials,15000.0,,15000.0,12000.0,12000.0
+,,5. INGRESSOS PATRIMONIALS,289000.0,,289000.0,427829.88,231512.71
+100,72000,FEIL,,,,,
+100,72001,Subvencions FEOSL,,758228.99,758228.99,854430.1,847165.86
+100,72006,De l'Administració General de l'Estat.,,,,,
+100,73001,Subvencions de capital IMSERSO per conveni Taxi adaptat,,8000.0,8000.0,8000.0,
+100,75002,Subvenció PUOSC 2010 Plaça Doctor Guardiet,,202013.64,202013.64,540285.06,
+100,75003,Subvencions Puosc adquisició mobiliari poliesportiu La Llana,,,,109714.94,
+100,75015,Subvenció Generalitat Llei de Barris El Pinar,,1730231.1,1730231.1,1309419.38,40922.28
+100,75016,Subvencions Consorci administració oberta de Catalunya,,55950.0,55950.0,48450.0,
+100,75017,Subv Gtat. adquisició equipament i mobiliari Centre Dansa,,150000.0,150000.0,150000.0,
+100,75081,Subvencions PUOSC Masia Can Serra,,176500.0,176500.0,,
+100,75082,Subvenció PUOSC ampliació cementir,,120000.0,120000.0,,
+100,75100,Subvenció ACA  Col·lector Can Xercavins,,53100.0,53100.0,,
+100,75101,Subvenció ACA actuacions espais fluvials,,,,-29092.64,-29092.64
+100,76101,Subvencions Diputació,,306695.79,306695.79,456735.31,456735.31
+100,76102,Subvenció reforma masia Can serra,,256080.75,256080.75,,
+100,76156,DIBA-Plat.Digital Serv. Empresarials on line Net Rubi Invers,,,,,
+100,78001,Subvenció de capital ONCE per conveni Taxi adaptat,,2000.0,2000.0,,
+100,79001,Feder Corredor urbà 4fase colector av. Barelona,,10935.89,10935.89,,
+100,79101,Subvencions FEDER El Celler,,271582.59,271582.59,67723.43,
+100,79700,FEDER-Plat. Digital Serv. Empres. on line Net Rubi Inversion,,,,,
+,,7. TRANSFERÈNCIES DE CAPITAL,,4101318.75,4101318.75,3515665.58,1315730.81
+100,83000,Préstecs i bestretes al personal,120000.0,,120000.0,,
+100,87000,Per a despeses generals.,,1099810.65,1099810.65,,
+100,87010,Per a despeses amb finançament afectat.,,9991508.42,9991508.42,,
+,,8. ACTIUS FINANCERS,120000.0,11091319.07,11211319.07,,
+100,91301,Préstecs rebuts a llarg termini,,12962288.06,12962288.06,9112892.83,9112892.83
+,,9. PASSIUS FINANCERS,,12962288.06,12962288.06,9112892.83,9112892.83
+,,TOTAL INGRESSOS (ECO) 2011,71359686.42,35033363.89,106393050.31,89558921.83,72991149.1
+,,,,,,,
+,,,PI,DRN,,,
+,,PIE (42000),13242535.0,13242535.0,,,
+,,FLC (45000),623038.0,487450.03,,,
+,,,,,,,
+,,Contribucions especials (35),,39557.06,,,
+,,Quotes especials (396),,,,,
