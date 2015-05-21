@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dvmi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-20 15:58+0100\n"
+"PO-Revision-Date: 2015-05-21 04:54+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Civio <contacto@civio.es>\n"
 "Language: es_ES\n"
@@ -68,10 +68,10 @@ msgstr ""
 
 #: templates/budgets/budgets_intro.html:6
 msgid ""
-"La recaudación de impuestos locales se realiza a través de impuestos directos, principalmente el IBI, y "
-"de tasas y precios públicos. Por otro lado la ciudadanía paga impuestos al Estado y a la Generalitat de "
-"Cataluña a través de los impuestos directos - como el IRPF y el impuesto de sociedades- y de impuestos "
-"indirectos -IVA e impuestos sobre el tabaco, el alcohol o la gasolina."
+"La recaudación de impuestos locales se realiza a través de impuestos directos, principalmente el IBI, y de tasas "
+"y precios públicos. Por otro lado la ciudadanía paga impuestos al Estado y a la Generalitat de Cataluña a través "
+"de los impuestos directos - como el IRPF y el impuesto de sociedades- y de impuestos indirectos -IVA e impuestos "
+"sobre el tabaco, el alcohol o la gasolina."
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:11
@@ -80,9 +80,9 @@ msgstr ""
 
 #: templates/budgets/budgets_intro.html:12
 msgid ""
-"La totalidad del dinero recaudado por el Ayuntamiento se destina al presupuesto municipal que requiere de "
-"otros ingresos provenientes, principalmente, de la Generalitat y la Administración General del Estado "
-"para formar el presupuesto de ingresos municipal."
+"La totalidad del dinero recaudado por el Ayuntamiento se destina al presupuesto municipal que requiere de otros "
+"ingresos provenientes, principalmente, de la Generalitat y la Administración General del Estado para formar el "
+"presupuesto de ingresos municipal."
 msgstr ""
 
 #: templates/budgets/budgets_intro.html:17
@@ -105,8 +105,8 @@ msgstr ""
 
 #: templates/shared/data_sources.html:7 templates/shared/footer.html:15 templates/shared/header.html:6
 #: templates/shared/meta.html:3
-msgid "Ayuntamiento de Rubí"
-msgstr ""
+msgid "Gobierno de Aragón"
+msgstr "Ayuntamiento de Rubí"
 
 #: templates/shared/data_sources.html:8
 msgid "Datos de ejecución presupuestaria"
@@ -193,8 +193,7 @@ msgid "presupuestos, gastos, ingresos, ayuntamiento, Rubí"
 msgstr ""
 
 #: templates/shared/meta.html:8
-#, fuzzy
-msgid "Presupuestos de Rubí"
+msgid "Presupuestos de Aragón"
 msgstr "Presupuestos de Rubí"
 
 #: templates/shared/meta.html:9
@@ -207,8 +206,8 @@ msgstr ""
 
 #: templates/welcome/index.html:9
 msgid ""
-"Te mostramos de un modo claro cómo se distribuye nuestro presupuesto. De dónde vienen los ingresos y a "
-"qué destinamos el gasto"
+"Te mostramos de un modo claro cómo se distribuye nuestro presupuesto. De dónde vienen los ingresos y a qué "
+"destinamos el gasto"
 msgstr ""
 
 #: templates/welcome/index.html:14
@@ -238,8 +237,8 @@ msgstr ""
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Ingresos y gastos"
 
-msgid "Gobierno de Aragón"
-msgstr "Ayuntamiento de Rubí"
+msgid "Presupuestos del Gobierno de Aragón"
+msgstr "Presupuestos del Ayuntamiento de Rubí"
 
 #: templates/payments/index.html:5
 msgid "Gastos del año vigente"

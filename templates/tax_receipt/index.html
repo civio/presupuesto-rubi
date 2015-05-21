@@ -1,56 +1,56 @@
 {% extends 'base.html' %}
-{% block extra_javascript %}
-<script src="{{ STATIC_URL }}javascripts/tax_calculator.js"></script>
-{% endblock %}
 {% block content %}
 <h1 class="page-title">{{ _('Lo que tú aportas') }}</h1>
 <p class="intro-text">{{ _('Te mostramos de forma aproximada') }}<a href="#footnote-receipt" title="{{ _('Nota sobre el cálculo realizado') }}"><span class="asterisk">* <span class="visuallyhidden">{{ _('Nota sobre el cálculo realizado') }}</span></span></a> {{ _('cómo se distribuye el dinero que aportas con tus impuestos') }}.</p>
 
 <form class="form-user-incomings" action="#" method="get">
 
-  <p class="intro-text">Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href="#">piso pequeño en el casco antigup</a>, <a href="#">piso mediano</a>) o modificar cada uno de los elementos de forma independiente.</p>
+  <p class="intro-text">Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href="#" id="scenario-1">piso pequeño en el casco antiguo</a>, <a href="#" id="scenario-2">piso de nueva construcción</a>, casa unifamiliar <a href="#" id="scenario-3">en el centro</a>, <a href="#" id="scenario-4">o en una urbanización</a>) o modificar cada uno de los elementos de forma independiente.</p>
 
   <div class="user-incomings-custom">
 
     <hr/>
-    <label for="select1">Inmueble</label>
-    <select id="select1">
-      <option value="casa" id="ingresos" type="text" selected="selected">Pis de 80 m2 situat a la zona del mercat</option>
-      <option value="casa" id="ingresos" type="text">Pis de 110 m2 situat a la centre. Nova construcció</option>
-      <option value="casa" id="ingresos" type="text">Casa unifamiliar entre mitjeres centre poble</option>
-      <option value="casa" id="ingresos" type="text">Casa unifamiliar aillada urbanització</option>
+    <label for="select-house">Inmueble</label>
+    <select id="select-house">
+      <option value="0" type="text" selected="selected">Pis de 80 m2 situat a la zona del mercat</option>
+      <option value="1" type="text">Pis de 110 m2 situat a la centre. Nova construcció</option>
+      <option value="2" type="text">Casa unifamiliar entre mitjeres centre poble</option>
+      <option value="3" type="text">Casa unifamiliar aillada urbanització</option>
     </select>
-    <span class="select-info">Catastro: 1000€</span>
+    <span class="select-info">IBI + Tasa de basuras: <span id="select-house-tax"></span></span>
     
     <hr/>
-    <label for="select2">Vehículo</label>
-    <select id="select2">
-      <option value="casa" id="ingresos" type="text" selected="selected">Ninguno</option>
-      <option value="casa" id="ingresos" type="text">Coche pequeño</option>
-      <option value="casa" id="ingresos" type="text">Coche mediano/grande</option>
+    <label for="select-vehicle">Vehículo</label>
+    <select id="select-vehicle">
+      <option value="0" type="text" selected="selected">Ninguno</option>
+      <option value="1" type="text">Coche pequeño</option>
+      <option value="2" type="text">Coche mediano/grande</option>
     </select>
-    <span class="select-info">Impuesto a vehículos motorizados: 100€</span>
+    <span class="select-info">Impuesto a vehículos motorizados: <span id="select-vehicle-tax"></span></span>
 
     <hr/>
-    <label for="select3">Vehículo adicional</label>
-    <select id="select3">
-      <option value="casa" id="ingresos" type="text" selected="selected">Ninguno</option>
-      <option value="casa" id="ingresos" type="text">Coche pequeño</option>
-      <option value="casa" id="ingresos" type="text">Coche mediano/grande</option>
+    <label for="select-extra-vehicle">Vehículo adicional</label>
+    <select id="select-extra-vehicle">
+      <option value="0" type="text" selected="selected">Ninguno</option>
+      <option value="1" type="text">Coche pequeño</option>
+      <option value="2" type="text">Coche mediano/grande</option>
     </select>
+    <span class="select-info">Impuesto a vehículos motorizados: <span id="select-extra-vehicle-tax"></span></span>
 
     <hr/>
-    <label for="select4">¿Tienes un vado privado?</label>
-    <select id="select4">
-      <option value="casa" id="ingresos" type="text" selected="selected">No</option>
-      <option value="casa" id="ingresos" type="text">Sí</option>
+    <label for="select-parking">¿Tienes un vado?</label>
+    <select id="select-parking">
+      <option value="0" type="text" selected="selected">No</option>
+      <option value="1" type="text">Sí, comunitario</option>
+      <option value="2" type="text">Sí, privado</option>
     </select>
+    <span class="select-info">Tasa: <span id="select-parking-tax"></span></span>
   </div>
 </form>
 
-<p id="tax-amount">{{ _('Has ingresado <b id="tax-amount-income"></b>, contribuyes con un total de <b id="tax-amount-paid"></b> en impuestos, de los que <b id="tax-amount-kept-locally"></b> se destinan a los')|safe }} {{ _('Presupuestos del Gobierno de Aragón') }}.</p>
+<p id="tax-amount">{{ _('Contribuyes con un total de <b id="tax-amount-paid"></b> en impuestos a los')|safe }} {{ _('Presupuestos del Gobierno de Aragón') }}.</p>
 
-<p class="footnote tcenter" id="footnote-receipt"><span class="asterisk">*</span> {{ _('El cálculo está basado en aproximaciones medias y ni sustituye ni complementa a las declaraciones tributarias oficiales. La aproximación incluye IRPF, IVA e Impuestos Especiales, pero no la Seguridad Social. Para realizar el cálculo hemos supuesto lo siguiente: todos tus ingresos provienen de rendimientos del trabajo o de actividades económicas; tienes un consumo medio de gasolina, alcohol y tabaco; al final del año ahorras el 10% de tus ingresos; y tienes reducciones y gastos deducibles por un total de 3000€ en el IRPF') }}.</p>
+<p class="footnote tcenter" id="footnote-receipt"><span class="asterisk">*</span> {{ _('[AÑADIR NOTA SOBRE METODOLOGÍA AQUÍ]') }}.</p>
 
 <div class="box box-tax">
   <div class="box-title">
@@ -65,30 +65,48 @@
 {% include 'shared/policy_paths.html' %}
 <script>
   $(function () {
+    var totalTaxPaid = 0;
+
     // Display amount as expense per capita
     function calculatePersonalTax(row, cell, value, columnDef, dataContext) {
       if (value == null) return null;
       var percentage = value / columnValueExtractor(dataContext.root, columnDef);
-      return formatDecimal(percentage * getTaxPaid().tramo_ca) + " €";
+      return formatDecimal(percentage * totalTaxPaid) + " €";
     }
 
-    function getIncomeInEuros() {
-      var income = Number($('#ingresos').val()) || {{ default_income }};
-      // Avoid too small incomes that result in tax > income, which is correct but confusing
-      income = Math.max(income, 3000); 
-      return income;
+    function formatTaxAmount(value) {
+      return numeral(value).format( '0,0.00', Math.floor ) + " €";
     }
 
-    function getTaxPaid() {
-      return calculator.getTaxPaid(getIncomeInEuros());
+    function getHouseTaxPaid() {
+      return [333.91+112.50, 754.22+115.09, 1266.23+109.86, 1732.10+94.18][$("#select-house").val()];
+    }
+    function getVehicleTaxPaid() {
+      return [0, 68.16, 143.88][$("#select-vehicle").val()];
+    }
+    function getExtraVehicleTaxPaid() {
+      return [0, 68.16, 143.88][$("#select-extra-vehicle").val()];
+    }
+    function getParkingTaxPaid() {
+      return [0, 24.96, 163.52][$("#select-parking").val()];
     }
 
     function redrawGrid() {
-      $("#tax-amount-income").text(formatAmount(getIncomeInEuros()*100));
-      var taxPaid = getTaxPaid();
-      $("#tax-amount-paid").text(formatAmount(100*taxPaid.total.toFixed(0)));
-      $("#tax-amount-kept-locally").text(formatAmount(100*taxPaid.tramo_ca.toFixed(0)));
-      window.location.hash = 'ingresos='+getIncomeInEuros();
+      var houseTaxPaid = getHouseTaxPaid();
+      $('#select-house-tax').text(formatTaxAmount(houseTaxPaid));
+
+      var vehicleTaxPaid = getVehicleTaxPaid();
+      $('#select-vehicle-tax').text(formatTaxAmount(vehicleTaxPaid));
+
+      var extraVehicleTaxPaid = getExtraVehicleTaxPaid();
+      $('#select-extra-vehicle-tax').text(formatTaxAmount(extraVehicleTaxPaid));
+
+      var parkingTaxPaid = getParkingTaxPaid();
+      $('#select-parking-tax').text(formatTaxAmount(parkingTaxPaid));
+
+      totalTaxPaid = houseTaxPaid + vehicleTaxPaid + extraVehicleTaxPaid + parkingTaxPaid;
+      $("#tax-amount-paid").text(formatTaxAmount(totalTaxPaid));
+      // XXX: window.location.hash = 'ingresos='+getIncomeInEuros();
 
       createBudgetGrid("#myGrid", gridData, [
         {field: "label", name: 'Política', formatter: policyLinkFormatter, width: 300},
@@ -104,18 +122,26 @@
       ]);
     }
 
+    function setStatus(house, vehicle, extraVehicle, parking) {
+      $('#select-house').val(house);
+      $('#select-vehicle').val(vehicle);
+      $('#select-extra-vehicle').val(extraVehicle);
+      $('#select-parking').val(parking);
+    }
+    $("#scenario-1").click(function() { setStatus(0, 1, 2, 0); redrawGrid(); return false; });
+    $("#scenario-2").click(function() { setStatus(1, 1, 2, 1); redrawGrid(); return false; });
+    $("#scenario-3").click(function() { setStatus(2, 0, 0, 0); redrawGrid(); return false; });
+    $("#scenario-4").click(function() { setStatus(3, 1, 2, 2); redrawGrid(); return false; });
+
     var breakdown = {{ breakdown.to_json( labels=descriptions['functional'] )|safe }};
     var gridData = breakdownToTable(breakdown);
-    var calculator = new TaxCalculator();
 
-    var state = $.deparam.fragment();
-    if ( state['ingresos'] ) {
-      $('#ingresos').val(state['ingresos']);
-    }
+    // var state = $.deparam.fragment();
+    // if ( state['ingresos'] ) {
+    //   $('#ingresos').val(state['ingresos']);
+    // }
 
-    setRedrawOnButtonGroupChange('.btn-group', redrawGrid);
-    $('#btn-recalculate').click(redrawGrid);
-    $('.form-user-incomings').submit(function() { redrawGrid(); return false; });
+    $("select").change(redrawGrid);
     redrawGrid();
   })
 </script>
