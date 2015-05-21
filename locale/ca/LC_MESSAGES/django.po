@@ -502,3 +502,6 @@ msgstr "Pagament"
 
 msgid "Artículo"
 msgstr "Article"
+
+msgid "Las cantidades de estos indicadores se publicarán una vez liquidado el presupuesto del año corriente en el primer trimestre del año siguiente."
+msgstr "Les quantitats d'aquests indicadors es publicaran un cop liquidat el pressupost de l' any corrent en el primer trimestre de l'any següent"
