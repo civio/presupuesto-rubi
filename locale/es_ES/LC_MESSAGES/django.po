@@ -174,7 +174,7 @@ msgstr ""
 
 #: templates/shared/header.html:56 templates/welcome/index.html:40 templates/welcome/index.html.py:42
 msgid "Pagos e inversiones"
-msgstr ""
+msgstr "Gastos y pagos"
 
 #: templates/shared/header.html:57 templates/welcome/index.html:46 templates/welcome/index.html.py:48
 msgid "Lo que tú aportas"
@@ -243,3 +243,15 @@ msgstr "Presupuestos del Ayuntamiento de Rubí"
 #: templates/payments/index.html:5
 msgid "Gastos del año vigente"
 msgstr "Gastos del año vigente efectuados según la ejecución presupuestaria que es actualizada diariamente."
+
+msgid "Inversiones y pagos"
+msgstr "Gastos y pagos"
+
+msgid "Menú de pagos e inversiones"
+msgstr "Menú de gastos y pagos"
+
+msgid "Total de inversiones y pagos"
+msgstr "Total de gastos y pagos"
+
+msgid "Las cantidades de estos indicadores se publicarán una vez liquidado el presupuesto del año corriente en el primer trimestre del año siguiente."
+msgstr ""
