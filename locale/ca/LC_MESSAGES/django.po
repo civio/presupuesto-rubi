@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Donde van mis impuestos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-21 04:13+0100\n"
+"PO-Revision-Date: 2015-05-22 20:43+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/donde-van-mis-impuestos/language/ca/)\n"
 "Language: ca\n"
@@ -226,7 +226,7 @@ msgid "Te explicamos cuál es tu aportación mediante los impuestos municipales"
 msgstr "T'expliquem quina es la teva aportació mitjançant els impostos municipals"
 
 msgid "Presupuestos del Gobierno de Aragón"
-msgstr "Pressupostos de l'Ajuntament de Rubí"
+msgstr "Pressupostos de l'Ajuntament"
 
 msgid "¿Buscas algo en concreto?"
 msgstr "Cerques alguna cosa en concret?"
@@ -505,3 +505,60 @@ msgstr "Article"
 
 msgid "Las cantidades de estos indicadores se publicarán una vez liquidado el presupuesto del año corriente en el primer trimestre del año siguiente."
 msgstr "Les quantitats d'aquests indicadors es publicaran un cop liquidat el pressupost de l' any corrent en el primer trimestre de l'any següent"
+
+msgid "Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href=\"#\" id=\"scenario-1\">piso pequeño en el casco antiguo</a>, <a href=\"#\" id=\"scenario-2\">piso de nueva construcción</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">en el centro</a>, o <a href=\"#\" id=\"scenario-4\">en una urbanización</a>) o modificar cada uno de los elementos de forma independiente."
+msgstr "Pots triar el tipus de situació que millor reflexa la teva realitat (<a href=\"#\" id=\"scenario-1\">pis petit al casc antic</a>, <a href=\"#\" id=\"scenario-2\">pis de nova construcció</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">al centre</a> o <a href=\"#\" id=\"scenario-4\">a una urbanització</a>) o modificar cadascun dels elements de forma independent."
+
+msgid "Inmueble"
+msgstr "Immoble"
+
+msgid "Piso de 80 m2 situado en la zona del mercado"
+msgstr "Pis de 80 m2 situat a la zona del mercat"
+
+msgid "Piso de 110 m2 situado en el centro, nueva construcción"
+msgstr "Pis de 110 m2 situat a la centre, nova construcció"
+
+msgid "Casa unifamiliar adosada en el centro del pueblo"
+msgstr "Casa unifamiliar entre mitjeres centre poble"
+
+msgid "Casa unifamiliar aislada en urbanización"
+msgstr "Casa unifamiliar aillada urbanització"
+
+msgid "IBI + Tasa de basuras"
+msgstr "IBI + taxa d’escombraries"
+
+msgid "Vehículo"
+msgstr "Vehicle"
+
+msgid "Ninguno"
+msgstr "Cap"
+
+msgid "Coche pequeño"
+msgstr "Cotxe petit"
+
+msgid "Coche mediano/grande"
+msgstr "Cotxe mitjà/gran"
+
+msgid "Impuesto a vehículos motorizados"
+msgstr "Impost a vehicles motoritzats"
+
+msgid "Vehículo adicional"
+msgstr "Vehicle addicional"
+
+msgid "¿Tienes un vado?"
+msgstr "Tens un gual?"
+
+msgid "Sí, comunitario"
+msgstr "Sí, comunitari"
+
+msgid "Sí, privado"
+msgstr "Sí, privat"
+
+msgid "Tasa"
+msgstr "Taxa"
+
+msgid "Política"
+msgstr "Política"
+
+msgid "Gasto"
+msgstr "Despesa"
