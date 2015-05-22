@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dvmi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-22 20:43+0100\n"
+"PO-Revision-Date: 2015-05-22 21:20+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Civio <contacto@civio.es>\n"
 "Language: es_ES\n"
@@ -233,7 +233,7 @@ msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Ingresos y gastos"
 
 msgid "Presupuestos del Gobierno de Aragón"
-msgstr "Presupuestos del Ayuntamiento"
+msgstr "Presupuestos del Ayuntamiento de Rubí"
 
 #: templates/payments/index.html:5
 msgid "Gastos del año vigente"
