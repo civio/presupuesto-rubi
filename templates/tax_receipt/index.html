@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
 <h1 class="page-title">{{ _('Lo que tú aportas') }}</h1>
-<p class="intro-text">{{ _('Te mostramos de forma aproximada') }}<a href="#footnote-receipt" title="{{ _('Nota sobre el cálculo realizado') }}"><span class="asterisk">* <span class="visuallyhidden">{{ _('Nota sobre el cálculo realizado') }}</span></span></a> {{ _('cómo se distribuye el dinero que aportas con tus impuestos') }}.</p>
+<p class="intro-text">{{ _('Te mostramos de forma aproximada') }}<a href="#footnote-receipt" title="{{ _('Nota sobre el cálculo realizado') }}"></a> {{ _('cómo se distribuye el dinero que aportas con tus impuestos') }}.</p>
 
 <form class="form-user-incomings" action="#" method="get">
 
@@ -49,8 +49,6 @@
 </form>
 
 <p id="tax-amount">{{ _('Contribuyes con un total de <b id="tax-amount-paid"></b> en impuestos a los')|safe }} {{ _('Presupuestos del Gobierno de Aragón') }}.</p>
-
-<p class="footnote tcenter" id="footnote-receipt"><span class="asterisk">*</span> {{ _('[AÑADIR NOTA SOBRE METODOLOGÍA AQUÍ]') }}.</p>
 
 <div class="box box-tax">
   <div class="box-title">
