@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Donde van mis impuestos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-22 20:43+0100\n"
+"PO-Revision-Date: 2015-05-22 20:53+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/donde-van-mis-impuestos/language/ca/)\n"
 "Language: ca\n"
@@ -507,7 +507,7 @@ msgid "Las cantidades de estos indicadores se publicarán una vez liquidado el p
 msgstr "Les quantitats d'aquests indicadors es publicaran un cop liquidat el pressupost de l' any corrent en el primer trimestre de l'any següent"
 
 msgid "Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href=\"#\" id=\"scenario-1\">piso pequeño en el casco antiguo</a>, <a href=\"#\" id=\"scenario-2\">piso de nueva construcción</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">en el centro</a>, o <a href=\"#\" id=\"scenario-4\">en una urbanización</a>) o modificar cada uno de los elementos de forma independiente."
-msgstr "Pots triar el tipus de situació que millor reflexa la teva realitat (<a href=\"#\" id=\"scenario-1\">pis petit al casc antic</a>, <a href=\"#\" id=\"scenario-2\">pis de nova construcció</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">al centre</a> o <a href=\"#\" id=\"scenario-4\">a una urbanització</a>) o modificar cadascun dels elements de forma independent."
+msgstr "Pots escollir el tipus de situació que millor reflecteix la teva realitat (<a href=\"#\" id=\"scenario-1\">pis petit al casc antic</a>, <a href=\"#\" id=\"scenario-2\">pis de nova construcció</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">al centre</a> o <a href=\"#\" id=\"scenario-4\">a una urbanització</a>) o modificar cadascun dels elements de forma independent."
 
 msgid "Inmueble"
 msgstr "Immoble"
