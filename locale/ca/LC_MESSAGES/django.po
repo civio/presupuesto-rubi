@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Donde van mis impuestos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-22 21:20+0100\n"
+"PO-Revision-Date: 2015-05-29 01:42+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/donde-van-mis-impuestos/language/ca/)\n"
 "Language: ca\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: templates/budgets/budgets_indicators.html:1
 msgid "Indicadores presupuestarios en"
@@ -444,8 +444,8 @@ msgstr "Indica els teus ingressos bruts anuals"
 msgid "Calcular"
 msgstr "Calcular"
 
-msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> en impuestos a los"
-msgstr "Contribueixes amb un total de <b id=\"tax-amount-paid\"></b> en impostos a els"
+msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los"
+msgstr "Contribueixes amb un total de <b id=\"tax-amount-paid\"></b> a els"
 
 msgid "¿Qué significa?"
 msgstr "Què significa?"
@@ -562,3 +562,27 @@ msgstr "Política"
 
 msgid "Gasto"
 msgstr "Despesa"
+
+msgid "Impuestos"
+msgstr "Impostos"
+
+msgid "Tasas"
+msgstr "Taxes"
+
+msgid "Unidad familiar"
+msgstr "Unitat familiar"
+
+msgid "Un adulto y dos menores"
+msgstr "Un adult i dos menors"
+
+msgid "Dos adultos y dos menores"
+msgstr "Dos adults i dos menors"
+
+msgid "Dos adultos jubilados"
+msgstr "Dos adults jubilats"
+
+msgid "Familia numerosa"
+msgstr "Familia nombrosa"
+
+msgid "Tasa de basuras"
+msgstr "Taxa d'escombraries"
