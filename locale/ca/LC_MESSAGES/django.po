@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Donde van mis impuestos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-29 01:42+0100\n"
+"PO-Revision-Date: 2015-05-29 02:01+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/donde-van-mis-impuestos/language/ca/)\n"
 "Language: ca\n"
@@ -84,7 +84,7 @@ msgstr "En què s'emprea?"
 
 #: templates/budgets/budgets_intro.html:18
 msgid "El Ayuntamiento utiliza el dinero recaudado, junto con las transferencias del resto de Administraciones Públicas, para mantener los servicios públicos y la provisión de bienes públicos a la ciudadanía de Rubí."
-msgstr "L'Ajuntament utilitza els diners recaptats, juntament amb les transferències d'altres administracions, per mantenir els serveis públics i la provisió de béns públics a la ciutadania de Rubí"
+msgstr "L'Ajuntament utilitza els diners recaptats, juntament amb les transferències d'altres administracions, per mantenir els serveis públics i la provisió de béns públics a la ciutadania de Rubí."
 
 #: templates/shared/data_sources.html:3
 msgid "Fuentes de datos"
