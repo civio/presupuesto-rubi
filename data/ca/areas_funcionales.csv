@@ -5,8 +5,8 @@
 0,,,,Deute públic
 0,1,,,Deute públic
 1,,,,Serveis públics bàsics
-1,3,,,Seguretat i movilitat ciutadana
-1,5,,,Vivenda i urbanisme
+1,3,,,Seguretat i mobilitat ciutadana
+1,5,,,Habitatge i urbanisme
 1,6,,,Benestar comunitari
 1,7,,,Medi ambient
 2,,,,Actuacions de protecció i promoció social
@@ -45,7 +45,7 @@
 1,5,1,3,Projectes urbans
 1,5,1,4,Llicències d'activitats
 1,5,2,1,Habitatge
-1,5,3,1,Accès als nuclis de població
+1,5,3,1,Accés als nuclis de població
 1,5,3,2,Pavimentación de vías públicas
 1,5,5,1,Espai públic i mobilitat
 1,5,5,2,Vies públiques i manteniment urbà
@@ -55,7 +55,7 @@
 1,6,4,0,Cementiri
 1,6,5,0,Enllumenat públic
 1,7,1,0,Parcs i jardins
-1,7,2,1,Medio ambiente
+1,7,2,1,Medi ambiente
 2,3,1,0,Acció social
 2,3,1,1,Atenció a l'infància i famílies
 2,3,1,2,Dona
@@ -88,7 +88,7 @@
 3,3,8,2,Festa major
 3,4,0,0,Administració general de l'esport
 3,4,1,0,Promoció i foment de l'esport
-3,4,2,0,Instal.lacions esportives
+3,4,2,0,Instal·lacions esportives
 4,3,1,0,Comerç
 4,3,1,2,Mercat
 4,3,2,0,Identitat i projecció exterior
