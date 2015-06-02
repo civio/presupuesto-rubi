@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Donde van mis impuestos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-06-02 13:18+0100\n"
+"PO-Revision-Date: 2015-06-02 13:27+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/donde-van-mis-impuestos/language/ca/)\n"
 "Language: ca\n"
@@ -589,3 +589,12 @@ msgstr "Taxa d'escombraries"
 
 msgid "Inicio"
 msgstr "Inici"
+
+msgid "Total gastos no financieros"
+msgstr "Total despeses no financeres"
+
+msgid "Total gastos"
+msgstr "Total despeses"
+
+msgid "Total ingresos"
+msgstr "Total ingressos"
