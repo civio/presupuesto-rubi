@@ -110,24 +110,24 @@ I,3,9,8,Indemnizaciones de seguros de no vida
 I,3,9,9,Otros ingresos diversos
 I,4,,,Transferencia corrientes
 I,4,,,Transferencias corrientes
-I,4,0,,De la Administración General de la Entidad Local
-I,4,0,0,De la Administración General de la Entidad Local
-I,4,1,,De organismos autónomos de la Entidad Local
+I,4,0,,De la Administración General de la entidad local
+I,4,0,0,De la Administración General de la entidad local
+I,4,1,,De organismos autónomos de la entidad local
 I,4,2,,De la Administración del Estado
 I,4,2,0,De la Administración General del Estado
 I,4,2,1,De organismos autónomos y agencias estatales
 I,4,2,2,De fundaciones estatales
 I,4,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
 I,4,3,,De la Seguridad Social
-I,4,4,,De entes públicos y sociedades mercantiles de la Entidad Local
+I,4,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,4,4,0,De entes públicos
 I,4,4,1,De sociedades mercantiles
-I,4,5,,De Comunidades Autónomas
-I,4,5,0,De la Administración General de las Comunidades Autónomas
-I,4,5,1,De organismos autónomos y agencias de las Comunidades Autónomas
-I,4,5,2,De fundaciones de las Comunidades Autónomas
-I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas."
-I,4,6,,De Entidades Locales
+I,4,5,,De comunidades autónomas
+I,4,5,0,De la Administración General de las comunidades autónomas
+I,4,5,1,De organismos autónomos y agencias de las comunidades autónomas
+I,4,5,2,De fundaciones de las comunidades autónomas
+I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas."
+I,4,6,,De entidades locales
 I,4,6,1,"De diputaciones, consejos o cabildos"
 I,4,6,2,De ayuntamientos
 I,4,6,3,De mancomunidades
@@ -135,7 +135,7 @@ I,4,6,4,De áreas metropolitanas
 I,4,6,5,De comarcas
 I,4,6,6,De otras entidades que agrupen municipios
 I,4,6,7,De consorcios
-I,4,6,8,De Entidades Locales menores
+I,4,6,8,De entidades locales menores
 I,4,7,,De empresas privadas
 I,4,8,,De familias e instituciones sin fines de lucro
 I,4,8,9,De familias e instituciones sin fines de lucro
@@ -154,8 +154,8 @@ I,5,0,,Intereses de títulos y valores
 I,5,0,0,Del Estado
 I,5,0,1,De organismos autónomos y agencias
 I,5,0,4,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
-I,5,0,5,De Comunidades Autónomas
-I,5,0,6,De Entidades Locales
+I,5,0,5,De comunidades autónomas
+I,5,0,6,De entidades locales
 I,5,0,7,De empresas privadas
 I,5,1,,Intereses de anticipos y préstamos concedidos
 I,5,1,1,De organismos autónomos y agencias
@@ -198,8 +198,8 @@ I,6,1,9,De otras inversiones reales
 I,6,8,,Reintegros por operaciones de capital
 I,6,8,0,De ejercicios cerrados
 I,7,,,Transferencias de capital
-I,7,0,,De la Administración General de la Entidad Local
-I,7,1,,De organismos autónomos de la Entidad Local
+I,7,0,,De la Administración General de la entidad local
+I,7,1,,De organismos autónomos de la entidad local
 I,7,2,,De la Administración del Estado
 I,7,2,0,De la Administración General del Estado
 I,7,2,1,De organismos autónomos y agencias estatales
@@ -207,15 +207,15 @@ I,7,2,2,De fundaciones estatales
 I,7,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
 I,7,3,,De la Seguridad Social
 I,7,3,0,De la Seguridad Social
-I,7,4,,De entes públicos y sociedades mercantiles de la Entidad Local
+I,7,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,7,4,0,De entes públicos
 I,7,4,1,De sociedades mercantiles
-I,7,5,,De Comunidades Autónomas
-I,7,5,0,De la Administración General de las Comunidades Autónomas
-I,7,5,1,De organismos autónomos y agencias de las Comunidades Autónomas
-I,7,5,2,De fundaciones de las Comunidades Autónomas
-I,7,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas"
-I,7,6,,De Entidades Locales
+I,7,5,,De comunidades autónomas
+I,7,5,0,De la Administración General de las comunidades autónomas
+I,7,5,1,De organismos autónomos y agencias de las comunidades autónomas
+I,7,5,2,De fundaciones de las comunidades autónomas
+I,7,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
+I,7,6,,De entidades locales
 I,7,6,1,"De diputaciones, consejos o cabildos"
 I,7,6,2,De ayuntamientos
 I,7,6,3,De mancomunidades
@@ -223,7 +223,7 @@ I,7,6,4,De áreas metropolitanas
 I,7,6,5,De comarcas
 I,7,6,6,De otras entidades que agrupen municipios
 I,7,6,7,De consorcios
-I,7,6,8,De Entidades Locales menores
+I,7,6,8,De entidades locales menores
 I,7,7,,De empresas privadas
 I,7,8,,De familias e instituciones sin fines de lucro
 I,7,9,,Del exterior
@@ -372,25 +372,25 @@ G,3,5,7,Ejecución de avales
 G,3,5,8,Intereses por operaciones de arrendamiento financiero (leasing)
 G,3,5,9,Otros gastos financieros
 G,4,,,Transferencias corrientes
-G,4,0,,A la Administración General de la Entidad Local
-G,4,1,,A organismos autónomos de la Entidad Local
+G,4,0,,A la Administración General de la entidad local
+G,4,1,,A organismos autónomos de la entidad local
 G,4,2,,A la Administración del Estado
 G,4,2,0,A la Administración General del Estado
 G,4,2,1,A organismos autónomos y agencias del Estado
 G,4,2,2,A fundaciones estatales
 G,4,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
 G,4,3,,A la Seguridad Social
-G,4,4,,A entes públicos y sociedades mercantiles de la Entidad Local
+G,4,4,,A entes públicos y sociedades mercantiles de la entidad local
 G,4,4,0,Subvenciones para fomento del empleo
 G,4,4,1,Subvenciones para bonificacion de intereses y primas de seguros
 G,4,4,2,Subvenciones para reducir el precio a pagar por los consumidores
-G,4,4,9,Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local
-G,4,5,,A Comunidades Autónomas
-G,4,5,0,A la Administración General de las Comunidades Autónomas
-G,4,5,1,A organismos autónomos y agencias de las Comunidades Autónomas
-G,4,5,2,A fundaciones de las Comunidades Autónomas
-G,4,5,3,A sociedades mercantiles entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas
-G,4,6,,A Entidades Locales
+G,4,4,9,Otras subvenciones a entes públicos y sociedades mercantiles de la entidad local
+G,4,5,,A comunidades autónomas
+G,4,5,0,A la Administración General de las comunidades autónomas
+G,4,5,1,A organismos autónomos y agencias de las comunidades autónomas
+G,4,5,2,A fundaciones de las comunidades autónomas
+G,4,5,3,A sociedades mercantiles entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas
+G,4,6,,A entidades locales
 G,4,6,1,"A diputaciones, consejos o cabildos insulares"
 G,4,6,2,A ayuntamientos
 G,4,6,3,A mancomunidades
@@ -398,7 +398,7 @@ G,4,6,4,A áreas metropolitanas
 G,4,6,5,A comarcas
 G,4,6,6,A otras entidades que agrupen municipios
 G,4,6,7,A consorcios
-G,4,6,8,A Entidades Locales menores
+G,4,6,8,A entidades locales menores
 G,4,7,,A empresas privadas
 G,4,7,0,Subvenciones para fomento del empleo
 G,4,7,1,Subvenciones para bonificación de intereses y primas de seguros
@@ -448,23 +448,23 @@ G,6,9,,Inversiones en bienes comunales
 G,6,9,0,Terrenos y bienes naturales
 G,6,9,2,Inversión en infraestructuras
 G,7,,,Transferencias de capital
-G,7,0,,A la Administración General de la Entidad Local
-G,7,1,,A organismos autónomos de la Entidad Local
-G,7,1,0,A organismos autónomos de la Entidad Local
-G,7,1,1,A organismos autónomos de la Entidad Local
+G,7,0,,A la Administración General de la entidad local
+G,7,1,,A organismos autónomos de la entidad local
+G,7,1,0,A organismos autónomos de la entidad local
+G,7,1,1,A organismos autónomos de la entidad local
 G,7,2,,A la Administración del Estado
 G,7,2,0,A la Administración General del Estado
 G,7,2,1,A organismos autónomos y agencias
 G,7,2,2,A fundaciones estatales
 G,7,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
 G,7,3,,A la Seguridad Social
-G,7,4,,A entes públicos y sociedades mercantiles de la Entidad Local
-G,7,5,,A Comunidades Autónomas
-G,7,5,0,A la Administración General de las Comunidades Autónomas
-G,7,5,1,A organismos autónomos y agencias de las Comunidades Autónomas
-G,7,5,2,A fundaciones de las Comunidades Autónomas
-G,7,5,3,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas"
-G,7,6,,A Entidades Locales
+G,7,4,,A entes públicos y sociedades mercantiles de la entidad local
+G,7,5,,A comunidades autónomas
+G,7,5,0,A la Administración General de las comunidades autónomas
+G,7,5,1,A organismos autónomos y agencias de las comunidades autónomas
+G,7,5,2,A fundaciones de las comunidades autónomas
+G,7,5,3,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
+G,7,6,,A entidades locales
 G,7,6,1,"A diputaciones, consejos o cabildos"
 G,7,6,2,A ayuntamientos
 G,7,6,3,A mancomunidades
@@ -472,7 +472,7 @@ G,7,6,4,A áreas metropolitanas
 G,7,6,5,A comarcas
 G,7,6,6,A entidades que agrupen municipios
 G,7,6,7,A consorcios
-G,7,6,8,A Entidades Locales menores
+G,7,6,8,A entidades locales menores
 G,7,7,,A empresas privadas
 G,7,7,0,A empresas privadas
 G,7,8,,A familias e instituciones sin fines de lucro
@@ -532,10 +532,10 @@ G,1,5,4,Fondo homologación, vertebración y v.p.t.
 G,1,5,5,Modernización
 G,1,5,6,Ajustes técnicos
 G,2,7,0,Gastos imprevistos y funciones no clasificadas
-G,4,1,0,A organismos autónomos de la Entidad Local
+G,4,1,0,A organismos autónomos de la entidad local
 G,4,8,0,Transferencias corrientes
 G,4,8,1,Premios, becas y pensiones de estudio
 G,4,8,9,Otras transferencias
 G,4,9,0,Al exterior
-G,7,4,0,A entes públicos y sociedades mercantiles de la Entidad Local
+G,7,4,0,A entes públicos y sociedades mercantiles de la entidad local
 G,7,8,0,Servicios Generales de Urbanismo y Arquitectura
