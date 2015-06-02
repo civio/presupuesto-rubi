@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Donde van mis impuestos\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-19 11:38+0200\n"
-"PO-Revision-Date: 2015-05-29 02:09+0100\n"
+"PO-Revision-Date: 2015-06-02 12:39+0100\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/donde-van-mis-impuestos/language/ca/)\n"
 "Language: ca\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: templates/budgets/budgets_indicators.html:1
 msgid "Indicadores presupuestarios en"
-msgstr "Indicadors pressupostaris en"
+msgstr "Indicadors pressupostaris el"
 
 #: templates/budgets/budgets_indicators.html:5
 msgid "Resultado presupuestario ajustado"
@@ -80,7 +80,7 @@ msgstr "La totalitat dels diners recaptats per l'Ajuntament es destinen al press
 
 #: templates/budgets/budgets_intro.html:17
 msgid "¿En qué se emplea?"
-msgstr "En què s'emprea?"
+msgstr "En què s'empra?"
 
 #: templates/budgets/budgets_intro.html:18
 msgid "El Ayuntamiento utiliza el dinero recaudado, junto con las transferencias del resto de Administraciones Públicas, para mantener los servicios públicos y la provisión de bienes públicos a la ciudadanía de Rubí."
@@ -112,7 +112,7 @@ msgstr "Institut Nacional d'Estadística (INE)"
 
 #: templates/shared/data_sources.html:10
 msgid "Datos de inflación (Medias anuales de IPC para Cataluña)"
-msgstr "Dades d'inflació (Mitjanes anuals d'IPC per a Catalunya)"
+msgstr "Dades d'inflació (mitjanes anuals d'IPC per a Catalunya)"
 
 #: templates/shared/data_sources.html:13
 msgid "Nota"
@@ -120,11 +120,11 @@ msgstr "Nota"
 
 #: templates/shared/data_sources.html:15
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Ayuntamiento de Rubí"
-msgstr "Els ingressos i despeses mostrades inclouen únicament a l'Ajuntament de Rubí"
+msgstr "Els ingressos i despeses mostrades inclouen únicament l'Ajuntament de Rubí"
 
 #: templates/shared/data_sources.html:16
 msgid "El ajuste de la inflación se realiza a <b>1 de enero de"
-msgstr "L'ajust de la inflació es realitza a <b>1 de gener de"
+msgstr "L'ajust de la inflació es fa l'<b>1 de gener de"
 
 #: templates/shared/footer.html:7
 msgid "Un proyecto de"
@@ -207,7 +207,7 @@ msgstr "Alguns exemples"
 
 #: templates/welcome/index.html:29
 msgid "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Rubí."
-msgstr "Perquè et facis una idea general dels ingressos i les despeses de l'Ajuntament de Rubí"
+msgstr "Perquè et facis una idea general dels ingressos i les despeses de l'Ajuntament de Rubí."
 
 #: templates/welcome/index.html:34
 msgid "Políticas concretas"
@@ -241,7 +241,7 @@ msgid "Ahorro bruto"
 msgstr "Estalvi brut"
 
 msgid "La recaudación de impuestos locales se realiza a través de impuestos directos, principalmente el IBI y de tasas y precios públicos. Por otro lado la ciudadanía paga impuestos a la Generalitat y al Estado a través de los impuestos directos - como el IRPF y el impuesto de sociedades- y de impuestos indirectos -IVA e impuestos sobre el tabaco, el alcohol o la gasolina."
-msgstr "La recaptació d’impostos locals es realitza a través d'impostos directes, principalment l'IBI i de taxes i preus públics. D'altra banda la ciutadania paga impostos a la Generalitat i l'Estat a través dels impostos directes - com l'IRPF i l'impost de societats- i d'impostos indirectes -l'IVA i impostos sobre el tabac, l'alcohol o la benzina."
+msgstr "La recaptació d’impostos locals es du a terme a través d'impostos directes, principalment l'IBI i de taxes i preus públics. D'altra banda, la ciutadania paga impostos a la Generalitat i l'Estat a través dels impostos directes - com l'IRPF i l'impost de societats- i d'impostos indirectes -l'IVA i impostos sobre el tabac, l'alcohol o la benzina."
 
 msgid "La totalidad del dinero recaudado por el Ayuntamiento se destina al presupuesto municipal que requiere de otros ingresos provenientes, principalmente, de la Generalidad y la Administración General del Estado para cubrir todos los gastos."
 msgstr "La totalitat dels diners recaptats per l'Ajuntament es destinen al pressupost municipal que requereix d'altres ingressos provinents, principalment, de la Generalitat i l'Administració General de l'Estat per cobrir tota la despesa."
@@ -445,7 +445,7 @@ msgid "Calcular"
 msgstr "Calcular"
 
 msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los"
-msgstr "Contribueixes amb un total de <b id=\"tax-amount-paid\"></b> a els"
+msgstr "Contribueixes amb un total de <b id=\"tax-amount-paid\"></b> als"
 
 msgid "¿Qué significa?"
 msgstr "Què significa?"
@@ -464,7 +464,7 @@ msgstr "Per a què tinguis una idea general dels ingressos i despeses de l'Ajunt
 
 #: templates/budgets/index.html:29
 msgid "Ingresos y gastos totales en"
-msgstr "Ingressos i despeses totals en"
+msgstr "Ingressos i despeses totals el"
 
 #: templates/budgets/index.html:32
 msgid "Ingresos totales"
@@ -480,7 +480,7 @@ msgstr "Despeses totals"
 
 #: templates/payments/index.html:5
 msgid "Gastos del año vigente"
-msgstr "Despeses de l'any en curs efectuades segons l'execució pressupostària que es actualitzada diàriament."
+msgstr "Despeses de l'any en curs efectuades segons l'execució pressupostària que és actualitzada diàriament."
 
 msgid "Se incluyen únicamente los gastos e ingresos no financieros, es decir, capítulos I al VII."
 msgstr "S'inclouen únicament els ingressos i despeses no financers, és a dir, capítols I al VII."
@@ -504,7 +504,7 @@ msgid "Artículo"
 msgstr "Article"
 
 msgid "Las cantidades de estos indicadores se publicarán una vez liquidado el presupuesto del año corriente en el primer trimestre del año siguiente."
-msgstr "Les quantitats d'aquests indicadors es publicaran un cop liquidat el pressupost de l' any corrent en el primer trimestre de l'any següent"
+msgstr "Les quantitats d'aquests indicadors es publicaran un cop liquidat el pressupost de l'any corrent en el primer trimestre de l'any següent."
 
 msgid "Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href=\"#\" id=\"scenario-1\">piso pequeño en el casco antiguo</a>, <a href=\"#\" id=\"scenario-2\">piso de nueva construcción</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">en el centro</a>, o <a href=\"#\" id=\"scenario-4\">en una urbanización</a>) o modificar cada uno de los elementos de forma independiente."
 msgstr "Pots escollir el tipus de situació que millor reflecteix la teva realitat (<a href=\"#\" id=\"scenario-1\">pis petit al casc antic</a>, <a href=\"#\" id=\"scenario-2\">pis de nova construcció</a>, casa unifamiliar <a href=\"#\" id=\"scenario-3\">al centre</a> o <a href=\"#\" id=\"scenario-4\">en una urbanització</a>) o modificar cadascun dels elements de forma independent."
