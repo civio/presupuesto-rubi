@@ -64,7 +64,7 @@ class RubiBudgetLoader(SimpleBudgetLoader):
                 'is_actual': is_actual,
                 'fc_code': fc_code,
                 'ec_code': self.clean(line[2]),
-                'ic_code': '100', #self.clean(line[0]).replace('U','').zfill(4),    # Fill with zeroes on the left if needed
+                'ic_code': '100',
                 'item_number': self.clean(line[2])[-2:],    # Last two digits
                 'description': line[3],
                 'amount': self._parse_amount(line[7 if is_actual else 4])
