@@ -22,8 +22,8 @@ SHOW_INSTITUTIONAL_TAB = False
 # Warning: the execution data still gets shown in the summary chart and in downloads.
 #SHOW_ACTUAL = True
 
-# Include financial expenditure in overview and global policy breakdowns. Default: False.
-INCLUDE_FINANCIAL_SPENDING_IN_BREAKDOWNS = True
+# Include financial income/expenditures in overview and global policy breakdowns. Default: False.
+INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
 
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
