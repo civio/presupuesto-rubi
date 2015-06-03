@@ -1,9 +1,7 @@
 *pyc
-
 loaders/rubi_budget_loader.pyc
-
-*.pyc
-
-loaders/rubi_budget_loader.pyc
-
 static/stylesheets/config.codekit
+*xlsx
+
+# For now at least
+UPDATES.md
