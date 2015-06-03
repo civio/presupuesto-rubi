@@ -13,7 +13,7 @@ class RubiBudgetLoader(SimpleBudgetLoader):
         return s.split('.')[0]
 
     def parse_item(self, filename, line):
-        # Skip lines whitout the first element
+        # Skip lines without the first element
         if line[0] == '':
             return {
                 'amount': 0
