@@ -52,4 +52,4 @@ for index, line in enumerate(reader):
 
 
 # Done
-print u"Datos descargados con éxito"
+print u"Datos descargados con éxito. %s líneas." % (reader.line_num)
