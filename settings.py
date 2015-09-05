@@ -6,6 +6,7 @@ MAIN_ENTITY_LEVEL = 'municipio'
 MAIN_ENTITY_NAME = 'Rubí'
 
 BUDGET_LOADER = 'RubiBudgetLoader'
+PAYMENTS_LOADER = 'RubiPaymentsLoader'
 
 FEATURED_PROGRAMMES = ['1710', '3321', '3261', '1630', '2410', '3263', '3340', '3370', '3410', '4411', '9242']
 

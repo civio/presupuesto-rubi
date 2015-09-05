@@ -1,1 +1,2 @@
 from rubi_budget_loader import RubiBudgetLoader
+from rubi_payments_loader import RubiPaymentsLoader
