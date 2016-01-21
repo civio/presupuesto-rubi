@@ -1,6 +1,9 @@
 # To be scheduled via cron like:
 # 00 03 * * * cd /var/www/rubi.dondevanmisimpuestos.es/public/presupuesto-rubi/scripts && ./update_budget_data.sh
 
+echo 'Disabled until 2016 budget is available'
+exit
+
 python fetch_execution_data.py
 
 python fetch_payment_data.py
