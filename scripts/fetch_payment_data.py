@@ -36,6 +36,7 @@ functional_categories_file_es = os.path.join(base_path, '..', 'data', 'es-es', '
 functional_categories_es = read_functional_categories(functional_categories_file_es)
 
 # Download payment data
+# See https://opendata.rubi.cat/es/Finances-Municipals/Obligacions-reconegudes/qnp2-hje6
 print "Descargando datos de pagos..."
 response = urllib2.urlopen('https://opendata.rubi.cat/api/views/qnp2-hje6/rows.csv?accessType=DOWNLOAD')
 

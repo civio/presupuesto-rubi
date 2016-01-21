@@ -8,6 +8,7 @@ base_path = os.path.dirname(os.path.realpath(__file__))
 
 
 # Download income data
+# See https://opendata.rubi.cat/es/Finances-Municipals/Pressupost-municipal_Estat-d-execuci-d-ingressos/ds9h-xggj
 print "Descargando datos de ingresos..."
 response = urllib2.urlopen('https://opendata.rubi.cat/api/views/ds9h-xggj/rows.csv?accessType=DOWNLOAD')
 
@@ -32,6 +33,7 @@ for index, line in enumerate(reader):
 
 
 # Download expense data
+# See https://opendata.rubi.cat/es/Finances-Municipals/Pressupost-municipal_Estat-d-execuci-de-despeses/ynig-hhni
 print "Descargando datos de gasto..."
 response = urllib2.urlopen('https://opendata.rubi.cat/api/views/ynig-hhni/rows.csv?accessType=DOWNLOAD')
 
