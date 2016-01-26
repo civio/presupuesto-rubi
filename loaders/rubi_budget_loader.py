@@ -13,6 +13,12 @@ class RubiBudgetLoader(SimpleBudgetLoader):
         return s.split('.')[0]
 
     def parse_item(self, filename, line):
+        # Skip lines without the first element, in Rubi's case they are subtotals, to be ignored
+        if line[0] == '':
+            return {
+                'amount': 0
+            }
+
         # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
