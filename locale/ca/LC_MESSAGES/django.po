@@ -390,17 +390,35 @@ msgstr "Ingressos i despeses"
 msgid "Ingresos"
 msgstr "Ingressos"
 
+
+#: budget_app/views/entities.py:228
+msgid "¿Cómo se ingresa?"
+msgstr "Com s'ingressa?"
+
+msgid "Tipo de ingresos"
+msgstr "Tipus d'ingressos"
+
+msgid "¿Quién recauda?"
+msgstr "Qui recapta?"
+
 msgid "¿Cómo se gasta?"
 msgstr "Com es gasta?"
 
 msgid "¿En qué se gasta?"
 msgstr "En què es gasta?"
 
+msgid "¿Cómo se financia?"
+msgstr "Com es finança?"
+
+msgid "¿Quién lo gasta?"
+msgstr "Qui ho gasta?"
+
 msgid "Gastos"
 msgstr "Despeses"
 
 msgid "Gastos (por programa)"
 msgstr "Despeses (per programa)"
+
 
 msgid "Cantidades"
 msgstr "Quantitats"
