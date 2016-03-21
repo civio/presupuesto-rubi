@@ -38,6 +38,7 @@
 1,3,2,0,Seguridad y orden público
 1,3,4,0,Mobilidad
 1,3,5,0,Protección civil
+1,3,6,0,Prevención y extinción de incendios
 1,5,0,0,Administración general de urbanismo
 1,5,1,0,Urbanismo
 1,5,1,1,Licencias de actividades y disciplina urbanística
@@ -51,6 +52,8 @@
 1,5,5,2,Vías públicas y mantenimiento urbano
 1,6,1,0,Saneamiento y abastecimiento de agua
 1,6,2,1,Recogida y eliminación de residuos
+1,6,2,2,Gestión de residuos urbanos
+1,6,2,3,Tratamiento de residuos
 1,6,3,0,Limpieza viaria
 1,6,4,0,Cementerio
 1,6,5,0,Iluminación pública
@@ -75,9 +78,11 @@
 3,2,6,1,Guarderías
 3,2,6,2,Escuela de arte
 3,2,6,3,Escuela de música
+3,2,6,6,Guardería Sol Solet
 3,3,0,0,Administración general de la cultura
 3,3,0,1,Política lingüística
 3,3,2,1,Bibliotecas
+3,3,2,2,Archivos
 3,3,3,0,Museos
 3,3,4,0,Promoción cultural
 3,3,4,1,Proyecto expositivo de la ciudad
@@ -89,13 +94,18 @@
 3,4,0,0,Administración general del deporte
 3,4,1,0,Promoción y fomento del deporte
 3,4,2,0,Instalaciones deportivas
+4,2,5,0,Rubí brilla
 4,3,1,0,Comercio
+4,3,1,1,Ferias
 4,3,1,2,Mercado
+4,3,1,3,Comercio ambulante
 4,3,2,0,Identidad y proyección exterior
 4,3,2,1,Proyectos estratégicos y supramunicipales
 4,3,3,0,Promoción económica y desarrollo empresarial
 4,3,9,0,Promoción económica
 4,4,1,1,Transporte público
+4,9,1,0,OED Ràdio Rubí
+4,9,3,0,Protección de consumidores y usuarios
 9,1,2,0,Órganos de gobierno
 9,1,2,1,Acción institucional y comunicación
 9,1,2,2,Comisionado de información
@@ -111,6 +121,8 @@
 9,2,0,8,Mantenimiento dependencias municipales
 9,2,0,9,"Servicios Generales del área de servicios centrales, hacienda y régimen interior"
 9,2,1,0,"Servicios generales del área de planificación, ecología urbana y seguridad"
+9,2,2,0,Coordinacioń y organización institucional de las entitades locales
+9,2,3,0,Información básica y estadística
 9,2,4,0,Participación ciudadana y soporte a las entidades
 9,2,4,1,Infraestructuras y soporte a las entidades
 9,2,4,2,Cooperación internacional
@@ -119,3 +131,4 @@
 9,3,1,0,Intervención y contabilidad
 9,3,2,0,Hacienda y servicios económicos
 9,3,3,0,Gestión del patrimonio
+9,3,4,0,Tesorería

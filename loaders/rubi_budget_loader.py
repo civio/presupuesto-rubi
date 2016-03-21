@@ -47,6 +47,15 @@ class RubiBudgetLoader(SimpleBudgetLoader):
             '9213': '9206',     # Servicios generales del área de cohesión social
         }
 
+        # There have been some changes in 2016 (with a new government in place), some
+        # programme codes have been changed. We could modify 2015 data and reload all
+        # budgets or -easier- modify new 2016 data to match existing.
+        programme_mapping_from_2016 = {
+            '1720': '1721',     # Medio ambiente
+            '3264': '3213',     # Guardería La Bruna
+            '3265': '3211',     # Guardería La Lluna
+        }
+
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
@@ -55,9 +64,9 @@ class RubiBudgetLoader(SimpleBudgetLoader):
             # For years before 2015 we check whether we need to amend the programme code
             year = re.search('municipio/(\d+)/', filename).group(1)
             if year in ['2011', '2012', '2013', '2014']:
-                new_programme = programme_mapping.get(fc_code)
-                if new_programme:
-                    fc_code = new_programme
+                fc_code = programme_mapping.get(fc_code, fc_code)
+            if year in ['2016']:
+                fc_code = programme_mapping_from_2016.get(fc_code, fc_code)
 
             return {
                 'is_expense': True,

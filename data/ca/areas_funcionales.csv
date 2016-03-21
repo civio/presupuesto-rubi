@@ -38,6 +38,7 @@
 1,3,2,0,Seguretat i ordre públic
 1,3,4,0,Mobilitat
 1,3,5,0,Protecció civil
+1,3,6,0,Prevenció i extinció d'incendis
 1,5,0,0,Administració general d'urbanisme
 1,5,1,0,Urbanisme
 1,5,1,1,Llicències d'activitats i disciplina urbanística
@@ -51,6 +52,8 @@
 1,5,5,2,Vies públiques i manteniment urbà
 1,6,1,0,Sanejament i abastament d'aigua
 1,6,2,1,Recollida i eliminació de residus
+1,6,2,2,Gestió de residus urbans
+1,6,2,3,Tractament de residus
 1,6,3,0,Neteja viària
 1,6,4,0,Cementiri
 1,6,5,0,Enllumenat públic
@@ -75,9 +78,11 @@
 3,2,6,1,Escoles bressol
 3,2,6,2,Escola d'art
 3,2,6,3,Escola de música
+3,2,6,6,Escola bressol Sol Solet
 3,3,0,0,Administració general de la cultura
 3,3,0,1,Política lingüística
 3,3,2,1,Biblioteques
+3,3,2,2,Arxius
 3,3,3,0,Museus
 3,3,4,0,Promoció cultural
 3,3,4,1,Projecte expositiu de la ciutat
@@ -89,13 +94,18 @@
 3,4,0,0,Administració general de l'esport
 3,4,1,0,Promoció i foment de l'esport
 3,4,2,0,Instal·lacions esportives
+4,2,5,0,Rubí brilla
 4,3,1,0,Comerç
+4,3,1,1,Fires
 4,3,1,2,Mercat
+4,3,1,3,Comerç ambulant
 4,3,2,0,Identitat i projecció exterior
 4,3,2,1,Projectes estratègics i supramunicipals
 4,3,3,0,Promoció econòmica i desenvolupament empresarial
 4,3,9,0,Promoció econòmica
 4,4,1,1,Transport públic
+4,9,1,0,OED Ràdio Rubí
+4,9,3,0,Protecció de consumidors i usuaris
 9,1,2,0,Òrgans de govern
 9,1,2,1,Acció institucional i comunicació
 9,1,2,2,Comissionat de l'informació
@@ -111,6 +121,8 @@
 9,2,0,8,Manteniment dependències municipals
 9,2,0,9,"Serveis generals de l'àrea de serveis centrals, hisenda i règim interior"
 9,2,1,0,"Serveis generals de l'àrea de planificació, ecologia urbana i seguretat"
+9,2,2,0,Coordinació i organització institucional de les entitats locals
+9,2,3,0,Informació bàsica i estadística
 9,2,4,0,Participació ciutadana i suport a les entitats
 9,2,4,1,Infraestructures i suport a les entitats
 9,2,4,2,Cooperació internacional
@@ -119,3 +131,4 @@
 9,3,1,0,Intervenció i comptabilitat
 9,3,2,0,Hisenda i serveis econòmics
 9,3,3,0,Gestió del patrimoni
+9,3,4,0,Tresoreria

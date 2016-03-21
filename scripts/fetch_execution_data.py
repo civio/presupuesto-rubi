@@ -16,8 +16,8 @@ response = urllib2.urlopen('https://opendata.rubi.cat/api/views/ds9h-xggj/rows.c
 print "Parseando datos..."
 reader = csv.reader(response)
 # Note: the output is the same for both languages in this case (not for payments for example)
-writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', '2015', 'ejecucion_ingresos.csv'), 'wb'))
-writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', '2015', 'ejecucion_ingresos.csv'), 'wb'))
+writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', '2016', 'ejecucion_ingresos.csv'), 'wb'))
+writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', '2016', 'ejecucion_ingresos.csv'), 'wb'))
 for index, line in enumerate(reader):
   if index==0:         # Ignore header line
       continue
@@ -41,8 +41,8 @@ response = urllib2.urlopen('https://opendata.rubi.cat/api/views/ynig-hhni/rows.c
 print "Parseando datos..."
 reader = csv.reader(response)
 # Note: the output is the same for both languages in this case (not for payments for example)
-writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', '2015', 'ejecucion_gastos.csv'), 'wb'))
-writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', '2015', 'ejecucion_gastos.csv'), 'wb'))
+writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', '2016', 'ejecucion_gastos.csv'), 'wb'))
+writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', '2016', 'ejecucion_gastos.csv'), 'wb'))
 for index, line in enumerate(reader):
   if index==0:         # Ignore header line
       continue
