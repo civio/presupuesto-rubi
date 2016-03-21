@@ -8,7 +8,7 @@ MAIN_ENTITY_NAME = 'Rubí'
 BUDGET_LOADER = 'RubiBudgetLoader'
 PAYMENTS_LOADER = 'RubiPaymentsLoader'
 
-FEATURED_PROGRAMMES = ['1710', '3321', '3261', '1630', '2410', '3263', '3340', '3370', '3410', '4411', '9242']
+FEATURED_PROGRAMMES = ['1710', '3321', '1630', '2410', '3263', '3340', '3370', '3410', '4411', '9242']
 
 OVERVIEW_INCOME_NODES = [['11', '113'], '13', '42', '43', '45', '46', '30', '33', '34', '39']
 OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '01', '33', '32', '43', '44', '91', '93', '17']
