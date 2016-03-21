@@ -1,5 +1,5 @@
 # Datos de IPC del INE. Medias anuales de IPC para Cataluña, Índice general: 
-#   http://www.ine.es/jaxiT3/Tabla.htm?t=2605
+#   http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0
 # Las tasas de inflación se refieren a la media de las tasas interanuales durante los 12
 # meses del año. Esta media es calculada por el INE y publicada en la dirección indicada.
 # La aplicación calcula internamente un índice de inflación a partir de estas tasas, tal que:
@@ -14,4 +14,5 @@
 2012,2.9
 2013,1.7
 2014,0.1
-2015,0
+2015,-0.2
+2016,0
