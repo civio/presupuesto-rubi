@@ -5,6 +5,8 @@ import os.path
 import re
 import datetime
 
+# TODO: This shouldn't be hardcoded
+YEAR_TO_LOAD = '2016'
 
 # Read functional categories from given file and return as a dictionary
 def read_functional_categories(filename):
@@ -35,6 +37,15 @@ functional_categories_ca = read_functional_categories(functional_categories_file
 functional_categories_file_es = os.path.join(base_path, '..', 'data', 'es-es', 'areas_funcionales.csv')
 functional_categories_es = read_functional_categories(functional_categories_file_es)
 
+# There have been some changes in 2016 (with a new government in place), some
+# programme codes have been changed. We could modify 2015 data and reload all
+# budgets or -easier- modify new 2016 data to match existing.
+programme_mapping_from_2016 = {
+    '1720': '1721',     # Medio ambiente
+    '3264': '3213',     # Guardería La Bruna
+    '3265': '3211',     # Guardería La Lluna
+}
+
 # Download payment data
 # See https://opendata.rubi.cat/es/Finances-Municipals/Obligacions-reconegudes/qnp2-hje6
 print "Descargando datos de pagos..."
@@ -43,19 +54,28 @@ response = urllib2.urlopen('https://opendata.rubi.cat/api/views/qnp2-hje6/rows.c
 # Parse downloaded data
 print "Parseando datos..."
 reader = csv.reader(response)
-# Note: the output is the same for both languages in this case (not for payments for example)
-writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', '2015', 'pagos.csv'), 'wb'))
-writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', '2015', 'pagos.csv'), 'wb'))
+# Note: the output is NOT the same for both languages in this case
+writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', YEAR_TO_LOAD, 'pagos.csv'), 'wb'))
+writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', YEAR_TO_LOAD, 'pagos.csv'), 'wb'))
 for index, line in enumerate(reader):
   if index==0:          # Ignore header line
       continue
 
+  # Soemtimes there are error lines in the output. Ignore them
+  if 'DATABASE_ERROR' in line[0]:
+      continue
+
   # Parse (and transform) the payment item
-  programme_id = line[11]
+  programme_id = programme_mapping_from_2016.get(line[11], line[11])
   economic_id = line[12]
   beneficiary_id = line[2]
   description = line[4]
   amount = line[9]
+
+  # We're only interested in the payments for the current year
+  budget_year = line[14]
+  if budget_year != YEAR_TO_LOAD:
+      continue
 
   # Read and reformat the date to match what the loader expects (yyyy-mm-dd).
   # Note that the date is not always available.
