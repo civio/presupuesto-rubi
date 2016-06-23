@@ -69,7 +69,9 @@ for index, line in enumerate(reader):
   programme_id = programme_mapping_from_2016.get(line[11], line[11])
   economic_id = line[12]
   beneficiary_id = line[2]
-  description = line[4]
+  # The current table breakdown implementation can't handle empty strings well.
+  # This is the best place to patch it at the moment.
+  description = line[4] if line[4]!='' else '...'
   amount = line[9]
 
   # We're only interested in the payments for the current year
