@@ -1,8 +1,6 @@
 *pyc
-loaders/rubi_budget_loader.pyc
-static/stylesheets/config.codekit
-*xlsx
-
-# For now at least
-UPDATES.md
-pagos.csv
+.DS_Store
+/node_modules
+npm-debug.log
+/static/stylesheets/main.css
+/static/stylesheets/main.css.map
