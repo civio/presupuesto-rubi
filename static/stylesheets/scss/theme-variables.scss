@@ -13,8 +13,8 @@ $gray-lightest:         lighten($gray-base, 96%) !default;
 $text-color:            #414141;
 
 $brand-primary:         #D32E12;
-$brand-secondary:       #DDDDDD;
-$brand-terciary:        #DDDDDD;
+$brand-secondary:       #E6E6E6;
+$brand-terciary:        #E6E6E6;
 
 $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
@@ -48,8 +48,8 @@ $container-large-desktop:  (1050px + $grid-gutter-width);
 // Main Entity Logo
 // -------------
 
-$main-entity-logo-width:   81px;
-$main-entity-logo-height:  68px;
+$main-entity-logo-width:   168px;
+$main-entity-logo-height:  73px;
 
 
 // Navbar
@@ -83,15 +83,15 @@ $footer-bg: $brand-primary;
 // Page Header
 // --------------
 
-$page-header-bg:            mix( $brand-secondary, white, 8% );
-$page-header-border-color:  mix( $brand-secondary, white, 70% );
+$page-header-bg:            mix( $brand-primary, white, 6% );
+$page-header-border-color:  $brand-primary;
 
 
 // Panels
 // ---------------
 
-$panel-default-border:      $brand-secondary;
-$panel-default-heading-bg:  $brand-secondary;
+$panel-default-border:      $brand-primary;
+$panel-default-heading-bg:  $brand-primary;
 
 
 // Buttons
@@ -145,11 +145,11 @@ $modal-backdrop-opacity:      .75;
 // Pagination
 // --------------
 
-$pagination-color:                     $brand-secondary;
-$pagination-hover-color:               $brand-secondary;
+$pagination-color:                     $brand-primary;
+$pagination-hover-color:               $brand-primary;
 
-$pagination-active-bg:                 $brand-secondary;
-$pagination-active-border:             $brand-secondary;
+$pagination-active-bg:                 $brand-primary;
+$pagination-active-border:             $brand-primary;
 
 
 // Search Form
@@ -161,20 +161,20 @@ $search-form-bg: $brand-terciary;
 // Budget Stream
 // --------------
 
-$budget-stream-color: $brand-secondary;
+$budget-stream-color: darken( $brand-secondary, 30% );
 
 
 // Year Slider
 // --------------
 
-$slider-bg:     $page-header-bg;
-$slider-color:  $brand-secondary;
+$slider-bg:     $brand-secondary;
+$slider-color:  $brand-primary;
 
 
 // Data Sources
 // --------------
 
-$data-sources-color: $brand-terciary;
+$data-sources-color: darken( $brand-secondary, 10% );
 
 
 // Sankey Viz

@@ -1,1 +1,55 @@
 @import "theme-variables";
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oxygen', Helvetica, Arial, sans-serif;
+}
+
+.open-data-logo {
+  display: block;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    position: absolute;
+    top: 2*$grid-gutter-width;
+    right: $grid-gutter-width/2;
+    z-index: 90;
+  }
+}
+
+.panel-downloads {
+  border: none;
+  background: $page-header-bg;
+}
+
+.social-sharing-toolbox li a{
+  background-color: $budget-stream-color;
+}
+
+.form-search-glossary .btn-primary {
+  border-color: $budget-stream-color;
+  background: $budget-stream-color;
+}
+.glossary-terms h3:before, 
+.glossary-terms h4:before {
+  color: $brand-primary;
+}
+
+.tax-receipt-content .form-user-incomings {
+  background: $brand-secondary;
+
+  h3 {
+    color: $gray;
+    font-weight: $font-weight-400;
+  }
+
+  .select-info {
+    color: $brand-primary;
+  }
+}
+
+.tax-receipt-content #tax-amount {
+  border: none;
+}
