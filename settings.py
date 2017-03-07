@@ -157,7 +157,7 @@ OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '01', '33', '32', '43', 
 # SHOW_OVERVIEW_SUBTOTALS = True
 
 # Calculate budget indicators (True), or show/hide the ones hardcoded in HTML (False). Default: True.
-# CALCULATE_BUDGET_INDICATORS = False
+CALCULATE_BUDGET_INDICATORS = False
 
 
 # Treemap Settings
