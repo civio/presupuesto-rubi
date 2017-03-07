@@ -85,29 +85,29 @@ LANGUAGES = (
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
 # In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID             = ''
+FACEBOOK_ID             = '771090126321708'
 
 # Google Analytics ID. Default: ''
 # In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = ''
+ANALYTICS_ID            = 'UA-28946840-10'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = ''
+DATA_SOURCE_BUDGET      = 'https://opendata.rubi.cat/browse?category=Finances+Municipals&for_user=i75g-tm9r'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = ''
+DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2861'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = ''
+DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = ''
+MAIN_ENTITY_WEB_URL     = 'http://www.rubi.cat'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = ''
+MAIN_ENTITY_LEGAL_URL   = 'http://www.rubi.cat/es/aviso-legal'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_PRIVACY_URL = ''
+MAIN_ENTITY_PRIVACY_URL = 'http://www.rubi.cat/es/politica-de-privacidad'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
 COOKIES_URL             = ''
