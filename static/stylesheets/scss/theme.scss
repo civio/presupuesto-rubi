@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
   background: $page-header-bg;
 }
 
-.social-sharing-toolbox li a{
+.social-sharing-toolbox li a {
   background-color: $budget-stream-color;
 }
 
@@ -37,8 +37,16 @@ h1, h2, h3, h4, h5, h6 {
   color: $brand-primary;
 }
 
+.payments-search-panel.data-panel .panel-content,
 .tax-receipt-content .form-user-incomings {
   background: $brand-secondary;
+}
+
+#query-panel .panel-content {
+  background: $page-header-bg;
+}
+
+.tax-receipt-content .form-user-incomings {
 
   h3 {
     color: $gray;
