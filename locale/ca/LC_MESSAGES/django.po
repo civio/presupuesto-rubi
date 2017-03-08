@@ -39,7 +39,7 @@ msgstr "Ingressos i despeses a l'Ajuntament de Rubí"
 #: templates/shared/footer.html:18 templates/shared/header.html:28
 #: templates/shared/header.html.py:61 templates/welcome/index.html:54
 msgid "Gobierno de Aragón"
-msgstr "Ajuntament de Base City"
+msgstr "Ajuntament de Rubí"
 
 #: templates/shared/data_sources.html:9
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
@@ -62,6 +62,9 @@ msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de
 msgstr "Perquè et facis una idea general dels ingressos i les despeses de l'Ajuntament de Rubí"
 
 
+
+msgid "Datos de ejecución presupuestaria"
+msgstr "Dades d'execució pressupostària"
 
 msgid "Las cantidades de estos indicadores se publicarán una vez liquidado el presupuesto del año corriente en el primer trimestre del año siguiente."
 msgstr "Les quantitats d'aquests indicadors es publicaran un cop liquidat el pressupost de l'any corrent en el primer trimestre de l'any següent."
