@@ -65,7 +65,7 @@ class RubiBudgetLoader(SimpleBudgetLoader):
             year = re.search('municipio/(\d+)/', filename).group(1)
             if year in ['2011', '2012', '2013', '2014']:
                 fc_code = programme_mapping.get(fc_code, fc_code)
-            if year in ['2016']:
+            if year in ['2016', '2017']:
                 fc_code = programme_mapping_from_2016.get(fc_code, fc_code)
 
             return {
