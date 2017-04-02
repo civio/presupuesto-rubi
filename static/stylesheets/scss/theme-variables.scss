@@ -181,4 +181,5 @@ $data-sources-color: darken( $brand-secondary, 10% );
 // --------------
 
 $sankey-budget-color:     saturate( lighten( $brand-secondary, 12% ), 10% );                          // #1F77B4;
+$sankey-budget-color:     #1F77B4;
 $sankey-execution-color:  saturate( lighten( adjust-hue( $sankey-budget-color, 100% ), 10% ), 10% );  //#E377C2;
