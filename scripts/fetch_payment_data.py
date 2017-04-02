@@ -34,7 +34,7 @@ base_path = os.path.dirname(os.path.realpath(__file__))
 functional_categories_file_ca = os.path.join(base_path, '..', 'data', 'ca', 'areas_funcionales.csv')
 functional_categories_ca = read_functional_categories(functional_categories_file_ca)
 
-functional_categories_file_es = os.path.join(base_path, '..', 'data', 'es-es', 'areas_funcionales.csv')
+functional_categories_file_es = os.path.join(base_path, '..', 'data', 'es', 'areas_funcionales.csv')
 functional_categories_es = read_functional_categories(functional_categories_file_es)
 
 # There have been some changes in 2016 (with a new government in place), some
@@ -56,7 +56,7 @@ print "Parseando datos..."
 reader = csv.reader(response)
 # Note: the output is NOT the same for both languages in this case
 writer_ca = csv.writer(open(os.path.join(base_path, '..', 'data', 'ca', 'municipio', YEAR_TO_LOAD, 'pagos.csv'), 'wb'))
-writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es-es', 'municipio', YEAR_TO_LOAD, 'pagos.csv'), 'wb'))
+writer_es = csv.writer(open(os.path.join(base_path, '..', 'data', 'es', 'municipio', YEAR_TO_LOAD, 'pagos.csv'), 'wb'))
 for index, line in enumerate(reader):
   if index==0:          # Ignore header line
       continue
