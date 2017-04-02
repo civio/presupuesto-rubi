@@ -6,7 +6,7 @@ import re
 import datetime
 
 # TODO: This shouldn't be hardcoded
-YEAR_TO_LOAD = '2016'
+YEAR_TO_LOAD = '2017'
 
 # Read functional categories from given file and return as a dictionary
 def read_functional_categories(filename):

@@ -7,7 +7,7 @@ import os.path
 base_path = os.path.dirname(os.path.realpath(__file__))
 
 # TODO: This shouldn't be hardcoded
-YEAR_TO_LOAD = '2016'
+YEAR_TO_LOAD = '2017'
 
 # Download income data
 # See https://opendata.rubi.cat/es/Finances-Municipals/Pressupost-municipal_Estat-d-execuci-d-ingressos/ds9h-xggj
