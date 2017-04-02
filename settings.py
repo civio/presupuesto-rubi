@@ -136,9 +136,11 @@ FEATURED_PROGRAMMES = ['1710', '3321', '1630', '2410', '3263', '3340', '3370', '
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'link_id': '11'
+                            'link_id': '11',
+                            'label_es': 'Sobre bienes inmuebles de naturaleza urbana',
+                            'label_ca': 'Sobre béns immobles de naturalesa urbana'
                           },
-                          '13', '42', '43', '45', '46', '30', '33', '34', '39']
+                          '13', '42', '45', '46', '30', '33', '34', '39']
 
 OVERVIEW_EXPENSE_NODES = ['23', '92', '13', '16', '15', '01', '33', '32', '43', '44', '91', '93', '17']
 
