@@ -137,8 +137,8 @@ OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
                             'link_id': '11',
-                            'label_es': 'Sobre bienes inmuebles de naturaleza urbana',
-                            'label_ca': 'Sobre béns immobles de naturalesa urbana'
+                            'label.es': 'Sobre bienes inmuebles de naturaleza urbana',
+                            'label.ca': 'Sobre béns immobles de naturalesa urbana'
                           },
                           '13', '42', '45', '46', '30', '33', '34', '39']
 
