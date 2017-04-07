@@ -6,7 +6,6 @@ $(document).ready(function(){
       'es': 'prorrogado',
       'ca': 'prorrogat'
     };
-    console.log('foo');
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){
       var val = $(this).html();
